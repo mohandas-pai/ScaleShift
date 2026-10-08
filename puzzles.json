@@ -1,0 +1,4902 @@
+[
+  {
+    "rounds": [
+      {
+        "a": "Boeing 777",
+        "b": "Nile crocodile",
+        "dimension": "length",
+        "aValue": 74,
+        "bValue": 5,
+        "ratio": 14.8,
+        "unit": "m"
+      },
+      {
+        "a": "Bamboo",
+        "b": "Sunflower",
+        "dimension": "height",
+        "aValue": 20,
+        "bValue": 3.5,
+        "ratio": 5.71,
+        "unit": "m"
+      },
+      {
+        "a": "Sea lion",
+        "b": "Bag of cement",
+        "dimension": "weight",
+        "aValue": 250,
+        "bValue": 25,
+        "ratio": 12.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Airbus A320",
+        "b": "Golden eagle",
+        "dimension": "wingspan",
+        "aValue": 35.8,
+        "bValue": 2.3,
+        "ratio": 16.27,
+        "unit": "m"
+      },
+      {
+        "a": "Humpback whale",
+        "b": "Anaconda",
+        "dimension": "length",
+        "aValue": 15,
+        "bValue": 6,
+        "ratio": 2.5,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Burj Khalifa",
+        "b": "Big Ben",
+        "dimension": "height",
+        "aValue": 827.52,
+        "bValue": 96,
+        "ratio": 8.62,
+        "unit": "m"
+      },
+      {
+        "a": "Pig",
+        "b": "Goat",
+        "dimension": "weight",
+        "aValue": 140.0,
+        "bValue": 70,
+        "ratio": 2.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Queen Mary 2",
+        "b": "Giant squid",
+        "dimension": "length",
+        "aValue": 318.48,
+        "bValue": 12,
+        "ratio": 26.54,
+        "unit": "m"
+      },
+      {
+        "a": "Dragonfly",
+        "b": "Monarch butterfly",
+        "dimension": "wingspan",
+        "aValue": 0.12,
+        "bValue": 0.1,
+        "ratio": 1.2,
+        "unit": "m"
+      },
+      {
+        "a": "Big Ben",
+        "b": "Bamboo",
+        "dimension": "height",
+        "aValue": 96.0,
+        "bValue": 20,
+        "ratio": 4.8,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Sheep",
+        "b": "Emperor penguin",
+        "dimension": "weight",
+        "aValue": 75.0,
+        "bValue": 30,
+        "ratio": 2.5,
+        "unit": "kg"
+      },
+      {
+        "a": "Queen Mary 2",
+        "b": "Great white shark",
+        "dimension": "length",
+        "aValue": 345.0,
+        "bValue": 6,
+        "ratio": 57.5,
+        "unit": "m"
+      },
+      {
+        "a": "Leaning Tower of Pisa",
+        "b": "Kangaroo",
+        "dimension": "height",
+        "aValue": 57.01,
+        "bValue": 1.8,
+        "ratio": 31.67,
+        "unit": "m"
+      },
+      {
+        "a": "Hang glider",
+        "b": "Flying fox",
+        "dimension": "wingspan",
+        "aValue": 11.34,
+        "bValue": 1.7,
+        "ratio": 6.67,
+        "unit": "m"
+      },
+      {
+        "a": "Shipping container",
+        "b": "Sea lion",
+        "dimension": "weight",
+        "aValue": 3167.5,
+        "bValue": 250,
+        "ratio": 12.67,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Tennis court",
+        "b": "Humpback whale",
+        "dimension": "length",
+        "aValue": 23.85,
+        "bValue": 15,
+        "ratio": 1.59,
+        "unit": "m"
+      },
+      {
+        "a": "Bat",
+        "b": "Hummingbird",
+        "dimension": "wingspan",
+        "aValue": 0.42,
+        "bValue": 0.1,
+        "ratio": 4.17,
+        "unit": "m"
+      },
+      {
+        "a": "Gateway Arch",
+        "b": "Big Ben",
+        "dimension": "height",
+        "aValue": 192.0,
+        "bValue": 96,
+        "ratio": 2.0,
+        "unit": "m"
+      },
+      {
+        "a": "Whale shark",
+        "b": "Crocodile",
+        "dimension": "weight",
+        "aValue": 15000,
+        "bValue": 400,
+        "ratio": 38.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Humpback whale",
+        "b": "City bus",
+        "dimension": "length",
+        "aValue": 15,
+        "bValue": 12,
+        "ratio": 1.25,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Golden eagle",
+        "b": "Heron",
+        "dimension": "wingspan",
+        "aValue": 2.2,
+        "bValue": 1.8,
+        "ratio": 1.22,
+        "unit": "m"
+      },
+      {
+        "a": "Leaning Tower of Pisa",
+        "b": "African elephant",
+        "dimension": "height",
+        "aValue": 55.26,
+        "bValue": 3.2,
+        "ratio": 17.27,
+        "unit": "m"
+      },
+      {
+        "a": "Boeing 747",
+        "b": "Limousine",
+        "dimension": "length",
+        "aValue": 70.7,
+        "bValue": 6,
+        "ratio": 11.83,
+        "unit": "m"
+      },
+      {
+        "a": "Rhino",
+        "b": "Sheep",
+        "dimension": "weight",
+        "aValue": 2300.25,
+        "bValue": 75,
+        "ratio": 30.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Pelican",
+        "b": "Crow",
+        "dimension": "wingspan",
+        "aValue": 2.9,
+        "bValue": 1.0,
+        "ratio": 2.9,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Boeing 747",
+        "b": "Volkswagen Golf",
+        "dimension": "length",
+        "aValue": 70.7,
+        "bValue": 4.3,
+        "ratio": 16.51,
+        "unit": "m"
+      },
+      {
+        "a": "Christ the Redeemer",
+        "b": "Giant panda",
+        "dimension": "height",
+        "aValue": 38.0,
+        "bValue": 1.2,
+        "ratio": 31.67,
+        "unit": "m"
+      },
+      {
+        "a": "Refrigerator",
+        "b": "Emperor penguin",
+        "dimension": "weight",
+        "aValue": 80.1,
+        "bValue": 30,
+        "ratio": 2.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 747",
+        "b": "Golden eagle",
+        "dimension": "wingspan",
+        "aValue": 68.4,
+        "bValue": 2.3,
+        "ratio": 29.27,
+        "unit": "m"
+      },
+      {
+        "a": "Blue whale",
+        "b": "Komodo dragon",
+        "dimension": "length",
+        "aValue": 26,
+        "bValue": 3,
+        "ratio": 8.33,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Sagrada Familia",
+        "b": "Moose",
+        "dimension": "height",
+        "aValue": 171.99,
+        "bValue": 2.1,
+        "ratio": 81.9,
+        "unit": "m"
+      },
+      {
+        "a": "African elephant",
+        "b": "Rhino",
+        "dimension": "weight",
+        "aValue": 5497.0,
+        "bValue": 2300,
+        "ratio": 2.39,
+        "unit": "kg"
+      },
+      {
+        "a": "Nile River",
+        "b": "Golden Gate Bridge",
+        "dimension": "length",
+        "aValue": 6650.91,
+        "bValue": 2737,
+        "ratio": 2.43,
+        "unit": "m"
+      },
+      {
+        "a": "Golden eagle",
+        "b": "Great horned owl",
+        "dimension": "wingspan",
+        "aValue": 2.2,
+        "bValue": 1.4,
+        "ratio": 1.57,
+        "unit": "m"
+      },
+      {
+        "a": "Mont Blanc",
+        "b": "Taipei 101",
+        "dimension": "height",
+        "aValue": 4810.76,
+        "bValue": 508,
+        "ratio": 9.47,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Tesla Model 3",
+        "b": "Giraffe",
+        "dimension": "weight",
+        "aValue": 1800,
+        "bValue": 900,
+        "ratio": 1.8,
+        "unit": "kg"
+      },
+      {
+        "a": "Sperm whale",
+        "b": "African elephant",
+        "dimension": "length",
+        "aValue": 18,
+        "bValue": 6,
+        "ratio": 2.77,
+        "unit": "m"
+      },
+      {
+        "a": "Kangaroo",
+        "b": "Dog",
+        "dimension": "height",
+        "aValue": 1.8,
+        "bValue": 0.6,
+        "ratio": 3.0,
+        "unit": "m"
+      },
+      {
+        "a": "B-52 bomber",
+        "b": "California condor",
+        "dimension": "wingspan",
+        "aValue": 56.4,
+        "bValue": 3.0,
+        "ratio": 18.8,
+        "unit": "m"
+      },
+      {
+        "a": "Great dane",
+        "b": "Human brain",
+        "dimension": "weight",
+        "aValue": 4643.0,
+        "bValue": 100,
+        "ratio": 46.43,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Komodo dragon",
+        "b": "Horse",
+        "dimension": "length",
+        "aValue": 3.0,
+        "bValue": 2.4,
+        "ratio": 1.25,
+        "unit": "m"
+      },
+      {
+        "a": "Concorde",
+        "b": "Glider",
+        "dimension": "wingspan",
+        "aValue": 25.6,
+        "bValue": 18,
+        "ratio": 1.71,
+        "unit": "m"
+      },
+      {
+        "a": "Moose",
+        "b": "Llama",
+        "dimension": "height",
+        "aValue": 1.4,
+        "bValue": 1.2,
+        "ratio": 1.17,
+        "unit": "m"
+      },
+      {
+        "a": "Small car",
+        "b": "Orangutan",
+        "dimension": "weight",
+        "aValue": 1100.0,
+        "bValue": 80,
+        "ratio": 13.75,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 747",
+        "b": "Tesla Model 3",
+        "dimension": "length",
+        "aValue": 70.7,
+        "bValue": 4.7,
+        "ratio": 15.11,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Airbus A380",
+        "b": "B-52 bomber",
+        "dimension": "wingspan",
+        "aValue": 79.8,
+        "bValue": 56.4,
+        "ratio": 1.41,
+        "unit": "m"
+      },
+      {
+        "a": "Coconut palm",
+        "b": "Kangaroo",
+        "dimension": "height",
+        "aValue": 25.0,
+        "bValue": 1.8,
+        "ratio": 13.89,
+        "unit": "m"
+      },
+      {
+        "a": "Rhine",
+        "b": "Starship",
+        "dimension": "length",
+        "aValue": 508.5,
+        "bValue": 50,
+        "ratio": 10.17,
+        "unit": "m"
+      },
+      {
+        "a": "Whale shark",
+        "b": "African elephant",
+        "dimension": "weight",
+        "aValue": 15000,
+        "bValue": 6000,
+        "ratio": 3.45,
+        "unit": "kg"
+      },
+      {
+        "a": "California condor",
+        "b": "Mute swan",
+        "dimension": "wingspan",
+        "aValue": 3.0,
+        "bValue": 2.4,
+        "ratio": 1.25,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Amazon River",
+        "b": "Boeing 777",
+        "dimension": "length",
+        "aValue": 6400.26,
+        "bValue": 74,
+        "ratio": 86.49,
+        "unit": "m"
+      },
+      {
+        "a": "Christ the Redeemer",
+        "b": "Llama",
+        "dimension": "height",
+        "aValue": 25.33,
+        "bValue": 1.2,
+        "ratio": 21.11,
+        "unit": "m"
+      },
+      {
+        "a": "Sea lion",
+        "b": "Pig",
+        "dimension": "weight",
+        "aValue": 250,
+        "bValue": 100,
+        "ratio": 2.5,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 777",
+        "b": "Cessna 172",
+        "dimension": "wingspan",
+        "aValue": 64.8,
+        "bValue": 11.0,
+        "ratio": 5.89,
+        "unit": "m"
+      },
+      {
+        "a": "Starship",
+        "b": "Airbus A320",
+        "dimension": "length",
+        "aValue": 121.07,
+        "bValue": 37.6,
+        "ratio": 3.22,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Sunflower",
+        "b": "Emperor penguin",
+        "dimension": "height",
+        "aValue": 3.5,
+        "bValue": 1.2,
+        "ratio": 2.92,
+        "unit": "m"
+      },
+      {
+        "a": "Fire truck",
+        "b": "School bus",
+        "dimension": "weight",
+        "aValue": 13600.0,
+        "bValue": 10000,
+        "ratio": 1.36,
+        "unit": "kg"
+      },
+      {
+        "a": "Amazon River",
+        "b": "Rhine",
+        "dimension": "length",
+        "aValue": 6396.0,
+        "bValue": 1230,
+        "ratio": 5.2,
+        "unit": "m"
+      },
+      {
+        "a": "Pelican",
+        "b": "Dragonfly",
+        "dimension": "wingspan",
+        "aValue": 2.9,
+        "bValue": 0.12,
+        "ratio": 24.17,
+        "unit": "m"
+      },
+      {
+        "a": "Baobab tree",
+        "b": "Nile crocodile",
+        "dimension": "height",
+        "aValue": 7.5,
+        "bValue": 0.5,
+        "ratio": 15.0,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Goat",
+        "b": "Bag of cement",
+        "dimension": "weight",
+        "aValue": 60.0,
+        "bValue": 25,
+        "ratio": 2.4,
+        "unit": "kg"
+      },
+      {
+        "a": "Titanic",
+        "b": "City bus",
+        "dimension": "length",
+        "aValue": 269.04,
+        "bValue": 12,
+        "ratio": 22.42,
+        "unit": "m"
+      },
+      {
+        "a": "Sunflower",
+        "b": "Llama",
+        "dimension": "height",
+        "aValue": 3.5,
+        "bValue": 1.2,
+        "ratio": 1.94,
+        "unit": "m"
+      },
+      {
+        "a": "Hang glider",
+        "b": "Barn owl",
+        "dimension": "wingspan",
+        "aValue": 9.09,
+        "bValue": 1.0,
+        "ratio": 9.09,
+        "unit": "m"
+      },
+      {
+        "a": "Great white shark",
+        "b": "Sheep",
+        "dimension": "weight",
+        "aValue": 1100,
+        "bValue": 75,
+        "ratio": 14.67,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Basketball court",
+        "b": "Fire truck",
+        "dimension": "length",
+        "aValue": 47850.0,
+        "bValue": 15000,
+        "ratio": 3.19,
+        "unit": "m"
+      },
+      {
+        "a": "Bald eagle",
+        "b": "Bat",
+        "dimension": "wingspan",
+        "aValue": 6.9,
+        "bValue": 1.5,
+        "ratio": 4.6,
+        "unit": "m"
+      },
+      {
+        "a": "Gateway Arch",
+        "b": "Sunflower",
+        "dimension": "height",
+        "aValue": 192.01,
+        "bValue": 3.5,
+        "ratio": 54.86,
+        "unit": "m"
+      },
+      {
+        "a": "Crocodile",
+        "b": "Giant squid",
+        "dimension": "weight",
+        "aValue": 400,
+        "bValue": 300,
+        "ratio": 1.82,
+        "unit": "kg"
+      },
+      {
+        "a": "Pan-American Highway",
+        "b": "Empire State Building",
+        "dimension": "length",
+        "aValue": 29999.96,
+        "bValue": 443,
+        "ratio": 67.72,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Boeing 747",
+        "b": "B-2 Spirit",
+        "dimension": "wingspan",
+        "aValue": 68.4,
+        "bValue": 52.4,
+        "ratio": 1.23,
+        "unit": "m"
+      },
+      {
+        "a": "African elephant",
+        "b": "Adult human",
+        "dimension": "height",
+        "aValue": 3.21,
+        "bValue": 1.7,
+        "ratio": 1.89,
+        "unit": "m"
+      },
+      {
+        "a": "Basketball court",
+        "b": "City bus",
+        "dimension": "length",
+        "aValue": 28.68,
+        "bValue": 12,
+        "ratio": 2.39,
+        "unit": "m"
+      },
+      {
+        "a": "Giraffe",
+        "b": "Small car engine",
+        "dimension": "weight",
+        "aValue": 1000.5,
+        "bValue": 150,
+        "ratio": 6.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Airbus A380",
+        "b": "Boeing 747",
+        "dimension": "wingspan",
+        "aValue": 79.8,
+        "bValue": 68.4,
+        "ratio": 1.24,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "F-16 fighter jet",
+        "b": "Ambulance",
+        "dimension": "length",
+        "aValue": 15,
+        "bValue": 3500,
+        "ratio": 2.31,
+        "unit": "m"
+      },
+      {
+        "a": "Aconcagua",
+        "b": "Big Ben",
+        "dimension": "height",
+        "aValue": 6960.96,
+        "bValue": 96,
+        "ratio": 72.51,
+        "unit": "m"
+      },
+      {
+        "a": "Blue whale heart",
+        "b": "Medium dog",
+        "dimension": "weight",
+        "aValue": 180.0,
+        "bValue": 20,
+        "ratio": 9.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Cessna 172",
+        "b": "Great horned owl",
+        "dimension": "wingspan",
+        "aValue": 11.0,
+        "bValue": 1.4,
+        "ratio": 7.86,
+        "unit": "m"
+      },
+      {
+        "a": "Rhine",
+        "b": "Sperm whale",
+        "dimension": "length",
+        "aValue": 1229.94,
+        "bValue": 18,
+        "ratio": 68.33,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Christ the Redeemer",
+        "b": "Adult human",
+        "dimension": "height",
+        "aValue": 36.91,
+        "bValue": 1.7,
+        "ratio": 21.71,
+        "unit": "m"
+      },
+      {
+        "a": "Saturn V",
+        "b": "Blue whale",
+        "dimension": "weight",
+        "aValue": 2900400.0,
+        "bValue": 120000,
+        "ratio": 24.17,
+        "unit": "kg"
+      },
+      {
+        "a": "Queen Mary 2",
+        "b": "Nile crocodile",
+        "dimension": "length",
+        "aValue": 345.0,
+        "bValue": 5,
+        "ratio": 69.0,
+        "unit": "m"
+      },
+      {
+        "a": "Bald eagle",
+        "b": "Heron",
+        "dimension": "wingspan",
+        "aValue": 2.3,
+        "bValue": 1.8,
+        "ratio": 1.28,
+        "unit": "m"
+      },
+      {
+        "a": "Adult human",
+        "b": "Emperor penguin",
+        "dimension": "height",
+        "aValue": 1.7,
+        "bValue": 1.2,
+        "ratio": 1.46,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Walrus",
+        "b": "Grizzly bear",
+        "dimension": "weight",
+        "aValue": 1000,
+        "bValue": 300,
+        "ratio": 2.78,
+        "unit": "kg"
+      },
+      {
+        "a": "Horse",
+        "b": "Emperor penguin",
+        "dimension": "length",
+        "aValue": 2.2,
+        "bValue": 1.1,
+        "ratio": 2.0,
+        "unit": "m"
+      },
+      {
+        "a": "Bamboo",
+        "b": "Polar bear",
+        "dimension": "height",
+        "aValue": 20,
+        "bValue": 1.6,
+        "ratio": 12.5,
+        "unit": "m"
+      },
+      {
+        "a": "B-2 Spirit",
+        "b": "Albatross",
+        "dimension": "wingspan",
+        "aValue": 52.4,
+        "bValue": 3.5,
+        "ratio": 14.97,
+        "unit": "m"
+      },
+      {
+        "a": "Ostrich",
+        "b": "Orangutan",
+        "dimension": "weight",
+        "aValue": 100.0,
+        "bValue": 80,
+        "ratio": 1.25,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Football field",
+        "b": "Giant panda",
+        "dimension": "length",
+        "aValue": 109.69,
+        "bValue": 1.8,
+        "ratio": 60.94,
+        "unit": "m"
+      },
+      {
+        "a": "Hummingbird",
+        "b": "Monarch butterfly",
+        "dimension": "wingspan",
+        "aValue": 0.12,
+        "bValue": 0.1,
+        "ratio": 1.2,
+        "unit": "m"
+      },
+      {
+        "a": "Leaning Tower of Pisa",
+        "b": "Horse",
+        "dimension": "height",
+        "aValue": 56.99,
+        "bValue": 1.6,
+        "ratio": 35.62,
+        "unit": "m"
+      },
+      {
+        "a": "African elephant",
+        "b": "Pig",
+        "dimension": "weight",
+        "aValue": 4583.0,
+        "bValue": 100,
+        "ratio": 45.83,
+        "unit": "kg"
+      },
+      {
+        "a": "Millennium Bridge",
+        "b": "Pickup truck",
+        "dimension": "length",
+        "aValue": 325.0,
+        "bValue": 5.5,
+        "ratio": 59.09,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Glider",
+        "b": "Golden eagle",
+        "dimension": "wingspan",
+        "aValue": 15.69,
+        "bValue": 2.3,
+        "ratio": 6.82,
+        "unit": "m"
+      },
+      {
+        "a": "Statue of Liberty",
+        "b": "Giraffe",
+        "dimension": "height",
+        "aValue": 93.0,
+        "bValue": 5.5,
+        "ratio": 16.91,
+        "unit": "m"
+      },
+      {
+        "a": "Rhine",
+        "b": "Basketball court",
+        "dimension": "length",
+        "aValue": 1200.08,
+        "bValue": 28,
+        "ratio": 42.86,
+        "unit": "m"
+      },
+      {
+        "a": "Grizzly bear",
+        "b": "Bag of cement",
+        "dimension": "weight",
+        "aValue": 360.0,
+        "bValue": 25,
+        "ratio": 14.4,
+        "unit": "kg"
+      },
+      {
+        "a": "Hang glider",
+        "b": "Bat",
+        "dimension": "wingspan",
+        "aValue": 30.0,
+        "bValue": 1.5,
+        "ratio": 20.0,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Great Wall of China",
+        "b": "Yangtze River",
+        "dimension": "length",
+        "aValue": 21168.0,
+        "bValue": 6300,
+        "ratio": 3.36,
+        "unit": "m"
+      },
+      {
+        "a": "London Eye",
+        "b": "Grizzly bear",
+        "dimension": "height",
+        "aValue": 135.0,
+        "bValue": 1.5,
+        "ratio": 90.0,
+        "unit": "m"
+      },
+      {
+        "a": "Piano",
+        "b": "Baboon",
+        "dimension": "weight",
+        "aValue": 250.0,
+        "bValue": 25,
+        "ratio": 10.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 747",
+        "b": "Crow",
+        "dimension": "wingspan",
+        "aValue": 68.4,
+        "bValue": 1.0,
+        "ratio": 64.4,
+        "unit": "m"
+      },
+      {
+        "a": "Limousine",
+        "b": "Tesla Model 3",
+        "dimension": "length",
+        "aValue": 6.02,
+        "bValue": 4.7,
+        "ratio": 1.28,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Sunflower",
+        "b": "Domestic cat",
+        "dimension": "height",
+        "aValue": 3.5,
+        "bValue": 4,
+        "ratio": 14.0,
+        "unit": "m"
+      },
+      {
+        "a": "Shipping container",
+        "b": "Grizzly bear",
+        "dimension": "weight",
+        "aValue": 3168.0,
+        "bValue": 300,
+        "ratio": 10.56,
+        "unit": "kg"
+      },
+      {
+        "a": "Blue whale",
+        "b": "Polar bear",
+        "dimension": "length",
+        "aValue": 26,
+        "bValue": 2.5,
+        "ratio": 10.0,
+        "unit": "m"
+      },
+      {
+        "a": "California condor",
+        "b": "Heron",
+        "dimension": "wingspan",
+        "aValue": 3.01,
+        "bValue": 1.8,
+        "ratio": 1.67,
+        "unit": "m"
+      },
+      {
+        "a": "Statue of Liberty",
+        "b": "Moose",
+        "dimension": "height",
+        "aValue": 93.01,
+        "bValue": 2.1,
+        "ratio": 44.29,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Rhino",
+        "b": "Hippopotamus",
+        "dimension": "weight",
+        "aValue": 2295.0,
+        "bValue": 1500,
+        "ratio": 1.53,
+        "unit": "kg"
+      },
+      {
+        "a": "Millennium Bridge",
+        "b": "Airbus A320",
+        "dimension": "length",
+        "aValue": 324.86,
+        "bValue": 37.6,
+        "ratio": 8.64,
+        "unit": "m"
+      },
+      {
+        "a": "Gateway Arch",
+        "b": "Camel",
+        "dimension": "height",
+        "aValue": 192.0,
+        "bValue": 2.1,
+        "ratio": 91.43,
+        "unit": "m"
+      },
+      {
+        "a": "Concorde",
+        "b": "Snowy owl",
+        "dimension": "wingspan",
+        "aValue": 25.6,
+        "bValue": 1.6,
+        "ratio": 16.0,
+        "unit": "m"
+      },
+      {
+        "a": "Sea lion",
+        "b": "Orangutan",
+        "dimension": "weight",
+        "aValue": 250,
+        "bValue": 80,
+        "ratio": 3.75,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Giant squid",
+        "b": "Emperor penguin",
+        "dimension": "length",
+        "aValue": 12,
+        "bValue": 1.1,
+        "ratio": 10.83,
+        "unit": "m"
+      },
+      {
+        "a": "Cessna 172",
+        "b": "Golden eagle",
+        "dimension": "wingspan",
+        "aValue": 11.5,
+        "bValue": 2.3,
+        "ratio": 5.0,
+        "unit": "m"
+      },
+      {
+        "a": "Christ the Redeemer",
+        "b": "Ostrich",
+        "dimension": "height",
+        "aValue": 35.17,
+        "bValue": 2.5,
+        "ratio": 14.07,
+        "unit": "m"
+      },
+      {
+        "a": "Horse",
+        "b": "Medium dog",
+        "dimension": "weight",
+        "aValue": 500.0,
+        "bValue": 20,
+        "ratio": 25.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Mekong River",
+        "b": "Thames",
+        "dimension": "length",
+        "aValue": 4349.22,
+        "bValue": 346,
+        "ratio": 12.57,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "F-22 Raptor",
+        "b": "Snowy owl",
+        "dimension": "wingspan",
+        "aValue": 13.6,
+        "bValue": 1.6,
+        "ratio": 8.5,
+        "unit": "m"
+      },
+      {
+        "a": "Petronas Towers",
+        "b": "Giant sequoia",
+        "dimension": "height",
+        "aValue": 505.4,
+        "bValue": 95,
+        "ratio": 5.32,
+        "unit": "m"
+      },
+      {
+        "a": "Empire State Building",
+        "b": "Titanic",
+        "dimension": "length",
+        "aValue": 443.85,
+        "bValue": 269,
+        "ratio": 1.65,
+        "unit": "m"
+      },
+      {
+        "a": "Fire truck",
+        "b": "Crocodile",
+        "dimension": "weight",
+        "aValue": 12000.0,
+        "bValue": 400,
+        "ratio": 30.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 747",
+        "b": "F-22 Raptor",
+        "dimension": "wingspan",
+        "aValue": 68.4,
+        "bValue": 13.6,
+        "ratio": 4.74,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Space Shuttle orbiter",
+        "b": "Cheetah",
+        "dimension": "length",
+        "aValue": 37.01,
+        "bValue": 1.5,
+        "ratio": 24.67,
+        "unit": "m"
+      },
+      {
+        "a": "Douglas fir",
+        "b": "Giraffe",
+        "dimension": "height",
+        "aValue": 77.0,
+        "bValue": 5.5,
+        "ratio": 14.0,
+        "unit": "m"
+      },
+      {
+        "a": "Tesla Model 3",
+        "b": "Baboon",
+        "dimension": "weight",
+        "aValue": 1800,
+        "bValue": 25,
+        "ratio": 60.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Concorde",
+        "b": "Mute swan",
+        "dimension": "wingspan",
+        "aValue": 25.6,
+        "bValue": 2.4,
+        "ratio": 10.67,
+        "unit": "m"
+      },
+      {
+        "a": "Space Shuttle orbiter",
+        "b": "Polar bear",
+        "dimension": "length",
+        "aValue": 37.0,
+        "bValue": 2.5,
+        "ratio": 14.8,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Christ the Redeemer",
+        "b": "Red kangaroo",
+        "dimension": "height",
+        "aValue": 33.78,
+        "bValue": 1.6,
+        "ratio": 21.11,
+        "unit": "m"
+      },
+      {
+        "a": "Medium dog",
+        "b": "Chicken",
+        "dimension": "weight",
+        "aValue": 20.0,
+        "bValue": 2,
+        "ratio": 10.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Yangtze River",
+        "b": "Seine",
+        "dimension": "length",
+        "aValue": 6301.47,
+        "bValue": 777,
+        "ratio": 8.11,
+        "unit": "m"
+      },
+      {
+        "a": "B-2 Spirit",
+        "b": "Mute swan",
+        "dimension": "wingspan",
+        "aValue": 52.39,
+        "bValue": 2.4,
+        "ratio": 21.83,
+        "unit": "m"
+      },
+      {
+        "a": "Eucalyptus tree",
+        "b": "Emperor penguin",
+        "dimension": "height",
+        "aValue": 100.0,
+        "bValue": 1.2,
+        "ratio": 83.33,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Horse",
+        "b": "Small car engine",
+        "dimension": "weight",
+        "aValue": 499.5,
+        "bValue": 150,
+        "ratio": 3.33,
+        "unit": "kg"
+      },
+      {
+        "a": "African elephant",
+        "b": "Ostrich",
+        "dimension": "length",
+        "aValue": 5.06,
+        "bValue": 2.1,
+        "ratio": 2.41,
+        "unit": "m"
+      },
+      {
+        "a": "Sunflower",
+        "b": "Ostrich",
+        "dimension": "height",
+        "aValue": 3.5,
+        "bValue": 2.5,
+        "ratio": 1.3,
+        "unit": "m"
+      },
+      {
+        "a": "F-22 Raptor",
+        "b": "Albatross",
+        "dimension": "wingspan",
+        "aValue": 13.62,
+        "bValue": 3.5,
+        "ratio": 3.89,
+        "unit": "m"
+      },
+      {
+        "a": "Great dane",
+        "b": "Baboon",
+        "dimension": "weight",
+        "aValue": 54.25,
+        "bValue": 25,
+        "ratio": 2.17,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Humpback whale",
+        "b": "Coconut crab",
+        "dimension": "length",
+        "aValue": 15,
+        "bValue": 0.4,
+        "ratio": 37.5,
+        "unit": "m"
+      },
+      {
+        "a": "Boeing 737",
+        "b": "Crow",
+        "dimension": "wingspan",
+        "aValue": 35.8,
+        "bValue": 1.0,
+        "ratio": 35.8,
+        "unit": "m"
+      },
+      {
+        "a": "Kangaroo",
+        "b": "Domestic cat",
+        "dimension": "height",
+        "aValue": 28.8,
+        "bValue": 4,
+        "ratio": 7.2,
+        "unit": "m"
+      },
+      {
+        "a": "Fire truck",
+        "b": "Polar bear",
+        "dimension": "weight",
+        "aValue": 16665.0,
+        "bValue": 500,
+        "ratio": 33.33,
+        "unit": "kg"
+      },
+      {
+        "a": "Concorde",
+        "b": "Volkswagen Golf",
+        "dimension": "length",
+        "aValue": 62,
+        "bValue": 4.3,
+        "ratio": 14.42,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "B-52 bomber",
+        "b": "Pelican",
+        "dimension": "wingspan",
+        "aValue": 54.46,
+        "bValue": 2.8,
+        "ratio": 19.45,
+        "unit": "m"
+      },
+      {
+        "a": "Adult human",
+        "b": "Giant panda",
+        "dimension": "height",
+        "aValue": 1.7,
+        "bValue": 1.2,
+        "ratio": 1.46,
+        "unit": "m"
+      },
+      {
+        "a": "Golden Gate Bridge",
+        "b": "Millennium Bridge",
+        "dimension": "length",
+        "aValue": 84.2,
+        "bValue": 10,
+        "ratio": 8.42,
+        "unit": "m"
+      },
+      {
+        "a": "Chimpanzee",
+        "b": "Chicken",
+        "dimension": "weight",
+        "aValue": 50.0,
+        "bValue": 2,
+        "ratio": 25.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 747",
+        "b": "Wandering albatross",
+        "dimension": "wingspan",
+        "aValue": 68.4,
+        "bValue": 3.5,
+        "ratio": 17.41,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Boeing 777",
+        "b": "Giant panda",
+        "dimension": "length",
+        "aValue": 74,
+        "bValue": 1.8,
+        "ratio": 41.11,
+        "unit": "m"
+      },
+      {
+        "a": "Giant sequoia",
+        "b": "Adult human",
+        "dimension": "height",
+        "aValue": 82.57,
+        "bValue": 1.7,
+        "ratio": 48.57,
+        "unit": "m"
+      },
+      {
+        "a": "Sperm whale",
+        "b": "Fire truck",
+        "dimension": "weight",
+        "aValue": 50000,
+        "bValue": 15000,
+        "ratio": 3.33,
+        "unit": "kg"
+      },
+      {
+        "a": "Pelican",
+        "b": "Barn owl",
+        "dimension": "wingspan",
+        "aValue": 2.64,
+        "bValue": 1.0,
+        "ratio": 2.64,
+        "unit": "m"
+      },
+      {
+        "a": "Starship",
+        "b": "Tennis court",
+        "dimension": "length",
+        "aValue": 120.9,
+        "bValue": 23.8,
+        "ratio": 5.08,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Giraffe",
+        "b": "Dog",
+        "dimension": "height",
+        "aValue": 5.5,
+        "bValue": 0.6,
+        "ratio": 9.17,
+        "unit": "m"
+      },
+      {
+        "a": "Refrigerator",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 71.12,
+        "bValue": 4,
+        "ratio": 17.78,
+        "unit": "kg"
+      },
+      {
+        "a": "Titanic",
+        "b": "Orca",
+        "dimension": "length",
+        "aValue": 235.34,
+        "bValue": 7,
+        "ratio": 33.62,
+        "unit": "m"
+      },
+      {
+        "a": "Boeing 777",
+        "b": "Heron",
+        "dimension": "wingspan",
+        "aValue": 64.8,
+        "bValue": 1.8,
+        "ratio": 36.0,
+        "unit": "m"
+      },
+      {
+        "a": "Burj Khalifa",
+        "b": "Giant sequoia",
+        "dimension": "height",
+        "aValue": 925.3,
+        "bValue": 95,
+        "ratio": 9.74,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "City bus",
+        "b": "Blue whale heart",
+        "dimension": "weight",
+        "aValue": 12000,
+        "bValue": 180,
+        "ratio": 66.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Football field",
+        "b": "Airbus A320",
+        "dimension": "length",
+        "aValue": 109.79,
+        "bValue": 37.6,
+        "ratio": 2.92,
+        "unit": "m"
+      },
+      {
+        "a": "Denali",
+        "b": "Eucalyptus tree",
+        "dimension": "height",
+        "aValue": 3714.0,
+        "bValue": 60,
+        "ratio": 61.9,
+        "unit": "m"
+      },
+      {
+        "a": "Boeing 777",
+        "b": "Stork",
+        "dimension": "wingspan",
+        "aValue": 64.8,
+        "bValue": 2.0,
+        "ratio": 29.45,
+        "unit": "m"
+      },
+      {
+        "a": "Grizzly bear",
+        "b": "Piano",
+        "dimension": "weight",
+        "aValue": 360.0,
+        "bValue": 300,
+        "ratio": 1.2,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Thames",
+        "b": "Orca",
+        "dimension": "length",
+        "aValue": 302.75,
+        "bValue": 7,
+        "ratio": 43.25,
+        "unit": "m"
+      },
+      {
+        "a": "Glider",
+        "b": "Stork",
+        "dimension": "wingspan",
+        "aValue": 13.64,
+        "bValue": 2.0,
+        "ratio": 6.82,
+        "unit": "m"
+      },
+      {
+        "a": "Baobab tree",
+        "b": "Great dane",
+        "dimension": "height",
+        "aValue": 1312.5,
+        "bValue": 70,
+        "ratio": 18.75,
+        "unit": "m"
+      },
+      {
+        "a": "Kangaroo",
+        "b": "Baboon",
+        "dimension": "weight",
+        "aValue": 58.25,
+        "bValue": 25,
+        "ratio": 2.33,
+        "unit": "kg"
+      },
+      {
+        "a": "Sperm whale",
+        "b": "Humpback whale",
+        "dimension": "length",
+        "aValue": 18,
+        "bValue": 15,
+        "ratio": 1.2,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Great horned owl",
+        "b": "Hummingbird",
+        "dimension": "wingspan",
+        "aValue": 1.17,
+        "bValue": 0.1,
+        "ratio": 11.67,
+        "unit": "m"
+      },
+      {
+        "a": "Olympus Mons",
+        "b": "Mount Everest",
+        "dimension": "height",
+        "aValue": 22034.01,
+        "bValue": 8849,
+        "ratio": 2.49,
+        "unit": "m"
+      },
+      {
+        "a": "Airbus A320",
+        "b": "Pickup truck",
+        "dimension": "length",
+        "aValue": 37.6,
+        "bValue": 5.5,
+        "ratio": 6.84,
+        "unit": "m"
+      },
+      {
+        "a": "Rhino",
+        "b": "Giraffe",
+        "dimension": "weight",
+        "aValue": 2070.0,
+        "bValue": 900,
+        "ratio": 2.3,
+        "unit": "kg"
+      },
+      {
+        "a": "California condor",
+        "b": "Bat",
+        "dimension": "wingspan",
+        "aValue": 9.0,
+        "bValue": 1.5,
+        "ratio": 6.0,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Double-decker bus",
+        "b": "Emperor penguin",
+        "dimension": "length",
+        "aValue": 11,
+        "bValue": 1.1,
+        "ratio": 9.17,
+        "unit": "m"
+      },
+      {
+        "a": "Taipei 101",
+        "b": "Big Ben",
+        "dimension": "height",
+        "aValue": 507.84,
+        "bValue": 96,
+        "ratio": 5.29,
+        "unit": "m"
+      },
+      {
+        "a": "Ostrich",
+        "b": "Koala",
+        "dimension": "weight",
+        "aValue": 100.0,
+        "bValue": 10,
+        "ratio": 10.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Barn owl",
+        "b": "Butterfly",
+        "dimension": "wingspan",
+        "aValue": 0.55,
+        "bValue": 0.15,
+        "ratio": 3.67,
+        "unit": "m"
+      },
+      {
+        "a": "Olympic swimming pool",
+        "b": "School bus",
+        "dimension": "length",
+        "aValue": 50.04,
+        "bValue": 12,
+        "ratio": 4.17,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Oak tree",
+        "b": "Kangaroo",
+        "dimension": "height",
+        "aValue": 20.0,
+        "bValue": 1.8,
+        "ratio": 11.11,
+        "unit": "m"
+      },
+      {
+        "a": "Pig",
+        "b": "Baboon",
+        "dimension": "weight",
+        "aValue": 100.0,
+        "bValue": 25,
+        "ratio": 4.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Nile crocodile",
+        "b": "Kangaroo",
+        "dimension": "length",
+        "aValue": 5,
+        "bValue": 2.8,
+        "ratio": 1.79,
+        "unit": "m"
+      },
+      {
+        "a": "B-2 Spirit",
+        "b": "Airbus A320",
+        "dimension": "wingspan",
+        "aValue": 52.27,
+        "bValue": 35.8,
+        "ratio": 1.46,
+        "unit": "m"
+      },
+      {
+        "a": "Kangchenjunga",
+        "b": "Great Pyramid of Giza",
+        "dimension": "height",
+        "aValue": 8586.03,
+        "bValue": 139,
+        "ratio": 61.77,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "City bus",
+        "b": "Hippopotamus",
+        "dimension": "weight",
+        "aValue": 12000,
+        "bValue": 1500,
+        "ratio": 8.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Millennium Bridge",
+        "b": "Orca",
+        "dimension": "length",
+        "aValue": 284.34,
+        "bValue": 7,
+        "ratio": 40.62,
+        "unit": "m"
+      },
+      {
+        "a": "Eiffel Tower",
+        "b": "Bamboo",
+        "dimension": "height",
+        "aValue": 330.0,
+        "bValue": 20,
+        "ratio": 16.5,
+        "unit": "m"
+      },
+      {
+        "a": "Flying fox",
+        "b": "Monarch butterfly",
+        "dimension": "wingspan",
+        "aValue": 1.5,
+        "bValue": 0.1,
+        "ratio": 15.0,
+        "unit": "m"
+      },
+      {
+        "a": "Fire truck",
+        "b": "Rhino",
+        "dimension": "weight",
+        "aValue": 14996.0,
+        "bValue": 2300,
+        "ratio": 6.52,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Space Shuttle orbiter",
+        "b": "Basketball court",
+        "dimension": "length",
+        "aValue": 36.12,
+        "bValue": 28,
+        "ratio": 1.29,
+        "unit": "m"
+      },
+      {
+        "a": "Boeing 737",
+        "b": "Swan",
+        "dimension": "wingspan",
+        "aValue": 35.81,
+        "bValue": 2.4,
+        "ratio": 14.92,
+        "unit": "m"
+      },
+      {
+        "a": "Statue of Liberty",
+        "b": "Emperor penguin",
+        "dimension": "height",
+        "aValue": 93.0,
+        "bValue": 1.2,
+        "ratio": 77.5,
+        "unit": "m"
+      },
+      {
+        "a": "Gorilla",
+        "b": "Adult human",
+        "dimension": "weight",
+        "aValue": 170.4,
+        "bValue": 80,
+        "ratio": 2.13,
+        "unit": "kg"
+      },
+      {
+        "a": "Seine",
+        "b": "Airbus A380",
+        "dimension": "length",
+        "aValue": 773.53,
+        "bValue": 72.7,
+        "ratio": 10.64,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Heron",
+        "b": "Hummingbird",
+        "dimension": "wingspan",
+        "aValue": 1.5,
+        "bValue": 0.1,
+        "ratio": 15.0,
+        "unit": "m"
+      },
+      {
+        "a": "K2",
+        "b": "One World Trade Center",
+        "dimension": "height",
+        "aValue": 8612.72,
+        "bValue": 541,
+        "ratio": 15.92,
+        "unit": "m"
+      },
+      {
+        "a": "Tennis court",
+        "b": "Polar bear",
+        "dimension": "length",
+        "aValue": 23.8,
+        "bValue": 2.5,
+        "ratio": 9.52,
+        "unit": "m"
+      },
+      {
+        "a": "City bus",
+        "b": "Gorilla",
+        "dimension": "weight",
+        "aValue": 12000,
+        "bValue": 160,
+        "ratio": 75.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Mute swan",
+        "b": "Butterfly",
+        "dimension": "wingspan",
+        "aValue": 1.2,
+        "bValue": 0.15,
+        "ratio": 8.0,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Space Shuttle orbiter",
+        "b": "Volkswagen Golf",
+        "dimension": "length",
+        "aValue": 36.98,
+        "bValue": 4.3,
+        "ratio": 8.6,
+        "unit": "m"
+      },
+      {
+        "a": "Empire State Building",
+        "b": "Giant sequoia",
+        "dimension": "height",
+        "aValue": 494.95,
+        "bValue": 95,
+        "ratio": 5.21,
+        "unit": "m"
+      },
+      {
+        "a": "Fire truck",
+        "b": "Horse",
+        "dimension": "weight",
+        "aValue": 15000.0,
+        "bValue": 500,
+        "ratio": 30.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 777",
+        "b": "F-22 Raptor",
+        "dimension": "wingspan",
+        "aValue": 64.8,
+        "bValue": 13.6,
+        "ratio": 4.76,
+        "unit": "m"
+      },
+      {
+        "a": "Danube",
+        "b": "Football field",
+        "dimension": "length",
+        "aValue": 2598.0,
+        "bValue": 100,
+        "ratio": 25.98,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "One World Trade Center",
+        "b": "Statue of Liberty",
+        "dimension": "height",
+        "aValue": 541.26,
+        "bValue": 93,
+        "ratio": 5.82,
+        "unit": "m"
+      },
+      {
+        "a": "Sheep",
+        "b": "Bag of cement",
+        "dimension": "weight",
+        "aValue": 75.0,
+        "bValue": 25,
+        "ratio": 3.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Humpback whale",
+        "b": "Nile crocodile",
+        "dimension": "length",
+        "aValue": 15,
+        "bValue": 5,
+        "ratio": 3.0,
+        "unit": "m"
+      },
+      {
+        "a": "Boeing 777",
+        "b": "Snowy owl",
+        "dimension": "wingspan",
+        "aValue": 64.8,
+        "bValue": 1.6,
+        "ratio": 40.5,
+        "unit": "m"
+      },
+      {
+        "a": "London Eye",
+        "b": "Leaning Tower of Pisa",
+        "dimension": "height",
+        "aValue": 135.09,
+        "bValue": 57,
+        "ratio": 2.37,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Polar bear",
+        "b": "Giant panda",
+        "dimension": "weight",
+        "aValue": 450.0,
+        "bValue": 100,
+        "ratio": 4.5,
+        "unit": "kg"
+      },
+      {
+        "a": "Horse",
+        "b": "Coconut crab",
+        "dimension": "length",
+        "aValue": 2.4,
+        "bValue": 0.4,
+        "ratio": 6.0,
+        "unit": "m"
+      },
+      {
+        "a": "Leaning Tower of Pisa",
+        "b": "Oak tree",
+        "dimension": "height",
+        "aValue": 71.25,
+        "bValue": 25,
+        "ratio": 2.85,
+        "unit": "m"
+      },
+      {
+        "a": "F-16 fighter jet",
+        "b": "Mute swan",
+        "dimension": "wingspan",
+        "aValue": 10,
+        "bValue": 2.4,
+        "ratio": 4.15,
+        "unit": "m"
+      },
+      {
+        "a": "Great white shark",
+        "b": "Baboon",
+        "dimension": "weight",
+        "aValue": 1100,
+        "bValue": 25,
+        "ratio": 36.67,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Boeing 747",
+        "b": "Airbus A320",
+        "dimension": "length",
+        "aValue": 70.7,
+        "bValue": 37.6,
+        "ratio": 1.89,
+        "unit": "m"
+      },
+      {
+        "a": "Glider",
+        "b": "Flying fox",
+        "dimension": "wingspan",
+        "aValue": 17.0,
+        "bValue": 1.7,
+        "ratio": 10.0,
+        "unit": "m"
+      },
+      {
+        "a": "Tokyo Skytree",
+        "b": "Gateway Arch",
+        "dimension": "height",
+        "aValue": 633.6,
+        "bValue": 192,
+        "ratio": 3.3,
+        "unit": "m"
+      },
+      {
+        "a": "Horse",
+        "b": "Pig",
+        "dimension": "weight",
+        "aValue": 417.0,
+        "bValue": 100,
+        "ratio": 4.17,
+        "unit": "kg"
+      },
+      {
+        "a": "Danube",
+        "b": "Eiffel Tower",
+        "dimension": "length",
+        "aValue": 2851.2,
+        "bValue": 330,
+        "ratio": 8.64,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Airbus A380",
+        "b": "Flying fox",
+        "dimension": "wingspan",
+        "aValue": 79.8,
+        "bValue": 1.7,
+        "ratio": 53.2,
+        "unit": "m"
+      },
+      {
+        "a": "Space Needle",
+        "b": "African elephant",
+        "dimension": "height",
+        "aValue": 178.43,
+        "bValue": 3.2,
+        "ratio": 55.76,
+        "unit": "m"
+      },
+      {
+        "a": "Great Wall of China",
+        "b": "Millennium Bridge",
+        "dimension": "length",
+        "aValue": 652.2,
+        "bValue": 10,
+        "ratio": 65.22,
+        "unit": "m"
+      },
+      {
+        "a": "Pig",
+        "b": "Emperor penguin",
+        "dimension": "weight",
+        "aValue": 120.0,
+        "bValue": 30,
+        "ratio": 4.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Barn owl",
+        "b": "Hummingbird",
+        "dimension": "wingspan",
+        "aValue": 0.92,
+        "bValue": 0.1,
+        "ratio": 9.17,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Orca",
+        "b": "Emperor penguin",
+        "dimension": "length",
+        "aValue": 7.34,
+        "bValue": 1.1,
+        "ratio": 6.67,
+        "unit": "m"
+      },
+      {
+        "a": "CN Tower",
+        "b": "Leaning Tower of Pisa",
+        "dimension": "height",
+        "aValue": 552.9,
+        "bValue": 57,
+        "ratio": 9.7,
+        "unit": "m"
+      },
+      {
+        "a": "Cow",
+        "b": "Giant panda",
+        "dimension": "weight",
+        "aValue": 650.0,
+        "bValue": 100,
+        "ratio": 6.5,
+        "unit": "kg"
+      },
+      {
+        "a": "Golden eagle",
+        "b": "Dragonfly",
+        "dimension": "wingspan",
+        "aValue": 2.2,
+        "bValue": 0.12,
+        "ratio": 18.33,
+        "unit": "m"
+      },
+      {
+        "a": "Olympic swimming pool",
+        "b": "Giant panda",
+        "dimension": "length",
+        "aValue": 50.0,
+        "bValue": 1.8,
+        "ratio": 27.78,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Baobab tree",
+        "b": "Kangaroo",
+        "dimension": "height",
+        "aValue": 14.99,
+        "bValue": 1.8,
+        "ratio": 8.33,
+        "unit": "m"
+      },
+      {
+        "a": "Polar bear",
+        "b": "Adult human",
+        "dimension": "weight",
+        "aValue": 480.0,
+        "bValue": 80,
+        "ratio": 6.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Blue whale",
+        "b": "Double-decker bus",
+        "dimension": "length",
+        "aValue": 26,
+        "bValue": 11,
+        "ratio": 2.27,
+        "unit": "m"
+      },
+      {
+        "a": "F-22 Raptor",
+        "b": "Crow",
+        "dimension": "wingspan",
+        "aValue": 13.6,
+        "bValue": 1.0,
+        "ratio": 13.6,
+        "unit": "m"
+      },
+      {
+        "a": "Baobab tree",
+        "b": "Giraffe",
+        "dimension": "height",
+        "aValue": 15.02,
+        "bValue": 5.5,
+        "ratio": 2.73,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Piano",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 266.68,
+        "bValue": 4,
+        "ratio": 66.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Blue whale",
+        "b": "F-16 fighter jet",
+        "dimension": "length",
+        "aValue": 26,
+        "bValue": 15,
+        "ratio": 1.67,
+        "unit": "m"
+      },
+      {
+        "a": "London Eye",
+        "b": "Camel",
+        "dimension": "height",
+        "aValue": 135.01,
+        "bValue": 2.1,
+        "ratio": 64.29,
+        "unit": "m"
+      },
+      {
+        "a": "Great horned owl",
+        "b": "Dragonfly",
+        "dimension": "wingspan",
+        "aValue": 1.4,
+        "bValue": 0.12,
+        "ratio": 11.67,
+        "unit": "m"
+      },
+      {
+        "a": "Washing machine",
+        "b": "Bag of cement",
+        "dimension": "weight",
+        "aValue": 70.0,
+        "bValue": 25,
+        "ratio": 2.8,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Concorde",
+        "b": "Great white shark",
+        "dimension": "length",
+        "aValue": 62,
+        "bValue": 6,
+        "ratio": 10.33,
+        "unit": "m"
+      },
+      {
+        "a": "Cessna 172",
+        "b": "Crow",
+        "dimension": "wingspan",
+        "aValue": 11.0,
+        "bValue": 1.0,
+        "ratio": 11.0,
+        "unit": "m"
+      },
+      {
+        "a": "Baobab tree",
+        "b": "Llama",
+        "dimension": "height",
+        "aValue": 10.0,
+        "bValue": 1.2,
+        "ratio": 8.33,
+        "unit": "m"
+      },
+      {
+        "a": "Grizzly bear",
+        "b": "Giant panda",
+        "dimension": "weight",
+        "aValue": 360.0,
+        "bValue": 100,
+        "ratio": 3.6,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 747",
+        "b": "Polar bear",
+        "dimension": "length",
+        "aValue": 70.7,
+        "bValue": 2.5,
+        "ratio": 28.4,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "F-22 Raptor",
+        "b": "Wandering albatross",
+        "dimension": "wingspan",
+        "aValue": 12.88,
+        "bValue": 3.5,
+        "ratio": 3.68,
+        "unit": "m"
+      },
+      {
+        "a": "Petronas Towers",
+        "b": "Big Ben",
+        "dimension": "height",
+        "aValue": 452.16,
+        "bValue": 96,
+        "ratio": 4.71,
+        "unit": "m"
+      },
+      {
+        "a": "Danube",
+        "b": "Olympic swimming pool",
+        "dimension": "length",
+        "aValue": 2850.0,
+        "bValue": 50,
+        "ratio": 57.0,
+        "unit": "m"
+      },
+      {
+        "a": "Airbus A380",
+        "b": "School bus",
+        "dimension": "weight",
+        "aValue": 277000,
+        "bValue": 10000,
+        "ratio": 52.27,
+        "unit": "kg"
+      },
+      {
+        "a": "Hang glider",
+        "b": "Pelican",
+        "dimension": "wingspan",
+        "aValue": 9.66,
+        "bValue": 2.8,
+        "ratio": 3.45,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Brooklyn Bridge",
+        "b": "Football field",
+        "dimension": "length",
+        "aValue": 1664.0,
+        "bValue": 100,
+        "ratio": 16.64,
+        "unit": "m"
+      },
+      {
+        "a": "Big Ben",
+        "b": "Douglas fir",
+        "dimension": "height",
+        "aValue": 93.75,
+        "bValue": 75,
+        "ratio": 1.25,
+        "unit": "m"
+      },
+      {
+        "a": "Ostrich",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 88.88,
+        "bValue": 4,
+        "ratio": 22.22,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 747",
+        "b": "Snowy owl",
+        "dimension": "wingspan",
+        "aValue": 68.4,
+        "bValue": 1.6,
+        "ratio": 40.25,
+        "unit": "m"
+      },
+      {
+        "a": "Tennis court",
+        "b": "Kangaroo",
+        "dimension": "length",
+        "aValue": 23.8,
+        "bValue": 2.8,
+        "ratio": 8.5,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Giant sequoia",
+        "b": "Coconut palm",
+        "dimension": "height",
+        "aValue": 85.0,
+        "bValue": 25,
+        "ratio": 3.4,
+        "unit": "m"
+      },
+      {
+        "a": "Walrus",
+        "b": "Crocodile",
+        "dimension": "weight",
+        "aValue": 1000,
+        "bValue": 400,
+        "ratio": 2.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Thames",
+        "b": "Pickup truck",
+        "dimension": "length",
+        "aValue": 346.0,
+        "bValue": 5.5,
+        "ratio": 62.91,
+        "unit": "m"
+      },
+      {
+        "a": "Heron",
+        "b": "Dragonfly",
+        "dimension": "wingspan",
+        "aValue": 1.8,
+        "bValue": 0.12,
+        "ratio": 15.0,
+        "unit": "m"
+      },
+      {
+        "a": "Shanghai Tower",
+        "b": "Oak tree",
+        "dimension": "height",
+        "aValue": 790.0,
+        "bValue": 25,
+        "ratio": 31.6,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Giant panda",
+        "b": "Washing machine",
+        "dimension": "weight",
+        "aValue": 100.1,
+        "bValue": 70,
+        "ratio": 1.43,
+        "unit": "kg"
+      },
+      {
+        "a": "Blue whale",
+        "b": "London black cab",
+        "dimension": "length",
+        "aValue": 26,
+        "bValue": 4.6,
+        "ratio": 5.43,
+        "unit": "m"
+      },
+      {
+        "a": "Burj Khalifa",
+        "b": "Tokyo Skytree",
+        "dimension": "height",
+        "aValue": 830.54,
+        "bValue": 634,
+        "ratio": 1.31,
+        "unit": "m"
+      },
+      {
+        "a": "Andean condor",
+        "b": "Barn owl",
+        "dimension": "wingspan",
+        "aValue": 2.91,
+        "bValue": 1.0,
+        "ratio": 2.91,
+        "unit": "m"
+      },
+      {
+        "a": "Volkswagen Golf",
+        "b": "Ostrich",
+        "dimension": "weight",
+        "aValue": 1400,
+        "bValue": 100,
+        "ratio": 14.0,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Thames",
+        "b": "Giraffe",
+        "dimension": "length",
+        "aValue": 346.0,
+        "bValue": 5,
+        "ratio": 69.2,
+        "unit": "m"
+      },
+      {
+        "a": "Pigeon",
+        "b": "Hummingbird",
+        "dimension": "wingspan",
+        "aValue": 0.58,
+        "bValue": 0.1,
+        "ratio": 5.83,
+        "unit": "m"
+      },
+      {
+        "a": "Coconut palm",
+        "b": "Bamboo",
+        "dimension": "height",
+        "aValue": 25.0,
+        "bValue": 20,
+        "ratio": 1.25,
+        "unit": "m"
+      },
+      {
+        "a": "Sea lion",
+        "b": "Medium dog",
+        "dimension": "weight",
+        "aValue": 250,
+        "bValue": 20,
+        "ratio": 15.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Airbus A320",
+        "b": "Nile crocodile",
+        "dimension": "length",
+        "aValue": 37.6,
+        "bValue": 5,
+        "ratio": 7.52,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Wandering albatross",
+        "b": "Andean condor",
+        "dimension": "wingspan",
+        "aValue": 3.71,
+        "bValue": 3.2,
+        "ratio": 1.16,
+        "unit": "m"
+      },
+      {
+        "a": "Nile crocodile",
+        "b": "Dog",
+        "dimension": "height",
+        "aValue": 0.5,
+        "bValue": 0.6,
+        "ratio": 1.67,
+        "unit": "m"
+      },
+      {
+        "a": "Seine",
+        "b": "School bus",
+        "dimension": "length",
+        "aValue": 777.0,
+        "bValue": 12,
+        "ratio": 64.75,
+        "unit": "m"
+      },
+      {
+        "a": "Giant panda",
+        "b": "Goat",
+        "dimension": "weight",
+        "aValue": 116.9,
+        "bValue": 70,
+        "ratio": 1.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Wandering albatross",
+        "b": "Flying fox",
+        "dimension": "wingspan",
+        "aValue": 4.2,
+        "bValue": 1.7,
+        "ratio": 2.47,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Airbus A320",
+        "b": "City bus",
+        "dimension": "length",
+        "aValue": 37.6,
+        "bValue": 12,
+        "ratio": 3.13,
+        "unit": "m"
+      },
+      {
+        "a": "Moose",
+        "b": "Horse",
+        "dimension": "height",
+        "aValue": 2.1,
+        "bValue": 1.6,
+        "ratio": 1.31,
+        "unit": "m"
+      },
+      {
+        "a": "Goat",
+        "b": "Chicken",
+        "dimension": "weight",
+        "aValue": 60.0,
+        "bValue": 2,
+        "ratio": 30.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Bald eagle",
+        "b": "Pigeon",
+        "dimension": "wingspan",
+        "aValue": 2.3,
+        "bValue": 0.7,
+        "ratio": 3.29,
+        "unit": "m"
+      },
+      {
+        "a": "Mississippi River",
+        "b": "Empire State Building",
+        "dimension": "length",
+        "aValue": 6272.88,
+        "bValue": 443,
+        "ratio": 14.16,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "CN Tower",
+        "b": "Giant sequoia",
+        "dimension": "height",
+        "aValue": 618.45,
+        "bValue": 95,
+        "ratio": 6.51,
+        "unit": "m"
+      },
+      {
+        "a": "Tesla Model 3",
+        "b": "Hippopotamus",
+        "dimension": "weight",
+        "aValue": 1800,
+        "bValue": 1500,
+        "ratio": 1.2,
+        "unit": "kg"
+      },
+      {
+        "a": "Queen Mary 2",
+        "b": "Concorde",
+        "dimension": "length",
+        "aValue": 344.72,
+        "bValue": 62,
+        "ratio": 5.56,
+        "unit": "m"
+      },
+      {
+        "a": "Albatross",
+        "b": "Butterfly",
+        "dimension": "wingspan",
+        "aValue": 1.75,
+        "bValue": 0.15,
+        "ratio": 11.67,
+        "unit": "m"
+      },
+      {
+        "a": "Coast redwood",
+        "b": "Eucalyptus tree",
+        "dimension": "height",
+        "aValue": 69.0,
+        "bValue": 60,
+        "ratio": 1.15,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Walrus",
+        "b": "Giant squid",
+        "dimension": "weight",
+        "aValue": 1000,
+        "bValue": 300,
+        "ratio": 3.64,
+        "unit": "kg"
+      },
+      {
+        "a": "Limousine",
+        "b": "Grizzly bear",
+        "dimension": "length",
+        "aValue": 6.0,
+        "bValue": 2.4,
+        "ratio": 2.5,
+        "unit": "m"
+      },
+      {
+        "a": "Shanghai Tower",
+        "b": "Big Ben",
+        "dimension": "height",
+        "aValue": 631.68,
+        "bValue": 96,
+        "ratio": 6.58,
+        "unit": "m"
+      },
+      {
+        "a": "B-2 Spirit",
+        "b": "F-16 fighter jet",
+        "dimension": "wingspan",
+        "aValue": 52.6,
+        "bValue": 10,
+        "ratio": 5.26,
+        "unit": "m"
+      },
+      {
+        "a": "Fire truck",
+        "b": "Grand piano",
+        "dimension": "weight",
+        "aValue": 13500.0,
+        "bValue": 450,
+        "ratio": 30.0,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Seine",
+        "b": "Saturn V rocket",
+        "dimension": "length",
+        "aValue": 780.33,
+        "bValue": 111,
+        "ratio": 7.03,
+        "unit": "m"
+      },
+      {
+        "a": "Boeing 747",
+        "b": "Andean condor",
+        "dimension": "wingspan",
+        "aValue": 68.4,
+        "bValue": 3.2,
+        "ratio": 20.12,
+        "unit": "m"
+      },
+      {
+        "a": "Bamboo",
+        "b": "Dromedary",
+        "dimension": "height",
+        "aValue": 20,
+        "bValue": 2.1,
+        "ratio": 9.52,
+        "unit": "m"
+      },
+      {
+        "a": "Hippopotamus",
+        "b": "Piano",
+        "dimension": "weight",
+        "aValue": 1500.0,
+        "bValue": 300,
+        "ratio": 5.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Humpback whale",
+        "b": "Komodo dragon",
+        "dimension": "length",
+        "aValue": 15,
+        "bValue": 3,
+        "ratio": 5.0,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Wandering albatross",
+        "b": "Dragonfly",
+        "dimension": "wingspan",
+        "aValue": 3.7,
+        "bValue": 0.12,
+        "ratio": 30.83,
+        "unit": "m"
+      },
+      {
+        "a": "Tokyo Skytree",
+        "b": "Bamboo",
+        "dimension": "height",
+        "aValue": 634.0,
+        "bValue": 20,
+        "ratio": 31.7,
+        "unit": "m"
+      },
+      {
+        "a": "Millennium Bridge",
+        "b": "City bus",
+        "dimension": "length",
+        "aValue": 324.96,
+        "bValue": 12,
+        "ratio": 27.08,
+        "unit": "m"
+      },
+      {
+        "a": "Airbus A320",
+        "b": "Great white shark",
+        "dimension": "weight",
+        "aValue": 42000,
+        "bValue": 1100,
+        "ratio": 70.91,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 777",
+        "b": "Pelican",
+        "dimension": "wingspan",
+        "aValue": 64.8,
+        "bValue": 2.8,
+        "ratio": 22.34,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Titanic",
+        "b": "Double-decker bus",
+        "dimension": "length",
+        "aValue": 268.95,
+        "bValue": 11,
+        "ratio": 24.45,
+        "unit": "m"
+      },
+      {
+        "a": "Mount Everest",
+        "b": "Big Ben",
+        "dimension": "height",
+        "aValue": 8849.28,
+        "bValue": 96,
+        "ratio": 92.18,
+        "unit": "m"
+      },
+      {
+        "a": "Hippopotamus",
+        "b": "Giraffe",
+        "dimension": "weight",
+        "aValue": 1350.0,
+        "bValue": 900,
+        "ratio": 1.5,
+        "unit": "kg"
+      },
+      {
+        "a": "Airbus A350",
+        "b": "Glider",
+        "dimension": "wingspan",
+        "aValue": 77.76,
+        "bValue": 18,
+        "ratio": 4.32,
+        "unit": "m"
+      },
+      {
+        "a": "Concorde",
+        "b": "Airbus A320",
+        "dimension": "length",
+        "aValue": 62,
+        "bValue": 37.6,
+        "ratio": 1.65,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Camel",
+        "b": "Red kangaroo",
+        "dimension": "height",
+        "aValue": 1.87,
+        "bValue": 1.6,
+        "ratio": 1.17,
+        "unit": "m"
+      },
+      {
+        "a": "Tesla Model 3",
+        "b": "Gorilla",
+        "dimension": "weight",
+        "aValue": 1800,
+        "bValue": 160,
+        "ratio": 11.25,
+        "unit": "kg"
+      },
+      {
+        "a": "Empire State Building",
+        "b": "Pickup truck",
+        "dimension": "length",
+        "aValue": 443.02,
+        "bValue": 5.5,
+        "ratio": 80.55,
+        "unit": "m"
+      },
+      {
+        "a": "Heron",
+        "b": "Crow",
+        "dimension": "wingspan",
+        "aValue": 1.8,
+        "bValue": 1.0,
+        "ratio": 1.8,
+        "unit": "m"
+      },
+      {
+        "a": "K2",
+        "b": "Shanghai Tower",
+        "dimension": "height",
+        "aValue": 8607.84,
+        "bValue": 632,
+        "ratio": 13.62,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Volkswagen Golf",
+        "b": "Giraffe",
+        "dimension": "weight",
+        "aValue": 1400,
+        "bValue": 900,
+        "ratio": 1.4,
+        "unit": "kg"
+      },
+      {
+        "a": "Olympic swimming pool",
+        "b": "Grizzly bear",
+        "dimension": "length",
+        "aValue": 49.99,
+        "bValue": 2.4,
+        "ratio": 20.83,
+        "unit": "m"
+      },
+      {
+        "a": "Kangchenjunga",
+        "b": "London Eye",
+        "dimension": "height",
+        "aValue": 8586.0,
+        "bValue": 135,
+        "ratio": 63.6,
+        "unit": "m"
+      },
+      {
+        "a": "Bat",
+        "b": "Monarch butterfly",
+        "dimension": "wingspan",
+        "aValue": 0.5,
+        "bValue": 0.1,
+        "ratio": 5.0,
+        "unit": "m"
+      },
+      {
+        "a": "Chimpanzee",
+        "b": "Human brain",
+        "dimension": "weight",
+        "aValue": 3571.0,
+        "bValue": 100,
+        "ratio": 35.71,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Anaconda",
+        "b": "Horse",
+        "dimension": "length",
+        "aValue": 6.0,
+        "bValue": 2.4,
+        "ratio": 2.5,
+        "unit": "m"
+      },
+      {
+        "a": "Mute swan",
+        "b": "Snowy owl",
+        "dimension": "wingspan",
+        "aValue": 2.4,
+        "bValue": 1.6,
+        "ratio": 1.5,
+        "unit": "m"
+      },
+      {
+        "a": "Douglas fir",
+        "b": "Coconut palm",
+        "dimension": "height",
+        "aValue": 77.0,
+        "bValue": 25,
+        "ratio": 3.08,
+        "unit": "m"
+      },
+      {
+        "a": "Sheep",
+        "b": "Great dane",
+        "dimension": "weight",
+        "aValue": 80.5,
+        "bValue": 70,
+        "ratio": 1.15,
+        "unit": "kg"
+      },
+      {
+        "a": "Airbus A380",
+        "b": "Tesla Model 3",
+        "dimension": "length",
+        "aValue": 72.7,
+        "bValue": 4.7,
+        "ratio": 15.53,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Great horned owl",
+        "b": "Fruit bat",
+        "dimension": "wingspan",
+        "aValue": 1.75,
+        "bValue": 1.5,
+        "ratio": 1.17,
+        "unit": "m"
+      },
+      {
+        "a": "Coconut palm",
+        "b": "Emperor penguin",
+        "dimension": "height",
+        "aValue": 25.0,
+        "bValue": 1.2,
+        "ratio": 20.83,
+        "unit": "m"
+      },
+      {
+        "a": "Yangtze River",
+        "b": "Boeing 747",
+        "dimension": "length",
+        "aValue": 6273.21,
+        "bValue": 70.7,
+        "ratio": 88.73,
+        "unit": "m"
+      },
+      {
+        "a": "Sheep",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 66.68,
+        "bValue": 4,
+        "ratio": 16.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Airbus A320",
+        "b": "Cessna 172",
+        "dimension": "wingspan",
+        "aValue": 35.8,
+        "bValue": 11.0,
+        "ratio": 3.25,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Giant squid",
+        "b": "Double-decker bus",
+        "dimension": "length",
+        "aValue": 12,
+        "bValue": 11,
+        "ratio": 1.18,
+        "unit": "m"
+      },
+      {
+        "a": "Grizzly bear",
+        "b": "Great dane",
+        "dimension": "height",
+        "aValue": 131.6,
+        "bValue": 70,
+        "ratio": 1.88,
+        "unit": "m"
+      },
+      {
+        "a": "Sperm whale",
+        "b": "Walrus",
+        "dimension": "weight",
+        "aValue": 50000,
+        "bValue": 1000,
+        "ratio": 50.0,
+        "unit": "kg"
+      },
+      {
+        "a": "California condor",
+        "b": "Fruit bat",
+        "dimension": "wingspan",
+        "aValue": 3.75,
+        "bValue": 1.5,
+        "ratio": 2.5,
+        "unit": "m"
+      },
+      {
+        "a": "Nile crocodile",
+        "b": "Grizzly bear",
+        "dimension": "length",
+        "aValue": 5,
+        "bValue": 2.4,
+        "ratio": 2.08,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Big Ben",
+        "b": "Giraffe",
+        "dimension": "height",
+        "aValue": 95.97,
+        "bValue": 5.5,
+        "ratio": 17.45,
+        "unit": "m"
+      },
+      {
+        "a": "Adult human",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 80,
+        "bValue": 4,
+        "ratio": 16.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Starship",
+        "b": "Giant panda",
+        "dimension": "length",
+        "aValue": 121.0,
+        "bValue": 1.8,
+        "ratio": 67.22,
+        "unit": "m"
+      },
+      {
+        "a": "Swan",
+        "b": "Flying fox",
+        "dimension": "wingspan",
+        "aValue": 2.72,
+        "bValue": 1.7,
+        "ratio": 1.6,
+        "unit": "m"
+      },
+      {
+        "a": "Kangchenjunga",
+        "b": "Big Ben",
+        "dimension": "height",
+        "aValue": 8586.24,
+        "bValue": 96,
+        "ratio": 89.44,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Sea lion",
+        "b": "Sheep",
+        "dimension": "weight",
+        "aValue": 250,
+        "bValue": 75,
+        "ratio": 4.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Airbus A380",
+        "b": "Limousine",
+        "dimension": "length",
+        "aValue": 72.7,
+        "bValue": 6,
+        "ratio": 12.17,
+        "unit": "m"
+      },
+      {
+        "a": "K2",
+        "b": "Mont Blanc",
+        "dimension": "height",
+        "aValue": 8606.32,
+        "bValue": 4808,
+        "ratio": 1.79,
+        "unit": "m"
+      },
+      {
+        "a": "Glider",
+        "b": "Fruit bat",
+        "dimension": "wingspan",
+        "aValue": 18.75,
+        "bValue": 1.5,
+        "ratio": 12.5,
+        "unit": "m"
+      },
+      {
+        "a": "Ambulance",
+        "b": "Giraffe",
+        "dimension": "weight",
+        "aValue": 3150.0,
+        "bValue": 900,
+        "ratio": 3.5,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "City bus",
+        "b": "Pickup truck",
+        "dimension": "length",
+        "aValue": 12,
+        "bValue": 5.5,
+        "ratio": 2.18,
+        "unit": "m"
+      },
+      {
+        "a": "Cessna 172",
+        "b": "Stork",
+        "dimension": "wingspan",
+        "aValue": 10.0,
+        "bValue": 2.0,
+        "ratio": 5.0,
+        "unit": "m"
+      },
+      {
+        "a": "Sagrada Familia",
+        "b": "Llama",
+        "dimension": "height",
+        "aValue": 114.67,
+        "bValue": 1.2,
+        "ratio": 95.56,
+        "unit": "m"
+      },
+      {
+        "a": "Great white shark",
+        "b": "Cow",
+        "dimension": "weight",
+        "aValue": 1100,
+        "bValue": 600,
+        "ratio": 1.69,
+        "unit": "kg"
+      },
+      {
+        "a": "Thames",
+        "b": "Fire truck",
+        "dimension": "length",
+        "aValue": 576600.0,
+        "bValue": 15000,
+        "ratio": 38.44,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Concorde",
+        "b": "Barn owl",
+        "dimension": "wingspan",
+        "aValue": 25.6,
+        "bValue": 1.0,
+        "ratio": 23.27,
+        "unit": "m"
+      },
+      {
+        "a": "Great Pyramid of Giza",
+        "b": "Kangaroo",
+        "dimension": "height",
+        "aValue": 139.0,
+        "bValue": 1.8,
+        "ratio": 77.22,
+        "unit": "m"
+      },
+      {
+        "a": "Great white shark",
+        "b": "Nile crocodile",
+        "dimension": "length",
+        "aValue": 6,
+        "bValue": 5,
+        "ratio": 1.2,
+        "unit": "m"
+      },
+      {
+        "a": "Airbus A320",
+        "b": "African elephant",
+        "dimension": "weight",
+        "aValue": 42000,
+        "bValue": 6000,
+        "ratio": 14.18,
+        "unit": "kg"
+      },
+      {
+        "a": "F-16 fighter jet",
+        "b": "California condor",
+        "dimension": "wingspan",
+        "aValue": 10,
+        "bValue": 3.0,
+        "ratio": 3.32,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Boeing 777",
+        "b": "Fire truck",
+        "dimension": "length",
+        "aValue": 74,
+        "bValue": 15000,
+        "ratio": 8.22,
+        "unit": "m"
+      },
+      {
+        "a": "Ostrich",
+        "b": "Adult human",
+        "dimension": "height",
+        "aValue": 2.62,
+        "bValue": 1.7,
+        "ratio": 1.54,
+        "unit": "m"
+      },
+      {
+        "a": "Kangaroo",
+        "b": "Goat",
+        "dimension": "weight",
+        "aValue": 81.9,
+        "bValue": 70,
+        "ratio": 1.17,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 777",
+        "b": "Bald eagle",
+        "dimension": "wingspan",
+        "aValue": 64.8,
+        "bValue": 2.3,
+        "ratio": 28.17,
+        "unit": "m"
+      },
+      {
+        "a": "Starship",
+        "b": "Basketball court",
+        "dimension": "length",
+        "aValue": 118.16,
+        "bValue": 28,
+        "ratio": 4.22,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Kangaroo",
+        "b": "Great dane",
+        "dimension": "height",
+        "aValue": 157.5,
+        "bValue": 70,
+        "ratio": 2.25,
+        "unit": "m"
+      },
+      {
+        "a": "Blue whale",
+        "b": "Airbus A320",
+        "dimension": "weight",
+        "aValue": 120000,
+        "bValue": 42000,
+        "ratio": 1.54,
+        "unit": "kg"
+      },
+      {
+        "a": "Sperm whale",
+        "b": "Horse",
+        "dimension": "length",
+        "aValue": 18,
+        "bValue": 2.4,
+        "ratio": 7.5,
+        "unit": "m"
+      },
+      {
+        "a": "Pelican",
+        "b": "Mute swan",
+        "dimension": "wingspan",
+        "aValue": 2.9,
+        "bValue": 2.4,
+        "ratio": 1.21,
+        "unit": "m"
+      },
+      {
+        "a": "Kangaroo",
+        "b": "Emperor penguin",
+        "dimension": "height",
+        "aValue": 1.8,
+        "bValue": 1.2,
+        "ratio": 1.5,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Ambulance",
+        "b": "Chimpanzee",
+        "dimension": "weight",
+        "aValue": 3500.0,
+        "bValue": 50,
+        "ratio": 70.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Football field",
+        "b": "City bus",
+        "dimension": "length",
+        "aValue": 109.68,
+        "bValue": 12,
+        "ratio": 9.14,
+        "unit": "m"
+      },
+      {
+        "a": "Giant sequoia",
+        "b": "Horse",
+        "dimension": "height",
+        "aValue": 84.99,
+        "bValue": 1.6,
+        "ratio": 53.12,
+        "unit": "m"
+      },
+      {
+        "a": "Cessna 172",
+        "b": "California condor",
+        "dimension": "wingspan",
+        "aValue": 11.01,
+        "bValue": 3.0,
+        "ratio": 3.67,
+        "unit": "m"
+      },
+      {
+        "a": "Whale shark",
+        "b": "Cow",
+        "dimension": "weight",
+        "aValue": 15000,
+        "bValue": 600,
+        "ratio": 29.23,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Earth's diameter",
+        "b": "Moon's diameter",
+        "dimension": "length",
+        "aValue": 12749.58,
+        "bValue": 3474,
+        "ratio": 3.67,
+        "unit": "m"
+      },
+      {
+        "a": "Heron",
+        "b": "Butterfly",
+        "dimension": "wingspan",
+        "aValue": 0.9,
+        "bValue": 0.15,
+        "ratio": 6.0,
+        "unit": "m"
+      },
+      {
+        "a": "Eucalyptus tree",
+        "b": "Coconut palm",
+        "dimension": "height",
+        "aValue": 100.0,
+        "bValue": 25,
+        "ratio": 4.0,
+        "unit": "m"
+      },
+      {
+        "a": "Shipping container",
+        "b": "Pig",
+        "dimension": "weight",
+        "aValue": 3167.0,
+        "bValue": 100,
+        "ratio": 31.67,
+        "unit": "kg"
+      },
+      {
+        "a": "London black cab",
+        "b": "Komodo dragon",
+        "dimension": "length",
+        "aValue": 4.59,
+        "bValue": 3,
+        "ratio": 1.53,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "F-22 Raptor",
+        "b": "Barn owl",
+        "dimension": "wingspan",
+        "aValue": 12.36,
+        "bValue": 1.0,
+        "ratio": 12.36,
+        "unit": "m"
+      },
+      {
+        "a": "Taipei 101",
+        "b": "Eucalyptus tree",
+        "dimension": "height",
+        "aValue": 304.8,
+        "bValue": 60,
+        "ratio": 5.08,
+        "unit": "m"
+      },
+      {
+        "a": "Space Shuttle orbiter",
+        "b": "London black cab",
+        "dimension": "length",
+        "aValue": 36.98,
+        "bValue": 4.6,
+        "ratio": 8.04,
+        "unit": "m"
+      },
+      {
+        "a": "Sperm whale",
+        "b": "School bus",
+        "dimension": "weight",
+        "aValue": 50000,
+        "bValue": 10000,
+        "ratio": 4.55,
+        "unit": "kg"
+      },
+      {
+        "a": "Hang glider",
+        "b": "Snowy owl",
+        "dimension": "wingspan",
+        "aValue": 10.0,
+        "bValue": 1.6,
+        "ratio": 6.25,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Polar bear",
+        "b": "Coconut crab",
+        "dimension": "length",
+        "aValue": 2.5,
+        "bValue": 0.4,
+        "ratio": 6.25,
+        "unit": "m"
+      },
+      {
+        "a": "Sagrada Familia",
+        "b": "Adult human",
+        "dimension": "height",
+        "aValue": 167.09,
+        "bValue": 1.7,
+        "ratio": 98.29,
+        "unit": "m"
+      },
+      {
+        "a": "Volkswagen Golf",
+        "b": "Small car engine",
+        "dimension": "weight",
+        "aValue": 1400,
+        "bValue": 150,
+        "ratio": 9.33,
+        "unit": "kg"
+      },
+      {
+        "a": "F-22 Raptor",
+        "b": "Swan",
+        "dimension": "wingspan",
+        "aValue": 13.61,
+        "bValue": 2.4,
+        "ratio": 5.67,
+        "unit": "m"
+      },
+      {
+        "a": "Starship",
+        "b": "Double-decker bus",
+        "dimension": "length",
+        "aValue": 121.0,
+        "bValue": 11,
+        "ratio": 11.0,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Statue of Liberty",
+        "b": "Sunflower",
+        "dimension": "height",
+        "aValue": 93.0,
+        "bValue": 3.5,
+        "ratio": 26.57,
+        "unit": "m"
+      },
+      {
+        "a": "Airbus A320",
+        "b": "Rhino",
+        "dimension": "weight",
+        "aValue": 42000,
+        "bValue": 2300,
+        "ratio": 33.91,
+        "unit": "kg"
+      },
+      {
+        "a": "Starship",
+        "b": "Sperm whale",
+        "dimension": "length",
+        "aValue": 120.96,
+        "bValue": 18,
+        "ratio": 6.72,
+        "unit": "m"
+      },
+      {
+        "a": "Flying fox",
+        "b": "Crow",
+        "dimension": "wingspan",
+        "aValue": 1.5,
+        "bValue": 1.0,
+        "ratio": 1.5,
+        "unit": "m"
+      },
+      {
+        "a": "Mount Everest",
+        "b": "Taipei 101",
+        "dimension": "height",
+        "aValue": 8849.36,
+        "bValue": 508,
+        "ratio": 17.42,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Rhino",
+        "b": "Sea lion",
+        "dimension": "weight",
+        "aValue": 1917.5,
+        "bValue": 250,
+        "ratio": 7.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Giant panda",
+        "b": "Emperor penguin",
+        "dimension": "length",
+        "aValue": 1.65,
+        "bValue": 1.1,
+        "ratio": 1.5,
+        "unit": "m"
+      },
+      {
+        "a": "Sagrada Familia",
+        "b": "Oak tree",
+        "dimension": "height",
+        "aValue": 215.0,
+        "bValue": 25,
+        "ratio": 8.6,
+        "unit": "m"
+      },
+      {
+        "a": "B-2 Spirit",
+        "b": "Snowy owl",
+        "dimension": "wingspan",
+        "aValue": 52.4,
+        "bValue": 1.6,
+        "ratio": 32.75,
+        "unit": "m"
+      },
+      {
+        "a": "Piano",
+        "b": "Kangaroo",
+        "dimension": "weight",
+        "aValue": 364.65,
+        "bValue": 85,
+        "ratio": 4.29,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Pickup truck",
+        "b": "Komodo dragon",
+        "dimension": "length",
+        "aValue": 5.49,
+        "bValue": 3,
+        "ratio": 1.83,
+        "unit": "m"
+      },
+      {
+        "a": "California condor",
+        "b": "Flying fox",
+        "dimension": "wingspan",
+        "aValue": 3.4,
+        "bValue": 1.7,
+        "ratio": 2.0,
+        "unit": "m"
+      },
+      {
+        "a": "Mont Blanc",
+        "b": "Empire State Building",
+        "dimension": "height",
+        "aValue": 4810.98,
+        "bValue": 443,
+        "ratio": 10.86,
+        "unit": "m"
+      },
+      {
+        "a": "Tesla Model 3",
+        "b": "Pig",
+        "dimension": "weight",
+        "aValue": 1800,
+        "bValue": 100,
+        "ratio": 15.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Titanic",
+        "b": "Basketball court",
+        "dimension": "length",
+        "aValue": 262.36,
+        "bValue": 28,
+        "ratio": 9.37,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Airbus A320",
+        "b": "Swan",
+        "dimension": "wingspan",
+        "aValue": 35.8,
+        "bValue": 2.4,
+        "ratio": 14.92,
+        "unit": "m"
+      },
+      {
+        "a": "Douglas fir",
+        "b": "Emperor penguin",
+        "dimension": "height",
+        "aValue": 77.0,
+        "bValue": 1.2,
+        "ratio": 64.17,
+        "unit": "m"
+      },
+      {
+        "a": "Volkswagen Golf",
+        "b": "Cheetah",
+        "dimension": "length",
+        "aValue": 4.3,
+        "bValue": 1.5,
+        "ratio": 2.87,
+        "unit": "m"
+      },
+      {
+        "a": "Polar bear",
+        "b": "Washing machine",
+        "dimension": "weight",
+        "aValue": 450.1,
+        "bValue": 70,
+        "ratio": 6.43,
+        "unit": "kg"
+      },
+      {
+        "a": "Albatross",
+        "b": "Fruit bat",
+        "dimension": "wingspan",
+        "aValue": 4.38,
+        "bValue": 1.5,
+        "ratio": 2.92,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Saturn V rocket",
+        "b": "Basketball court",
+        "dimension": "length",
+        "aValue": 111,
+        "bValue": 28,
+        "ratio": 3.85,
+        "unit": "m"
+      },
+      {
+        "a": "Horse",
+        "b": "Emperor penguin",
+        "dimension": "height",
+        "aValue": 1.6,
+        "bValue": 1.2,
+        "ratio": 1.33,
+        "unit": "m"
+      },
+      {
+        "a": "Cow",
+        "b": "Gorilla",
+        "dimension": "weight",
+        "aValue": 649.6,
+        "bValue": 160,
+        "ratio": 4.06,
+        "unit": "kg"
+      },
+      {
+        "a": "Airbus A380",
+        "b": "Boeing 777",
+        "dimension": "wingspan",
+        "aValue": 79.8,
+        "bValue": 64.8,
+        "ratio": 1.23,
+        "unit": "m"
+      },
+      {
+        "a": "Nile River",
+        "b": "Titanic",
+        "dimension": "length",
+        "aValue": 6649.68,
+        "bValue": 269,
+        "ratio": 24.72,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Mount Everest",
+        "b": "Sagrada Familia",
+        "dimension": "height",
+        "aValue": 8849.4,
+        "bValue": 172,
+        "ratio": 51.45,
+        "unit": "m"
+      },
+      {
+        "a": "Sea lion",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 250,
+        "bValue": 4,
+        "ratio": 66.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Great Wall of China",
+        "b": "Rhine",
+        "dimension": "length",
+        "aValue": 21192.9,
+        "bValue": 1230,
+        "ratio": 17.23,
+        "unit": "m"
+      },
+      {
+        "a": "Bald eagle",
+        "b": "Fruit bat",
+        "dimension": "wingspan",
+        "aValue": 2.88,
+        "bValue": 1.5,
+        "ratio": 1.92,
+        "unit": "m"
+      },
+      {
+        "a": "Llama",
+        "b": "Grizzly bear",
+        "dimension": "height",
+        "aValue": 1.8,
+        "bValue": 1.5,
+        "ratio": 1.2,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Shipping container",
+        "b": "Giant panda",
+        "dimension": "weight",
+        "aValue": 3800.0,
+        "bValue": 100,
+        "ratio": 38.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Thames",
+        "b": "Giant squid",
+        "dimension": "length",
+        "aValue": 319.44,
+        "bValue": 12,
+        "ratio": 26.62,
+        "unit": "m"
+      },
+      {
+        "a": "Big Ben",
+        "b": "Oak tree",
+        "dimension": "height",
+        "aValue": 120.0,
+        "bValue": 25,
+        "ratio": 4.8,
+        "unit": "m"
+      },
+      {
+        "a": "Wandering albatross",
+        "b": "Snowy owl",
+        "dimension": "wingspan",
+        "aValue": 3.7,
+        "bValue": 1.6,
+        "ratio": 2.31,
+        "unit": "m"
+      },
+      {
+        "a": "Rhino",
+        "b": "Motorcycle",
+        "dimension": "weight",
+        "aValue": 2300.0,
+        "bValue": 200,
+        "ratio": 11.5,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Empire State Building",
+        "b": "Basketball court",
+        "dimension": "length",
+        "aValue": 432.32,
+        "bValue": 28,
+        "ratio": 15.44,
+        "unit": "m"
+      },
+      {
+        "a": "Bald eagle",
+        "b": "Hummingbird",
+        "dimension": "wingspan",
+        "aValue": 1.92,
+        "bValue": 0.1,
+        "ratio": 19.17,
+        "unit": "m"
+      },
+      {
+        "a": "Giraffe",
+        "b": "Nile crocodile",
+        "dimension": "height",
+        "aValue": 2.75,
+        "bValue": 0.5,
+        "ratio": 5.5,
+        "unit": "m"
+      },
+      {
+        "a": "Piano",
+        "b": "Ostrich",
+        "dimension": "weight",
+        "aValue": 300.0,
+        "bValue": 100,
+        "ratio": 3.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Starship",
+        "b": "Grizzly bear",
+        "dimension": "length",
+        "aValue": 121.01,
+        "bValue": 2.4,
+        "ratio": 50.42,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Pelican",
+        "b": "Snowy owl",
+        "dimension": "wingspan",
+        "aValue": 2.9,
+        "bValue": 1.6,
+        "ratio": 1.81,
+        "unit": "m"
+      },
+      {
+        "a": "Ostrich",
+        "b": "Great dane",
+        "dimension": "height",
+        "aValue": 236.6,
+        "bValue": 70,
+        "ratio": 3.38,
+        "unit": "m"
+      },
+      {
+        "a": "Football field",
+        "b": "Grizzly bear",
+        "dimension": "length",
+        "aValue": 109.7,
+        "bValue": 2.4,
+        "ratio": 45.71,
+        "unit": "m"
+      },
+      {
+        "a": "Whale shark",
+        "b": "Polar bear",
+        "dimension": "weight",
+        "aValue": 15000,
+        "bValue": 500,
+        "ratio": 42.22,
+        "unit": "kg"
+      },
+      {
+        "a": "Bald eagle",
+        "b": "Snowy owl",
+        "dimension": "wingspan",
+        "aValue": 2.3,
+        "bValue": 1.6,
+        "ratio": 1.44,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Saturn V rocket",
+        "b": "Volkswagen Golf",
+        "dimension": "length",
+        "aValue": 111,
+        "bValue": 4.3,
+        "ratio": 25.72,
+        "unit": "m"
+      },
+      {
+        "a": "Great Pyramid of Giza",
+        "b": "Big Ben",
+        "dimension": "height",
+        "aValue": 139.2,
+        "bValue": 96,
+        "ratio": 1.45,
+        "unit": "m"
+      },
+      {
+        "a": "Ambulance",
+        "b": "Great dane",
+        "dimension": "weight",
+        "aValue": 3769.5,
+        "bValue": 70,
+        "ratio": 53.85,
+        "unit": "kg"
+      },
+      {
+        "a": "Swan",
+        "b": "Monarch butterfly",
+        "dimension": "wingspan",
+        "aValue": 2.4,
+        "bValue": 0.1,
+        "ratio": 24.0,
+        "unit": "m"
+      },
+      {
+        "a": "Concorde",
+        "b": "African elephant",
+        "dimension": "length",
+        "aValue": 62,
+        "bValue": 6,
+        "ratio": 9.54,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Sunflower",
+        "b": "Nile crocodile",
+        "dimension": "height",
+        "aValue": 3.5,
+        "bValue": 0.5,
+        "ratio": 3.5,
+        "unit": "m"
+      },
+      {
+        "a": "Motorcycle",
+        "b": "Small car engine",
+        "dimension": "weight",
+        "aValue": 199.5,
+        "bValue": 150,
+        "ratio": 1.33,
+        "unit": "kg"
+      },
+      {
+        "a": "Pan-American Highway",
+        "b": "Millennium Bridge",
+        "dimension": "length",
+        "aValue": 923.1,
+        "bValue": 10,
+        "ratio": 92.31,
+        "unit": "m"
+      },
+      {
+        "a": "Airbus A320",
+        "b": "Pigeon",
+        "dimension": "wingspan",
+        "aValue": 35.8,
+        "bValue": 0.7,
+        "ratio": 51.14,
+        "unit": "m"
+      },
+      {
+        "a": "Giant sequoia",
+        "b": "Camel",
+        "dimension": "height",
+        "aValue": 85.01,
+        "bValue": 2.1,
+        "ratio": 40.48,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Giant panda",
+        "b": "Chicken",
+        "dimension": "weight",
+        "aValue": 100.0,
+        "bValue": 2,
+        "ratio": 50.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Millennium Bridge",
+        "b": "Ambulance",
+        "dimension": "length",
+        "aValue": 175000.0,
+        "bValue": 3500,
+        "ratio": 50.0,
+        "unit": "m"
+      },
+      {
+        "a": "Tokyo Skytree",
+        "b": "Sagrada Familia",
+        "dimension": "height",
+        "aValue": 634.68,
+        "bValue": 172,
+        "ratio": 3.69,
+        "unit": "m"
+      },
+      {
+        "a": "Andean condor",
+        "b": "Hummingbird",
+        "dimension": "wingspan",
+        "aValue": 2.67,
+        "bValue": 0.1,
+        "ratio": 26.67,
+        "unit": "m"
+      },
+      {
+        "a": "Sheep",
+        "b": "Baboon",
+        "dimension": "weight",
+        "aValue": 62.5,
+        "bValue": 25,
+        "ratio": 2.5,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Boeing 777",
+        "b": "Sperm whale",
+        "dimension": "length",
+        "aValue": 74,
+        "bValue": 18,
+        "ratio": 4.11,
+        "unit": "m"
+      },
+      {
+        "a": "B-2 Spirit",
+        "b": "Swan",
+        "dimension": "wingspan",
+        "aValue": 52.39,
+        "bValue": 2.4,
+        "ratio": 21.83,
+        "unit": "m"
+      },
+      {
+        "a": "Bamboo",
+        "b": "African elephant",
+        "dimension": "height",
+        "aValue": 20,
+        "bValue": 3.2,
+        "ratio": 6.06,
+        "unit": "m"
+      },
+      {
+        "a": "Shipping container",
+        "b": "Walrus",
+        "dimension": "weight",
+        "aValue": 3800.0,
+        "bValue": 1000,
+        "ratio": 3.8,
+        "unit": "kg"
+      },
+      {
+        "a": "Golden Gate Bridge",
+        "b": "Space Shuttle orbiter",
+        "dimension": "length",
+        "aValue": 2736.89,
+        "bValue": 37,
+        "ratio": 73.97,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "B-2 Spirit",
+        "b": "Wandering albatross",
+        "dimension": "wingspan",
+        "aValue": 49.56,
+        "bValue": 3.5,
+        "ratio": 14.16,
+        "unit": "m"
+      },
+      {
+        "a": "Polar bear",
+        "b": "Great dane",
+        "dimension": "height",
+        "aValue": 140.0,
+        "bValue": 70,
+        "ratio": 2.0,
+        "unit": "m"
+      },
+      {
+        "a": "Seine",
+        "b": "Starship",
+        "dimension": "length",
+        "aValue": 321.0,
+        "bValue": 50,
+        "ratio": 6.42,
+        "unit": "m"
+      },
+      {
+        "a": "Koala",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 8.88,
+        "bValue": 4,
+        "ratio": 2.22,
+        "unit": "kg"
+      },
+      {
+        "a": "Bat",
+        "b": "Butterfly",
+        "dimension": "wingspan",
+        "aValue": 0.25,
+        "bValue": 0.15,
+        "ratio": 1.67,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Rhine",
+        "b": "Airbus A380",
+        "dimension": "length",
+        "aValue": 1225.0,
+        "bValue": 72.7,
+        "ratio": 16.85,
+        "unit": "m"
+      },
+      {
+        "a": "Oak tree",
+        "b": "Grizzly bear",
+        "dimension": "height",
+        "aValue": 20.0,
+        "bValue": 1.5,
+        "ratio": 13.33,
+        "unit": "m"
+      },
+      {
+        "a": "Giraffe",
+        "b": "Refrigerator",
+        "dimension": "weight",
+        "aValue": 1000.0,
+        "bValue": 80,
+        "ratio": 12.5,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 737",
+        "b": "Albatross",
+        "dimension": "wingspan",
+        "aValue": 35.8,
+        "bValue": 3.5,
+        "ratio": 10.23,
+        "unit": "m"
+      },
+      {
+        "a": "Boeing 777",
+        "b": "Horse",
+        "dimension": "length",
+        "aValue": 74,
+        "bValue": 2.4,
+        "ratio": 30.83,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "CN Tower",
+        "b": "Great Pyramid of Giza",
+        "dimension": "height",
+        "aValue": 553.22,
+        "bValue": 139,
+        "ratio": 3.98,
+        "unit": "m"
+      },
+      {
+        "a": "Cow",
+        "b": "Koala",
+        "dimension": "weight",
+        "aValue": 650.0,
+        "bValue": 10,
+        "ratio": 65.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Boeing 777",
+        "b": "Anaconda",
+        "dimension": "length",
+        "aValue": 74,
+        "bValue": 6,
+        "ratio": 12.33,
+        "unit": "m"
+      },
+      {
+        "a": "Swan",
+        "b": "Heron",
+        "dimension": "wingspan",
+        "aValue": 2.39,
+        "bValue": 1.8,
+        "ratio": 1.33,
+        "unit": "m"
+      },
+      {
+        "a": "Mount Everest",
+        "b": "Eucalyptus tree",
+        "dimension": "height",
+        "aValue": 5309.4,
+        "bValue": 60,
+        "ratio": 88.49,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Great dane",
+        "b": "Medium dog",
+        "dimension": "weight",
+        "aValue": 65.0,
+        "bValue": 20,
+        "ratio": 3.25,
+        "unit": "kg"
+      },
+      {
+        "a": "Saturn V rocket",
+        "b": "Fire truck",
+        "dimension": "length",
+        "aValue": 111,
+        "bValue": 15000,
+        "ratio": 12.29,
+        "unit": "m"
+      },
+      {
+        "a": "Dromedary",
+        "b": "Emperor penguin",
+        "dimension": "height",
+        "aValue": 2.1,
+        "bValue": 1.2,
+        "ratio": 1.75,
+        "unit": "m"
+      },
+      {
+        "a": "Boeing 747",
+        "b": "Albatross",
+        "dimension": "wingspan",
+        "aValue": 68.4,
+        "bValue": 3.5,
+        "ratio": 18.4,
+        "unit": "m"
+      },
+      {
+        "a": "Crocodile",
+        "b": "Small car engine",
+        "dimension": "weight",
+        "aValue": 400,
+        "bValue": 150,
+        "ratio": 3.33,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Mekong River",
+        "b": "Saturn V rocket",
+        "dimension": "length",
+        "aValue": 4365.63,
+        "bValue": 111,
+        "ratio": 39.33,
+        "unit": "m"
+      },
+      {
+        "a": "Andean condor",
+        "b": "Stork",
+        "dimension": "wingspan",
+        "aValue": 2.9,
+        "bValue": 2.0,
+        "ratio": 1.45,
+        "unit": "m"
+      },
+      {
+        "a": "Douglas fir",
+        "b": "Nile crocodile",
+        "dimension": "height",
+        "aValue": 38.5,
+        "bValue": 0.5,
+        "ratio": 77.0,
+        "unit": "m"
+      },
+      {
+        "a": "Giraffe",
+        "b": "Giant panda",
+        "dimension": "weight",
+        "aValue": 1000.0,
+        "bValue": 100,
+        "ratio": 10.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Mississippi River",
+        "b": "Brooklyn Bridge",
+        "dimension": "length",
+        "aValue": 6278.0,
+        "bValue": 1825,
+        "ratio": 3.44,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Mute swan",
+        "b": "Fruit bat",
+        "dimension": "wingspan",
+        "aValue": 3.0,
+        "bValue": 1.5,
+        "ratio": 2.0,
+        "unit": "m"
+      },
+      {
+        "a": "Mount Everest",
+        "b": "London Eye",
+        "dimension": "height",
+        "aValue": 8849.25,
+        "bValue": 135,
+        "ratio": 65.55,
+        "unit": "m"
+      },
+      {
+        "a": "Pickup truck",
+        "b": "Ostrich",
+        "dimension": "length",
+        "aValue": 4.28,
+        "bValue": 2.1,
+        "ratio": 2.04,
+        "unit": "m"
+      },
+      {
+        "a": "Small car engine",
+        "b": "Kangaroo",
+        "dimension": "weight",
+        "aValue": 181.9,
+        "bValue": 85,
+        "ratio": 2.14,
+        "unit": "kg"
+      },
+      {
+        "a": "Cessna 172",
+        "b": "Swan",
+        "dimension": "wingspan",
+        "aValue": 10.99,
+        "bValue": 2.4,
+        "ratio": 4.58,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Eiffel Tower",
+        "b": "City bus",
+        "dimension": "length",
+        "aValue": 330.0,
+        "bValue": 12,
+        "ratio": 27.5,
+        "unit": "m"
+      },
+      {
+        "a": "Douglas fir",
+        "b": "Giant panda",
+        "dimension": "height",
+        "aValue": 77.0,
+        "bValue": 1.2,
+        "ratio": 64.17,
+        "unit": "m"
+      },
+      {
+        "a": "Rhino",
+        "b": "Ostrich",
+        "dimension": "weight",
+        "aValue": 2300.0,
+        "bValue": 100,
+        "ratio": 23.0,
+        "unit": "kg"
+      },
+      {
+        "a": "Concorde",
+        "b": "Heron",
+        "dimension": "wingspan",
+        "aValue": 25.6,
+        "bValue": 1.8,
+        "ratio": 14.22,
+        "unit": "m"
+      },
+      {
+        "a": "Tesla Model 3",
+        "b": "Emperor penguin",
+        "dimension": "length",
+        "aValue": 4.7,
+        "bValue": 1.1,
+        "ratio": 3.92,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Taipei 101",
+        "b": "Oak tree",
+        "dimension": "height",
+        "aValue": 635.0,
+        "bValue": 25,
+        "ratio": 25.4,
+        "unit": "m"
+      },
+      {
+        "a": "Ambulance",
+        "b": "Sea lion",
+        "dimension": "weight",
+        "aValue": 2917.5,
+        "bValue": 250,
+        "ratio": 11.67,
+        "unit": "kg"
+      },
+      {
+        "a": "Double-decker bus",
+        "b": "Anaconda",
+        "dimension": "length",
+        "aValue": 11,
+        "bValue": 6,
+        "ratio": 1.83,
+        "unit": "m"
+      },
+      {
+        "a": "Boeing 737",
+        "b": "Stork",
+        "dimension": "wingspan",
+        "aValue": 32.54,
+        "bValue": 2.0,
+        "ratio": 16.27,
+        "unit": "m"
+      },
+      {
+        "a": "Big Ben",
+        "b": "Llama",
+        "dimension": "height",
+        "aValue": 64.0,
+        "bValue": 1.2,
+        "ratio": 53.33,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Bag of cement",
+        "b": "Chicken",
+        "dimension": "weight",
+        "aValue": 25.0,
+        "bValue": 2,
+        "ratio": 12.5,
+        "unit": "kg"
+      },
+      {
+        "a": "Titanic",
+        "b": "Limousine",
+        "dimension": "length",
+        "aValue": 268.98,
+        "bValue": 6,
+        "ratio": 44.83,
+        "unit": "m"
+      },
+      {
+        "a": "Denali",
+        "b": "Mont Blanc",
+        "dimension": "height",
+        "aValue": 6202.32,
+        "bValue": 4808,
+        "ratio": 1.29,
+        "unit": "m"
+      },
+      {
+        "a": "Golden eagle",
+        "b": "Pigeon",
+        "dimension": "wingspan",
+        "aValue": 2.2,
+        "bValue": 0.7,
+        "ratio": 3.14,
+        "unit": "m"
+      },
+      {
+        "a": "Giant panda",
+        "b": "Orangutan",
+        "dimension": "weight",
+        "aValue": 100.0,
+        "bValue": 80,
+        "ratio": 1.25,
+        "unit": "kg"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Eiffel Tower",
+        "b": "Boeing 747",
+        "dimension": "length",
+        "aValue": 328.76,
+        "bValue": 70.7,
+        "ratio": 4.65,
+        "unit": "m"
+      },
+      {
+        "a": "B-52 bomber",
+        "b": "Flying fox",
+        "dimension": "wingspan",
+        "aValue": 63.92,
+        "bValue": 1.7,
+        "ratio": 37.6,
+        "unit": "m"
+      },
+      {
+        "a": "Petronas Towers",
+        "b": "Christ the Redeemer",
+        "dimension": "height",
+        "aValue": 451.82,
+        "bValue": 38,
+        "ratio": 11.89,
+        "unit": "m"
+      },
+      {
+        "a": "Airbus A320",
+        "b": "Tesla Model 3",
+        "dimension": "weight",
+        "aValue": 42000,
+        "bValue": 1800,
+        "ratio": 43.33,
+        "unit": "kg"
+      },
+      {
+        "a": "Seine",
+        "b": "Space Shuttle orbiter",
+        "dimension": "length",
+        "aValue": 777.0,
+        "bValue": 37,
+        "ratio": 21.0,
+        "unit": "m"
+      }
+    ]
+  },
+  {
+    "rounds": [
+      {
+        "a": "Boeing 747",
+        "b": "Bald eagle",
+        "dimension": "wingspan",
+        "aValue": 68.4,
+        "bValue": 2.3,
+        "ratio": 28.0,
+        "unit": "m"
+      },
+      {
+        "a": "Denali",
+        "b": "Taipei 101",
+        "dimension": "height",
+        "aValue": 6192.52,
+        "bValue": 508,
+        "ratio": 12.19,
+        "unit": "m"
+      },
+      {
+        "a": "Rhine",
+        "b": "Airbus A320",
+        "dimension": "length",
+        "aValue": 1229.9,
+        "bValue": 37.6,
+        "ratio": 32.71,
+        "unit": "m"
+      },
+      {
+        "a": "Ambulance",
+        "b": "Great white shark",
+        "dimension": "weight",
+        "aValue": 3498.0,
+        "bValue": 1100,
+        "ratio": 3.18,
+        "unit": "kg"
+      },
+      {
+        "a": "F-22 Raptor",
+        "b": "Great horned owl",
+        "dimension": "wingspan",
+        "aValue": 13.59,
+        "bValue": 1.4,
+        "ratio": 9.71,
+        "unit": "m"
+      }
+    ]
+  }
+]

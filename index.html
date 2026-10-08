@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ScaleShift – Daily Scale Guess</title>
+    <link rel="icon" type="image/png" href="assets/scaleshift-icon.png">
+    <link rel="apple-touch-icon" href="assets/scaleshift-icon.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>ScaleShift</h1>
+    <div class="subtitle">How well do you know the scale of the world?</div>
+    <div class="stats">
+      <span id="day-number">Day #1</span>
+      <span id="streak">Streak: 0</span>
+      <button class="sound-toggle" id="sound-toggle" aria-label="Mute sound" title="Mute sound">🔊</button>
+    </div>
+  </header>
+
+  <div class="card" id="game-card">
+    <!-- Game content injected by JS -->
+  </div>
+
+  <script type="module" src="app.js"></script>
+
+</body>
+</html>
