@@ -331,28 +331,14 @@ document.getElementById("sound-toggle")?.addEventListener("click", event => {
   toggleSound();
 });
 
-function ratioToSliderPosition(ratio, maxRatio = MAX_RATIO) {
-  const safeMax = Math.max(MIN_RATIO + 0.001, Number(maxRatio) || MAX_RATIO);
-  const bounded = Math.min(safeMax, Math.max(MIN_RATIO, Number(ratio)));
-  return Math.round(Math.log(bounded / MIN_RATIO) / Math.log(safeMax / MIN_RATIO) * SLIDER_STEPS);
+function ratioToSliderPosition(ratio) {
+  const bounded = Math.min(MAX_RATIO, Math.max(MIN_RATIO, ratio));
+  return Math.round(Math.log(bounded / MIN_RATIO) / Math.log(MAX_RATIO / MIN_RATIO) * SLIDER_STEPS);
 }
 
-function sliderPositionToRatio(position, maxRatio = MAX_RATIO) {
-  const safeMax = Math.max(MIN_RATIO + 0.001, Number(maxRatio) || MAX_RATIO);
+function sliderPositionToRatio(position) {
   const fraction = Number(position) / SLIDER_STEPS;
-  return MIN_RATIO * Math.pow(safeMax / MIN_RATIO, fraction);
-}
-
-function getSliderMarkers(maxRatio) {
-  const candidates = [1, 2, 5, 10, 20, 50, 100];
-  const markers = candidates.filter(value => value < maxRatio);
-  markers.push(maxRatio);
-  return markers.map((value, index) => {
-    const left = Math.log(value / MIN_RATIO) / Math.log(maxRatio / MIN_RATIO) * 100;
-    const transform = index === 0 ? "translateX(0)" :
-      index === markers.length - 1 ? "translateX(-100%)" : "translateX(-50%)";
-    return `<span style="left:${left}%;transform:${transform}">${value}×</span>`;
-  }).join("");
+  return MIN_RATIO * Math.pow(MAX_RATIO / MIN_RATIO, fraction);
 }
 
 function render() {
@@ -367,9 +353,7 @@ function render() {
   const baseValue = Number(round.baseValue);
   const baseObject = round.baseObject || round.b;
   const targetObject = round.targetObject || round.a;
-  const sliderMax = Math.max(4, Math.min(MAX_RATIO, Number(round.sliderMax) || MAX_RATIO));
-  // Start at a neutral midpoint on the logarithmic scale, not at the answer.
-  const initialRatio = Math.sqrt(sliderMax);
+  const initialRatio = 5;
   const initialEstimate = baseValue * initialRatio;
   const estimateMarkup = `
     <div class="estimate-guide">
@@ -407,13 +391,13 @@ function render() {
 
     <div class="slider-container">
       <input type="range" id="ratio-slider" min="0" max="${SLIDER_STEPS}" step="1"
-        value="${ratioToSliderPosition(initialRatio, sliderMax)}" aria-label="Your ratio estimate">
+        value="${ratioToSliderPosition(5)}" aria-label="Your ratio estimate">
       <div class="slider-markers" aria-hidden="true">
-        ${getSliderMarkers(sliderMax)}
+        <span>1×</span><span>2×</span><span>5×</span><span>10×</span><span>20×</span><span>50×</span><span>100×</span>
       </div>
     </div>
 
-    <div class="guess-display" id="guess-value">${formatRatio(initialRatio)}</div>
+    <div class="guess-display" id="guess-value">5.0×</div>
     <div class="guess-label">Your estimate</div>
     <button class="btn-primary" id="lock-btn">Lock In</button>
   `;
@@ -425,7 +409,7 @@ function render() {
 
   const updateSlider = () => {
     const position = Number(slider.value);
-    const ratio = sliderPositionToRatio(position, sliderMax);
+    const ratio = sliderPositionToRatio(position);
     const percentage = (position / SLIDER_STEPS) * 100;
     slider.style.setProperty("--progress", `${percentage}%`);
     display.textContent = `${ratio.toFixed(1)}×`;

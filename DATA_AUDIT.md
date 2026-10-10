@@ -233,3 +233,12 @@ The following rounds have A smaller than B based on the supplied numeric values.
 | 100 | 1 | Boeing 747 vs. Bald eagle | 28 | 29.7391 |
 | 100 | 3 | Rhine vs. Airbus A320 | 32.71 | 32.7101 |
 | 100 | 5 | F-22 Raptor vs. Great horned owl | 9.71 | 9.7071 |
+
+
+## Diversity pass (October 2026)
+
+A diversity pass replaced selected overused aircraft comparisons and corrected same-day repeated object names in future daily sets. Examples now include Pokémon (using Pokédex measurements), Godzilla (2014 film), the Millennium Falcon, the TARDIS, Hogwarts Castle, and additional everyday objects.
+
+**Fictional measurements:** Hogwarts Castle and the TARDIS do not have a single universally canonical real-world measurement, so the values used are explicitly marked as estimates in their names. Godzilla is tied to the 2014 film version. Pokémon weights use Pokédex entries (for example, Charizard 90.5 kg and Snorlax 460 kg).
+
+This pass is not a full source-by-source verification of all 500 original questions. Please review the remaining dataset for real-world measurement accuracy before launch.

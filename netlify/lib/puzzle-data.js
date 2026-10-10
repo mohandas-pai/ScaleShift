@@ -204,13 +204,13 @@ module.exports = [
         "sliderMax": 100
       },
       {
-        "a": "Humpback whale",
-        "b": "City bus",
-        "dimension": "length",
-        "aValue": 15,
-        "bValue": 12,
-        "ratio": 1.25,
-        "unit": "m",
+        "a": "Pikachu",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 6.0,
+        "bValue": 4.5,
+        "ratio": 1.3333,
+        "unit": "kg",
         "sliderMax": 4
       }
     ]
@@ -302,14 +302,14 @@ module.exports = [
         "sliderMax": 10
       },
       {
-        "a": "Boeing 747",
-        "b": "Golden eagle",
-        "dimension": "wingspan",
-        "aValue": 68.4,
-        "bValue": 2.3,
-        "ratio": 29.7391,
-        "unit": "m",
-        "sliderMax": 100
+        "a": "Charizard",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 90.5,
+        "bValue": 4.5,
+        "ratio": 20.1111,
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Blue whale",
@@ -572,24 +572,24 @@ module.exports = [
         "sliderMax": 10
       },
       {
-        "a": "Boeing 777",
-        "b": "Cessna 172",
-        "dimension": "wingspan",
-        "aValue": 64.8,
-        "bValue": 11.0,
-        "ratio": 5.8909,
-        "unit": "m",
-        "sliderMax": 20
+        "a": "Mewtwo",
+        "b": "Wolf",
+        "dimension": "weight",
+        "aValue": 122,
+        "bValue": 45,
+        "ratio": 2.7111,
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
-        "a": "Starship",
-        "b": "Airbus A320",
-        "dimension": "length",
-        "aValue": 121.07,
-        "bValue": 37.6,
-        "ratio": 3.2199,
-        "unit": "m",
-        "sliderMax": 10
+        "a": "Snorlax",
+        "b": "Grand piano",
+        "dimension": "weight",
+        "aValue": 460,
+        "bValue": 500,
+        "ratio": 1.087,
+        "unit": "kg",
+        "sliderMax": 4
       }
     ]
   },
@@ -758,14 +758,14 @@ module.exports = [
   {
     "rounds": [
       {
-        "a": "Boeing 747",
-        "b": "B-2 Spirit",
-        "dimension": "wingspan",
-        "aValue": 68.4,
-        "bValue": 52.4,
-        "ratio": 1.3053,
+        "a": "Eiffel Tower",
+        "b": "Hogwarts Castle (fictional estimate)",
+        "dimension": "height",
+        "aValue": 330,
+        "bValue": 150,
+        "ratio": 2.2,
         "unit": "m",
-        "sliderMax": 4
+        "sliderMax": 10
       },
       {
         "a": "African elephant",
@@ -817,7 +817,7 @@ module.exports = [
         "dimension": "length",
         "aValue": 15,
         "bValue": 3500,
-        "ratio": 0.0043,
+        "ratio": 233.3333,
         "unit": "m",
         "sliderMax": 100
       },
@@ -906,14 +906,14 @@ module.exports = [
         "sliderMax": 4
       },
       {
-        "a": "Adult human",
-        "b": "Emperor penguin",
-        "dimension": "height",
-        "aValue": 1.7,
-        "bValue": 1.2,
-        "ratio": 1.4167,
-        "unit": "m",
-        "sliderMax": 4
+        "a": "Mewtwo",
+        "b": "Wolf",
+        "dimension": "weight",
+        "aValue": 122,
+        "bValue": 45,
+        "ratio": 2.7111,
+        "unit": "kg",
+        "sliderMax": 10
       }
     ]
   },
@@ -1112,14 +1112,14 @@ module.exports = [
         "sliderMax": 20
       },
       {
-        "a": "Boeing 747",
-        "b": "Crow",
-        "dimension": "wingspan",
-        "aValue": 68.4,
-        "bValue": 1.0,
-        "ratio": 68.4,
+        "a": "Millennium Falcon",
+        "b": "London black cab",
+        "dimension": "length",
+        "aValue": 34.75,
+        "bValue": 4.5,
+        "ratio": 7.7222,
         "unit": "m",
-        "sliderMax": 100
+        "sliderMax": 20
       },
       {
         "a": "Limousine",
@@ -1141,7 +1141,7 @@ module.exports = [
         "dimension": "height",
         "aValue": 3.5,
         "bValue": 4,
-        "ratio": 0.875,
+        "ratio": 1.1429,
         "unit": "m",
         "sliderMax": 4
       },
@@ -1298,14 +1298,14 @@ module.exports = [
   {
     "rounds": [
       {
-        "a": "F-22 Raptor",
-        "b": "Snowy owl",
-        "dimension": "wingspan",
-        "aValue": 13.6,
-        "bValue": 1.6,
-        "ratio": 8.5,
-        "unit": "m",
-        "sliderMax": 20
+        "a": "Pikachu",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 6.0,
+        "bValue": 4.5,
+        "ratio": 1.3333,
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Petronas Towers",
@@ -1338,26 +1338,26 @@ module.exports = [
         "sliderMax": 100
       },
       {
-        "a": "Boeing 747",
-        "b": "F-22 Raptor",
-        "dimension": "wingspan",
-        "aValue": 68.4,
-        "bValue": 13.6,
-        "ratio": 5.0294,
+        "a": "Godzilla (2014 film)",
+        "b": "Giraffe",
+        "dimension": "height",
+        "aValue": 108,
+        "bValue": 5.5,
+        "ratio": 19.6364,
         "unit": "m",
-        "sliderMax": 20
+        "sliderMax": 50
       }
     ]
   },
   {
     "rounds": [
       {
-        "a": "Space Shuttle orbiter",
+        "a": "Millennium Falcon",
         "b": "Cheetah",
         "dimension": "length",
-        "aValue": 37.01,
+        "aValue": 34.75,
         "bValue": 1.5,
-        "ratio": 24.6733,
+        "ratio": 23.1667,
         "unit": "m",
         "sliderMax": 50
       },
@@ -1436,14 +1436,14 @@ module.exports = [
         "sliderMax": 20
       },
       {
-        "a": "B-2 Spirit",
-        "b": "Mute swan",
-        "dimension": "wingspan",
-        "aValue": 52.39,
-        "bValue": 2.4,
-        "ratio": 21.8292,
+        "a": "TARDIS (approx. exterior height)",
+        "b": "Adult human",
+        "dimension": "height",
+        "aValue": 3.0,
+        "bValue": 1.75,
+        "ratio": 1.7143,
         "unit": "m",
-        "sliderMax": 50
+        "sliderMax": 4
       },
       {
         "a": "Eucalyptus tree",
@@ -1480,14 +1480,14 @@ module.exports = [
         "sliderMax": 10
       },
       {
-        "a": "Sunflower",
-        "b": "Ostrich",
-        "dimension": "height",
-        "aValue": 3.5,
-        "bValue": 2.5,
-        "ratio": 1.4,
-        "unit": "m",
-        "sliderMax": 4
+        "a": "Charizard",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 90.5,
+        "bValue": 4.5,
+        "ratio": 20.1111,
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "F-22 Raptor",
@@ -1568,14 +1568,14 @@ module.exports = [
   {
     "rounds": [
       {
-        "a": "B-52 bomber",
-        "b": "Pelican",
-        "dimension": "wingspan",
-        "aValue": 54.46,
-        "bValue": 2.8,
-        "ratio": 19.45,
-        "unit": "m",
-        "sliderMax": 50
+        "a": "Snorlax",
+        "b": "Washing machine",
+        "dimension": "weight",
+        "aValue": 460,
+        "bValue": 70,
+        "ratio": 6.5714,
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Adult human",
@@ -1652,14 +1652,14 @@ module.exports = [
         "sliderMax": 10
       },
       {
-        "a": "Pelican",
-        "b": "Barn owl",
-        "dimension": "wingspan",
-        "aValue": 2.64,
-        "bValue": 1.0,
-        "ratio": 2.64,
-        "unit": "m",
-        "sliderMax": 10
+        "a": "Dragonite",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 210,
+        "bValue": 4.5,
+        "ratio": 46.6667,
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Starship",
@@ -1760,14 +1760,14 @@ module.exports = [
         "sliderMax": 100
       },
       {
-        "a": "Boeing 777",
-        "b": "Stork",
-        "dimension": "wingspan",
-        "aValue": 64.8,
-        "bValue": 2.0,
-        "ratio": 32.4,
+        "a": "Godzilla (2014 film)",
+        "b": "Giraffe",
+        "dimension": "height",
+        "aValue": 108,
+        "bValue": 5.5,
+        "ratio": 19.6364,
         "unit": "m",
-        "sliderMax": 100
+        "sliderMax": 50
       },
       {
         "a": "Grizzly bear",
@@ -1966,24 +1966,24 @@ module.exports = [
         "sliderMax": 10
       },
       {
-        "a": "Nile crocodile",
-        "b": "Kangaroo",
-        "dimension": "length",
-        "aValue": 5,
-        "bValue": 2.8,
-        "ratio": 1.7857,
-        "unit": "m",
-        "sliderMax": 4
+        "a": "Mewtwo",
+        "b": "Wolf",
+        "dimension": "weight",
+        "aValue": 122,
+        "bValue": 45,
+        "ratio": 2.7111,
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
-        "a": "B-2 Spirit",
-        "b": "Airbus A320",
-        "dimension": "wingspan",
-        "aValue": 52.27,
-        "bValue": 35.8,
-        "ratio": 1.4601,
-        "unit": "m",
-        "sliderMax": 4
+        "a": "Blastoise",
+        "b": "Medium dog",
+        "dimension": "weight",
+        "aValue": 85.5,
+        "bValue": 20,
+        "ratio": 4.275,
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Kangchenjunga",
@@ -2192,13 +2192,13 @@ module.exports = [
         "sliderMax": 100
       },
       {
-        "a": "Boeing 777",
-        "b": "F-22 Raptor",
-        "dimension": "wingspan",
-        "aValue": 64.8,
-        "bValue": 13.6,
-        "ratio": 4.7647,
-        "unit": "m",
+        "a": "Mewtwo",
+        "b": "Wolf",
+        "dimension": "weight",
+        "aValue": 122,
+        "bValue": 45,
+        "ratio": 2.7111,
+        "unit": "kg",
         "sliderMax": 10
       },
       {
@@ -2300,14 +2300,14 @@ module.exports = [
         "sliderMax": 10
       },
       {
-        "a": "F-16 fighter jet",
-        "b": "Mute swan",
-        "dimension": "wingspan",
-        "aValue": 10,
-        "bValue": 2.4,
-        "ratio": 4.1667,
-        "unit": "m",
-        "sliderMax": 10
+        "a": "Pikachu",
+        "b": "Adult human",
+        "dimension": "weight",
+        "aValue": 6.0,
+        "bValue": 75,
+        "ratio": 12.5,
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Great white shark",
@@ -2324,12 +2324,12 @@ module.exports = [
   {
     "rounds": [
       {
-        "a": "Boeing 747",
-        "b": "Airbus A320",
-        "dimension": "length",
-        "aValue": 70.7,
-        "bValue": 37.6,
-        "ratio": 1.8803,
+        "a": "Hogwarts Castle (fictional estimate)",
+        "b": "Statue of Liberty",
+        "dimension": "height",
+        "aValue": 150,
+        "bValue": 93,
+        "ratio": 1.6129,
         "unit": "m",
         "sliderMax": 4
       },
@@ -2472,38 +2472,38 @@ module.exports = [
         "sliderMax": 50
       },
       {
-        "a": "Olympic swimming pool",
-        "b": "Giant panda",
-        "dimension": "length",
-        "aValue": 50.0,
-        "bValue": 1.8,
-        "ratio": 27.7778,
+        "a": "Godzilla (2014 film)",
+        "b": "Giraffe",
+        "dimension": "height",
+        "aValue": 108,
+        "bValue": 5.5,
+        "ratio": 19.6364,
         "unit": "m",
-        "sliderMax": 100
+        "sliderMax": 50
       }
     ]
   },
   {
     "rounds": [
       {
-        "a": "Baobab tree",
-        "b": "Kangaroo",
+        "a": "TARDIS (approx. exterior height)",
+        "b": "Adult human",
         "dimension": "height",
-        "aValue": 14.99,
-        "bValue": 1.8,
-        "ratio": 8.3278,
+        "aValue": 3,
+        "bValue": 1.75,
+        "ratio": 1.7143,
         "unit": "m",
-        "sliderMax": 20
+        "sliderMax": 4
       },
       {
-        "a": "Polar bear",
-        "b": "Adult human",
+        "a": "Mewtwo",
+        "b": "Wolf",
         "dimension": "weight",
-        "aValue": 480.0,
-        "bValue": 80,
-        "ratio": 6.0,
+        "aValue": 122,
+        "bValue": 45,
+        "ratio": 2.7111,
         "unit": "kg",
-        "sliderMax": 20
+        "sliderMax": 10
       },
       {
         "a": "Blue whale",
@@ -2516,14 +2516,14 @@ module.exports = [
         "sliderMax": 10
       },
       {
-        "a": "F-22 Raptor",
-        "b": "Crow",
-        "dimension": "wingspan",
-        "aValue": 13.6,
-        "bValue": 1.0,
-        "ratio": 13.6,
+        "a": "Millennium Falcon",
+        "b": "School bus",
+        "dimension": "length",
+        "aValue": 34.75,
+        "bValue": 12,
+        "ratio": 2.8958,
         "unit": "m",
-        "sliderMax": 50
+        "sliderMax": 10
       },
       {
         "a": "Baobab tree",
@@ -2648,14 +2648,14 @@ module.exports = [
   {
     "rounds": [
       {
-        "a": "F-22 Raptor",
-        "b": "Wandering albatross",
-        "dimension": "wingspan",
-        "aValue": 12.88,
-        "bValue": 3.5,
-        "ratio": 3.68,
-        "unit": "m",
-        "sliderMax": 10
+        "a": "Snorlax",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 460,
+        "bValue": 4.5,
+        "ratio": 102.2222,
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Petronas Towers",
@@ -2933,7 +2933,7 @@ module.exports = [
         "dimension": "height",
         "aValue": 0.5,
         "bValue": 0.6,
-        "ratio": 0.8333,
+        "ratio": 1.2,
         "unit": "m",
         "sliderMax": 4
       },
@@ -2958,13 +2958,13 @@ module.exports = [
         "sliderMax": 4
       },
       {
-        "a": "Wandering albatross",
-        "b": "Flying fox",
-        "dimension": "wingspan",
-        "aValue": 4.2,
-        "bValue": 1.7,
-        "ratio": 2.4706,
-        "unit": "m",
+        "a": "Blastoise",
+        "b": "Medium dog",
+        "dimension": "weight",
+        "aValue": 85.5,
+        "bValue": 20,
+        "ratio": 4.275,
+        "unit": "kg",
         "sliderMax": 10
       }
     ]
@@ -3110,14 +3110,14 @@ module.exports = [
         "sliderMax": 20
       },
       {
-        "a": "B-2 Spirit",
-        "b": "F-16 fighter jet",
-        "dimension": "wingspan",
-        "aValue": 52.6,
-        "bValue": 10,
-        "ratio": 5.26,
-        "unit": "m",
-        "sliderMax": 20
+        "a": "Mewtwo",
+        "b": "Wolf",
+        "dimension": "weight",
+        "aValue": 122,
+        "bValue": 45,
+        "ratio": 2.7111,
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Fire truck",
@@ -3228,14 +3228,14 @@ module.exports = [
         "sliderMax": 100
       },
       {
-        "a": "Boeing 777",
-        "b": "Pelican",
-        "dimension": "wingspan",
-        "aValue": 64.8,
-        "bValue": 2.8,
-        "ratio": 23.1429,
-        "unit": "m",
-        "sliderMax": 50
+        "a": "Charizard",
+        "b": "Great Dane",
+        "dimension": "weight",
+        "aValue": 90.5,
+        "bValue": 70,
+        "ratio": 1.2929,
+        "unit": "kg",
+        "sliderMax": 4
       }
     ]
   },
@@ -3522,14 +3522,14 @@ module.exports = [
         "sliderMax": 4
       },
       {
-        "a": "Grizzly bear",
-        "b": "Great dane",
-        "dimension": "height",
-        "aValue": 131.6,
-        "bValue": 70,
-        "ratio": 1.88,
-        "unit": "m",
-        "sliderMax": 4
+        "a": "Dragonite",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 210,
+        "bValue": 4.5,
+        "ratio": 46.6667,
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Sperm whale",
@@ -3606,14 +3606,14 @@ module.exports = [
         "sliderMax": 4
       },
       {
-        "a": "Kangchenjunga",
-        "b": "Big Ben",
+        "a": "Godzilla (2014 film)",
+        "b": "Statue of Liberty",
         "dimension": "height",
-        "aValue": 8586.24,
-        "bValue": 96,
-        "ratio": 89.44,
+        "aValue": 108,
+        "bValue": 93,
+        "ratio": 1.1613,
         "unit": "m",
-        "sliderMax": 100
+        "sliderMax": 4
       }
     ]
   },
@@ -3768,28 +3768,28 @@ module.exports = [
         "sliderMax": 20
       },
       {
-        "a": "F-16 fighter jet",
-        "b": "California condor",
-        "dimension": "wingspan",
-        "aValue": 10,
-        "bValue": 3.0,
-        "ratio": 3.3333,
-        "unit": "m",
-        "sliderMax": 10
+        "a": "Pikachu",
+        "b": "Pig",
+        "dimension": "weight",
+        "aValue": 6.0,
+        "bValue": 140,
+        "ratio": 23.3333,
+        "unit": "kg",
+        "sliderMax": 50
       }
     ]
   },
   {
     "rounds": [
       {
-        "a": "Boeing 777",
-        "b": "Fire truck",
-        "dimension": "length",
-        "aValue": 74,
-        "bValue": 15000,
-        "ratio": 0.0049,
+        "a": "Hogwarts Castle (fictional estimate)",
+        "b": "Eiffel Tower",
+        "dimension": "height",
+        "aValue": 150,
+        "bValue": 330,
+        "ratio": 2.2,
         "unit": "m",
-        "sliderMax": 100
+        "sliderMax": 10
       },
       {
         "a": "Ostrich",
@@ -3876,14 +3876,14 @@ module.exports = [
         "sliderMax": 4
       },
       {
-        "a": "Kangaroo",
-        "b": "Emperor penguin",
-        "dimension": "height",
-        "aValue": 1.8,
-        "bValue": 1.2,
-        "ratio": 1.5,
-        "unit": "m",
-        "sliderMax": 4
+        "a": "Snorlax",
+        "b": "Washing machine",
+        "dimension": "weight",
+        "aValue": 460,
+        "bValue": 70,
+        "ratio": 6.5714,
+        "unit": "kg",
+        "sliderMax": 20
       }
     ]
   },
@@ -3998,14 +3998,14 @@ module.exports = [
   {
     "rounds": [
       {
-        "a": "F-22 Raptor",
-        "b": "Barn owl",
-        "dimension": "wingspan",
-        "aValue": 12.36,
-        "bValue": 1.0,
-        "ratio": 12.36,
-        "unit": "m",
-        "sliderMax": 50
+        "a": "Dragonite",
+        "b": "Wolf",
+        "dimension": "weight",
+        "aValue": 210,
+        "bValue": 45,
+        "ratio": 4.6667,
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Taipei 101",
@@ -4190,14 +4190,14 @@ module.exports = [
         "sliderMax": 20
       },
       {
-        "a": "B-2 Spirit",
-        "b": "Snowy owl",
-        "dimension": "wingspan",
-        "aValue": 52.4,
-        "bValue": 1.6,
-        "ratio": 32.75,
+        "a": "Millennium Falcon",
+        "b": "London black cab",
+        "dimension": "length",
+        "aValue": 34.75,
+        "bValue": 4.5,
+        "ratio": 7.7222,
         "unit": "m",
-        "sliderMax": 100
+        "sliderMax": 20
       },
       {
         "a": "Piano",
@@ -4352,13 +4352,13 @@ module.exports = [
         "sliderMax": 10
       },
       {
-        "a": "Airbus A380",
-        "b": "Boeing 777",
-        "dimension": "wingspan",
-        "aValue": 79.8,
-        "bValue": 64.8,
-        "ratio": 1.2315,
-        "unit": "m",
+        "a": "Snorlax",
+        "b": "Grizzly bear",
+        "dimension": "weight",
+        "aValue": 460,
+        "bValue": 360,
+        "ratio": 1.2778,
+        "unit": "kg",
         "sliderMax": 4
       },
       {
@@ -4578,14 +4578,14 @@ module.exports = [
         "sliderMax": 100
       },
       {
-        "a": "Bald eagle",
-        "b": "Snowy owl",
-        "dimension": "wingspan",
-        "aValue": 2.3,
-        "bValue": 1.6,
-        "ratio": 1.4375,
-        "unit": "m",
-        "sliderMax": 4
+        "a": "Pikachu",
+        "b": "Pig",
+        "dimension": "weight",
+        "aValue": 6,
+        "bValue": 140,
+        "ratio": 23.3333,
+        "unit": "kg",
+        "sliderMax": 50
       }
     ]
   },
@@ -4764,14 +4764,14 @@ module.exports = [
         "sliderMax": 10
       },
       {
-        "a": "B-2 Spirit",
-        "b": "Swan",
-        "dimension": "wingspan",
-        "aValue": 52.39,
-        "bValue": 2.4,
-        "ratio": 21.8292,
+        "a": "TARDIS (approx. exterior height)",
+        "b": "Telephone booth",
+        "dimension": "height",
+        "aValue": 3.0,
+        "bValue": 2.5,
+        "ratio": 1.2,
         "unit": "m",
-        "sliderMax": 50
+        "sliderMax": 4
       },
       {
         "a": "Bamboo",
@@ -4808,13 +4808,13 @@ module.exports = [
   {
     "rounds": [
       {
-        "a": "B-2 Spirit",
-        "b": "Wandering albatross",
-        "dimension": "wingspan",
-        "aValue": 49.56,
-        "bValue": 3.5,
-        "ratio": 14.16,
-        "unit": "m",
+        "a": "Pikachu",
+        "b": "Adult human",
+        "dimension": "weight",
+        "aValue": 6.0,
+        "bValue": 75,
+        "ratio": 12.5,
+        "unit": "kg",
         "sliderMax": 50
       },
       {
@@ -4985,7 +4985,7 @@ module.exports = [
         "dimension": "length",
         "aValue": 111,
         "bValue": 15000,
-        "ratio": 0.0074,
+        "ratio": 135.1351,
         "unit": "m",
         "sliderMax": 100
       },
@@ -5304,14 +5304,14 @@ module.exports = [
         "sliderMax": 10
       },
       {
-        "a": "B-52 bomber",
-        "b": "Flying fox",
-        "dimension": "wingspan",
-        "aValue": 63.92,
-        "bValue": 1.7,
-        "ratio": 37.6,
-        "unit": "m",
-        "sliderMax": 100
+        "a": "Charizard",
+        "b": "Domestic cat",
+        "dimension": "weight",
+        "aValue": 90.5,
+        "bValue": 4.5,
+        "ratio": 20.1111,
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Petronas Towers",
