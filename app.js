@@ -361,7 +361,7 @@ function render() {
   card.innerHTML = `
     <div class="progress-dots" aria-label="Round progress">
       ${Array.from({ length: TOTAL_ROUNDS }, (_, i) =>
-      `<div class="dot ${i < currentRound ? "done" : ""} ${i === currentRound ? "current" : ""}"></div>`
+        `<div class="dot ${i < currentRound ? "done" : ""} ${i === currentRound ? "current" : ""}"></div>`
       ).join("")}
     </div>
 
@@ -571,22 +571,39 @@ function showFinalScreen() {
   const total = getCumulativeScore();
   const shareText = makeShareText(total);
 
+  const emojiLine = scores.slice(0, TOTAL_ROUNDS).map(getScoreEmoji).join("");
+
   card.innerHTML = `
     <div class="final-screen">
       <div class="result-title">ScaleShift #${dayIndex + 1}</div>
       <div class="final-score">${total}<span class="final-denominator">/500</span></div>
-      <div class="final-intro">Your five-round breakdown</div>
-      <div class="final-rounds">
+      <div class="final-intro">Your daily result</div>
+      <div class="final-emoji-breakdown" aria-label="Round score emojis">${emojiLine}</div>
+
+      <button class="btn-primary final-copy-btn" id="copy-btn">📋 Copy Results &amp; Challenge Friends</button>
+      <div class="copy-status" id="copy-status" role="status" aria-live="polite"></div>
+
+      <button class="btn-secondary breakdown-toggle" id="breakdown-toggle"
+        aria-expanded="false" aria-controls="final-rounds">
+        Show round-by-round breakdown <span aria-hidden="true">⌄</span>
+      </button>
+      <div class="final-rounds" id="final-rounds" hidden>
         ${Array.from({ length: TOTAL_ROUNDS }, (_, i) => renderFinalResultCard(results[i], i)).join("")}
       </div>
-      <div class="share-heading">Challenge your friends</div>
-      <div class="share-box" id="share-text"></div>
-      <button class="btn-primary" id="copy-btn">📋 Copy Results &amp; Challenge Friends</button>
-      <div class="copy-status" id="copy-status" role="status" aria-live="polite"></div>
     </div>
   `;
 
-  document.getElementById("share-text").textContent = shareText;
+  document.getElementById("breakdown-toggle").addEventListener("click", () => {
+    const button = document.getElementById("breakdown-toggle");
+    const rounds = document.getElementById("final-rounds");
+    const expanded = button.getAttribute("aria-expanded") === "true";
+    button.setAttribute("aria-expanded", String(!expanded));
+    rounds.hidden = expanded;
+    button.innerHTML = expanded
+      ? 'Show round-by-round breakdown <span aria-hidden="true">⌄</span>'
+      : 'Hide round-by-round breakdown <span aria-hidden="true">⌃</span>';
+  });
+
   document.getElementById("copy-btn").addEventListener("click", async () => {
     const button = document.getElementById("copy-btn");
     const status = document.getElementById("copy-status");

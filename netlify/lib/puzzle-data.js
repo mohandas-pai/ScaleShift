@@ -737,12 +737,12 @@ module.exports = [
   {
     "rounds": [
       {
-        "a": "Ambulance",
-        "b": "F-16 fighter jet",
+        "a": "F-16 fighter jet",
+        "b": "Ambulance",
         "dimension": "length",
-        "aValue": 3500,
-        "bValue": 15,
-        "ratio": 233.3333,
+        "aValue": 15,
+        "bValue": 3500,
+        "ratio": 0.0043,
         "unit": "m"
       },
       {
@@ -1031,12 +1031,12 @@ module.exports = [
   {
     "rounds": [
       {
-        "a": "Domestic cat",
-        "b": "Sunflower",
+        "a": "Sunflower",
+        "b": "Domestic cat",
         "dimension": "height",
-        "aValue": 4,
-        "bValue": 3.5,
-        "ratio": 1.1429,
+        "aValue": 3.5,
+        "bValue": 4,
+        "ratio": 0.875,
         "unit": "m"
       },
       {
@@ -2657,12 +2657,12 @@ module.exports = [
         "unit": "m"
       },
       {
-        "a": "Dog",
-        "b": "Nile crocodile",
+        "a": "Nile crocodile",
+        "b": "Dog",
         "dimension": "height",
-        "aValue": 0.6,
-        "bValue": 0.5,
-        "ratio": 1.2,
+        "aValue": 0.5,
+        "bValue": 0.6,
+        "ratio": 0.8333,
         "unit": "m"
       },
       {
@@ -3432,12 +3432,12 @@ module.exports = [
   {
     "rounds": [
       {
-        "a": "Fire truck",
-        "b": "Boeing 777",
+        "a": "Boeing 777",
+        "b": "Fire truck",
         "dimension": "length",
-        "aValue": 15000,
-        "bValue": 74,
-        "ratio": 202.7027,
+        "aValue": 74,
+        "bValue": 15000,
+        "ratio": 0.0049,
         "unit": "m"
       },
       {
@@ -4519,12 +4519,12 @@ module.exports = [
         "unit": "kg"
       },
       {
-        "a": "Fire truck",
-        "b": "Saturn V rocket",
+        "a": "Saturn V rocket",
+        "b": "Fire truck",
         "dimension": "length",
-        "aValue": 15000,
-        "bValue": 111,
-        "ratio": 135.1351,
+        "aValue": 111,
+        "bValue": 15000,
+        "ratio": 0.0074,
         "unit": "m"
       },
       {

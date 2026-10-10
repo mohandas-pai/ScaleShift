@@ -693,3 +693,49 @@ input[type="range"]::-moz-range-thumb {
     font-size: 0.78rem;
   }
 }
+
+
+/* Compact, spoiler-free result screen */
+.final-emoji-breakdown {
+  margin: 10px 0 20px;
+  text-align: center;
+  font-size: clamp(1.8rem, 8vw, 2.5rem);
+  line-height: 1.25;
+  letter-spacing: 0.12em;
+  overflow-wrap: anywhere;
+}
+
+.final-copy-btn {
+  margin-top: 4px;
+}
+
+.breakdown-toggle {
+  width: 100%;
+  margin: 12px 0 4px;
+}
+
+.final-rounds[hidden] {
+  display: none !important;
+}
+
+.final-rounds:not([hidden]) {
+  margin-top: 14px;
+}
+
+@media (max-width: 480px) {
+  .final-screen > .final-score {
+    margin-top: 4px;
+  }
+
+  .final-intro {
+    margin-bottom: 8px;
+  }
+
+  .final-emoji-breakdown {
+    margin: 8px 0 16px;
+  }
+
+  .final-round {
+    padding: 12px;
+  }
+}
