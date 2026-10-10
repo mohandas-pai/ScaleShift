@@ -360,9 +360,9 @@ function render() {
 
   card.innerHTML = `
     <div class="progress-dots" aria-label="Round progress">
-      ${Array.from({ length: TOTAL_ROUNDS }, (_, i =>
-        `<div class="dot ${i < currentRound ? "done" : ""} ${i === currentRound ? "current" : ""}"></div>`
-      ).join(""))}
+      ${Array.from({ length: TOTAL_ROUNDS }, (_, i) =>
+      `<div class="dot ${i < currentRound ? "done" : ""} ${i === currentRound ? "current" : ""}"></div>`
+      ).join("")}
     </div>
 
     <div class="round-info">
