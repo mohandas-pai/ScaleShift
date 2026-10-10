@@ -8,7 +8,8 @@ module.exports = [
         "aValue": 74,
         "bValue": 5,
         "ratio": 14.8,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Bamboo",
@@ -17,7 +18,8 @@ module.exports = [
         "aValue": 20,
         "bValue": 3.5,
         "ratio": 5.7143,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Sea lion",
@@ -26,7 +28,8 @@ module.exports = [
         "aValue": 250,
         "bValue": 25,
         "ratio": 10.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Airbus A320",
@@ -35,7 +38,8 @@ module.exports = [
         "aValue": 35.8,
         "bValue": 2.3,
         "ratio": 15.5652,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Humpback whale",
@@ -44,7 +48,8 @@ module.exports = [
         "aValue": 15,
         "bValue": 6,
         "ratio": 2.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -57,7 +62,8 @@ module.exports = [
         "aValue": 827.52,
         "bValue": 96,
         "ratio": 8.62,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Pig",
@@ -66,7 +72,8 @@ module.exports = [
         "aValue": 140.0,
         "bValue": 70,
         "ratio": 2.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Queen Mary 2",
@@ -75,7 +82,8 @@ module.exports = [
         "aValue": 318.48,
         "bValue": 12,
         "ratio": 26.54,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Dragonfly",
@@ -84,7 +92,8 @@ module.exports = [
         "aValue": 0.12,
         "bValue": 0.1,
         "ratio": 1.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Big Ben",
@@ -93,7 +102,8 @@ module.exports = [
         "aValue": 96.0,
         "bValue": 20,
         "ratio": 4.8,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -106,7 +116,8 @@ module.exports = [
         "aValue": 75.0,
         "bValue": 30,
         "ratio": 2.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Queen Mary 2",
@@ -115,7 +126,8 @@ module.exports = [
         "aValue": 345.0,
         "bValue": 6,
         "ratio": 57.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Leaning Tower of Pisa",
@@ -124,7 +136,8 @@ module.exports = [
         "aValue": 57.01,
         "bValue": 1.8,
         "ratio": 31.6722,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Hang glider",
@@ -133,7 +146,8 @@ module.exports = [
         "aValue": 11.34,
         "bValue": 1.7,
         "ratio": 6.6706,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Shipping container",
@@ -142,7 +156,8 @@ module.exports = [
         "aValue": 3167.5,
         "bValue": 250,
         "ratio": 12.67,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       }
     ]
   },
@@ -155,7 +170,8 @@ module.exports = [
         "aValue": 23.85,
         "bValue": 15,
         "ratio": 1.59,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Bat",
@@ -164,7 +180,8 @@ module.exports = [
         "aValue": 0.42,
         "bValue": 0.1,
         "ratio": 4.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Gateway Arch",
@@ -173,7 +190,8 @@ module.exports = [
         "aValue": 192.0,
         "bValue": 96,
         "ratio": 2.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Whale shark",
@@ -182,7 +200,8 @@ module.exports = [
         "aValue": 15000,
         "bValue": 400,
         "ratio": 37.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Humpback whale",
@@ -191,7 +210,8 @@ module.exports = [
         "aValue": 15,
         "bValue": 12,
         "ratio": 1.25,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -204,7 +224,8 @@ module.exports = [
         "aValue": 2.2,
         "bValue": 1.8,
         "ratio": 1.2222,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Leaning Tower of Pisa",
@@ -213,7 +234,8 @@ module.exports = [
         "aValue": 55.26,
         "bValue": 3.2,
         "ratio": 17.2687,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Boeing 747",
@@ -222,7 +244,8 @@ module.exports = [
         "aValue": 70.7,
         "bValue": 6,
         "ratio": 11.7833,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Rhino",
@@ -231,7 +254,8 @@ module.exports = [
         "aValue": 2300.25,
         "bValue": 75,
         "ratio": 30.67,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Pelican",
@@ -240,7 +264,8 @@ module.exports = [
         "aValue": 2.9,
         "bValue": 1.0,
         "ratio": 2.9,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -253,7 +278,8 @@ module.exports = [
         "aValue": 70.7,
         "bValue": 4.3,
         "ratio": 16.4419,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Christ the Redeemer",
@@ -262,7 +288,8 @@ module.exports = [
         "aValue": 38.0,
         "bValue": 1.2,
         "ratio": 31.6667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Refrigerator",
@@ -271,7 +298,8 @@ module.exports = [
         "aValue": 80.1,
         "bValue": 30,
         "ratio": 2.67,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Boeing 747",
@@ -280,7 +308,8 @@ module.exports = [
         "aValue": 68.4,
         "bValue": 2.3,
         "ratio": 29.7391,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Blue whale",
@@ -289,7 +318,8 @@ module.exports = [
         "aValue": 26,
         "bValue": 3,
         "ratio": 8.6667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -302,7 +332,8 @@ module.exports = [
         "aValue": 171.99,
         "bValue": 2.1,
         "ratio": 81.9,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "African elephant",
@@ -311,7 +342,8 @@ module.exports = [
         "aValue": 5497.0,
         "bValue": 2300,
         "ratio": 2.39,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Nile River",
@@ -320,7 +352,8 @@ module.exports = [
         "aValue": 6650.91,
         "bValue": 2737,
         "ratio": 2.43,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Golden eagle",
@@ -329,7 +362,8 @@ module.exports = [
         "aValue": 2.2,
         "bValue": 1.4,
         "ratio": 1.5714,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Mont Blanc",
@@ -338,7 +372,8 @@ module.exports = [
         "aValue": 4810.76,
         "bValue": 508,
         "ratio": 9.47,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -351,7 +386,8 @@ module.exports = [
         "aValue": 1800,
         "bValue": 900,
         "ratio": 2.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Sperm whale",
@@ -360,7 +396,8 @@ module.exports = [
         "aValue": 18,
         "bValue": 6,
         "ratio": 3.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Kangaroo",
@@ -369,7 +406,8 @@ module.exports = [
         "aValue": 1.8,
         "bValue": 0.6,
         "ratio": 3.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "B-52 bomber",
@@ -378,7 +416,8 @@ module.exports = [
         "aValue": 56.4,
         "bValue": 3.0,
         "ratio": 18.8,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Great dane",
@@ -387,7 +426,8 @@ module.exports = [
         "aValue": 4643.0,
         "bValue": 100,
         "ratio": 46.43,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       }
     ]
   },
@@ -400,7 +440,8 @@ module.exports = [
         "aValue": 3.0,
         "bValue": 2.4,
         "ratio": 1.25,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Concorde",
@@ -409,7 +450,8 @@ module.exports = [
         "aValue": 25.6,
         "bValue": 18,
         "ratio": 1.4222,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Moose",
@@ -418,7 +460,8 @@ module.exports = [
         "aValue": 1.4,
         "bValue": 1.2,
         "ratio": 1.1667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Small car",
@@ -427,7 +470,8 @@ module.exports = [
         "aValue": 1100.0,
         "bValue": 80,
         "ratio": 13.75,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Boeing 747",
@@ -436,7 +480,8 @@ module.exports = [
         "aValue": 70.7,
         "bValue": 4.7,
         "ratio": 15.0426,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -449,7 +494,8 @@ module.exports = [
         "aValue": 79.8,
         "bValue": 56.4,
         "ratio": 1.4149,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Coconut palm",
@@ -458,7 +504,8 @@ module.exports = [
         "aValue": 25.0,
         "bValue": 1.8,
         "ratio": 13.8889,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Rhine",
@@ -467,7 +514,8 @@ module.exports = [
         "aValue": 508.5,
         "bValue": 50,
         "ratio": 10.17,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Whale shark",
@@ -476,7 +524,8 @@ module.exports = [
         "aValue": 15000,
         "bValue": 6000,
         "ratio": 2.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "California condor",
@@ -485,7 +534,8 @@ module.exports = [
         "aValue": 3.0,
         "bValue": 2.4,
         "ratio": 1.25,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -498,7 +548,8 @@ module.exports = [
         "aValue": 6400.26,
         "bValue": 74,
         "ratio": 86.49,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Christ the Redeemer",
@@ -507,7 +558,8 @@ module.exports = [
         "aValue": 25.33,
         "bValue": 1.2,
         "ratio": 21.1083,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Sea lion",
@@ -516,7 +568,8 @@ module.exports = [
         "aValue": 250,
         "bValue": 100,
         "ratio": 2.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Boeing 777",
@@ -525,7 +578,8 @@ module.exports = [
         "aValue": 64.8,
         "bValue": 11.0,
         "ratio": 5.8909,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Starship",
@@ -534,7 +588,8 @@ module.exports = [
         "aValue": 121.07,
         "bValue": 37.6,
         "ratio": 3.2199,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -547,7 +602,8 @@ module.exports = [
         "aValue": 3.5,
         "bValue": 1.2,
         "ratio": 2.9167,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Fire truck",
@@ -556,7 +612,8 @@ module.exports = [
         "aValue": 13600.0,
         "bValue": 10000,
         "ratio": 1.36,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Amazon River",
@@ -565,7 +622,8 @@ module.exports = [
         "aValue": 6396.0,
         "bValue": 1230,
         "ratio": 5.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Pelican",
@@ -574,7 +632,8 @@ module.exports = [
         "aValue": 2.9,
         "bValue": 0.12,
         "ratio": 24.1667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Baobab tree",
@@ -583,7 +642,8 @@ module.exports = [
         "aValue": 7.5,
         "bValue": 0.5,
         "ratio": 15.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -596,7 +656,8 @@ module.exports = [
         "aValue": 60.0,
         "bValue": 25,
         "ratio": 2.4,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Titanic",
@@ -605,7 +666,8 @@ module.exports = [
         "aValue": 269.04,
         "bValue": 12,
         "ratio": 22.42,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Sunflower",
@@ -614,7 +676,8 @@ module.exports = [
         "aValue": 3.5,
         "bValue": 1.2,
         "ratio": 2.9167,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Hang glider",
@@ -623,7 +686,8 @@ module.exports = [
         "aValue": 9.09,
         "bValue": 1.0,
         "ratio": 9.09,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Great white shark",
@@ -632,7 +696,8 @@ module.exports = [
         "aValue": 1100,
         "bValue": 75,
         "ratio": 14.6667,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       }
     ]
   },
@@ -645,7 +710,8 @@ module.exports = [
         "aValue": 47850.0,
         "bValue": 15000,
         "ratio": 3.19,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Bald eagle",
@@ -654,7 +720,8 @@ module.exports = [
         "aValue": 6.9,
         "bValue": 1.5,
         "ratio": 4.6,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Gateway Arch",
@@ -663,7 +730,8 @@ module.exports = [
         "aValue": 192.01,
         "bValue": 3.5,
         "ratio": 54.86,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Crocodile",
@@ -672,7 +740,8 @@ module.exports = [
         "aValue": 400,
         "bValue": 300,
         "ratio": 1.3333,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Pan-American Highway",
@@ -681,7 +750,8 @@ module.exports = [
         "aValue": 29999.96,
         "bValue": 443,
         "ratio": 67.72,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -694,7 +764,8 @@ module.exports = [
         "aValue": 68.4,
         "bValue": 52.4,
         "ratio": 1.3053,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "African elephant",
@@ -703,7 +774,8 @@ module.exports = [
         "aValue": 3.21,
         "bValue": 1.7,
         "ratio": 1.8882,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Basketball court",
@@ -712,7 +784,8 @@ module.exports = [
         "aValue": 28.68,
         "bValue": 12,
         "ratio": 2.39,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Giraffe",
@@ -721,7 +794,8 @@ module.exports = [
         "aValue": 1000.5,
         "bValue": 150,
         "ratio": 6.67,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Airbus A380",
@@ -730,7 +804,8 @@ module.exports = [
         "aValue": 79.8,
         "bValue": 68.4,
         "ratio": 1.1667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -743,7 +818,8 @@ module.exports = [
         "aValue": 15,
         "bValue": 3500,
         "ratio": 0.0043,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Aconcagua",
@@ -752,7 +828,8 @@ module.exports = [
         "aValue": 6960.96,
         "bValue": 96,
         "ratio": 72.51,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Blue whale heart",
@@ -761,7 +838,8 @@ module.exports = [
         "aValue": 180.0,
         "bValue": 20,
         "ratio": 9.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Cessna 172",
@@ -770,7 +848,8 @@ module.exports = [
         "aValue": 11.0,
         "bValue": 1.4,
         "ratio": 7.8571,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Rhine",
@@ -779,7 +858,8 @@ module.exports = [
         "aValue": 1229.94,
         "bValue": 18,
         "ratio": 68.33,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -792,7 +872,8 @@ module.exports = [
         "aValue": 36.91,
         "bValue": 1.7,
         "ratio": 21.7118,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Saturn V",
@@ -801,7 +882,8 @@ module.exports = [
         "aValue": 2900400.0,
         "bValue": 120000,
         "ratio": 24.17,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Queen Mary 2",
@@ -810,7 +892,8 @@ module.exports = [
         "aValue": 345.0,
         "bValue": 5,
         "ratio": 69.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Bald eagle",
@@ -819,7 +902,8 @@ module.exports = [
         "aValue": 2.3,
         "bValue": 1.8,
         "ratio": 1.2778,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Adult human",
@@ -828,7 +912,8 @@ module.exports = [
         "aValue": 1.7,
         "bValue": 1.2,
         "ratio": 1.4167,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -841,7 +926,8 @@ module.exports = [
         "aValue": 1000,
         "bValue": 300,
         "ratio": 3.3333,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Horse",
@@ -850,7 +936,8 @@ module.exports = [
         "aValue": 2.2,
         "bValue": 1.1,
         "ratio": 2.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Bamboo",
@@ -859,7 +946,8 @@ module.exports = [
         "aValue": 20,
         "bValue": 1.6,
         "ratio": 12.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "B-2 Spirit",
@@ -868,7 +956,8 @@ module.exports = [
         "aValue": 52.4,
         "bValue": 3.5,
         "ratio": 14.9714,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Ostrich",
@@ -877,7 +966,8 @@ module.exports = [
         "aValue": 100.0,
         "bValue": 80,
         "ratio": 1.25,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       }
     ]
   },
@@ -890,7 +980,8 @@ module.exports = [
         "aValue": 109.69,
         "bValue": 1.8,
         "ratio": 60.9389,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Hummingbird",
@@ -899,7 +990,8 @@ module.exports = [
         "aValue": 0.12,
         "bValue": 0.1,
         "ratio": 1.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Leaning Tower of Pisa",
@@ -908,7 +1000,8 @@ module.exports = [
         "aValue": 56.99,
         "bValue": 1.6,
         "ratio": 35.6187,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "African elephant",
@@ -917,7 +1010,8 @@ module.exports = [
         "aValue": 4583.0,
         "bValue": 100,
         "ratio": 45.83,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Millennium Bridge",
@@ -926,7 +1020,8 @@ module.exports = [
         "aValue": 325.0,
         "bValue": 5.5,
         "ratio": 59.0909,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -939,7 +1034,8 @@ module.exports = [
         "aValue": 15.69,
         "bValue": 2.3,
         "ratio": 6.8217,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Statue of Liberty",
@@ -948,7 +1044,8 @@ module.exports = [
         "aValue": 93.0,
         "bValue": 5.5,
         "ratio": 16.9091,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Rhine",
@@ -957,7 +1054,8 @@ module.exports = [
         "aValue": 1200.08,
         "bValue": 28,
         "ratio": 42.86,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Grizzly bear",
@@ -966,7 +1064,8 @@ module.exports = [
         "aValue": 360.0,
         "bValue": 25,
         "ratio": 14.4,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Hang glider",
@@ -975,7 +1074,8 @@ module.exports = [
         "aValue": 30.0,
         "bValue": 1.5,
         "ratio": 20.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -988,7 +1088,8 @@ module.exports = [
         "aValue": 21168.0,
         "bValue": 6300,
         "ratio": 3.36,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "London Eye",
@@ -997,7 +1098,8 @@ module.exports = [
         "aValue": 135.0,
         "bValue": 1.5,
         "ratio": 90.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Piano",
@@ -1006,7 +1108,8 @@ module.exports = [
         "aValue": 250.0,
         "bValue": 25,
         "ratio": 10.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Boeing 747",
@@ -1015,7 +1118,8 @@ module.exports = [
         "aValue": 68.4,
         "bValue": 1.0,
         "ratio": 68.4,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Limousine",
@@ -1024,7 +1128,8 @@ module.exports = [
         "aValue": 6.02,
         "bValue": 4.7,
         "ratio": 1.2809,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -1037,7 +1142,8 @@ module.exports = [
         "aValue": 3.5,
         "bValue": 4,
         "ratio": 0.875,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Shipping container",
@@ -1046,7 +1152,8 @@ module.exports = [
         "aValue": 3168.0,
         "bValue": 300,
         "ratio": 10.56,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Blue whale",
@@ -1055,7 +1162,8 @@ module.exports = [
         "aValue": 26,
         "bValue": 2.5,
         "ratio": 10.4,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "California condor",
@@ -1064,7 +1172,8 @@ module.exports = [
         "aValue": 3.01,
         "bValue": 1.8,
         "ratio": 1.6722,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Statue of Liberty",
@@ -1073,7 +1182,8 @@ module.exports = [
         "aValue": 93.01,
         "bValue": 2.1,
         "ratio": 44.2905,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -1086,7 +1196,8 @@ module.exports = [
         "aValue": 2295.0,
         "bValue": 1500,
         "ratio": 1.53,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Millennium Bridge",
@@ -1095,7 +1206,8 @@ module.exports = [
         "aValue": 324.86,
         "bValue": 37.6,
         "ratio": 8.6399,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Gateway Arch",
@@ -1104,7 +1216,8 @@ module.exports = [
         "aValue": 192.0,
         "bValue": 2.1,
         "ratio": 91.4286,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Concorde",
@@ -1113,7 +1226,8 @@ module.exports = [
         "aValue": 25.6,
         "bValue": 1.6,
         "ratio": 16.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Sea lion",
@@ -1122,7 +1236,8 @@ module.exports = [
         "aValue": 250,
         "bValue": 80,
         "ratio": 3.125,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       }
     ]
   },
@@ -1135,7 +1250,8 @@ module.exports = [
         "aValue": 12,
         "bValue": 1.1,
         "ratio": 10.9091,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Cessna 172",
@@ -1144,7 +1260,8 @@ module.exports = [
         "aValue": 11.5,
         "bValue": 2.3,
         "ratio": 5.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Christ the Redeemer",
@@ -1153,7 +1270,8 @@ module.exports = [
         "aValue": 35.17,
         "bValue": 2.5,
         "ratio": 14.068,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Horse",
@@ -1162,7 +1280,8 @@ module.exports = [
         "aValue": 500.0,
         "bValue": 20,
         "ratio": 25.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Mekong River",
@@ -1171,7 +1290,8 @@ module.exports = [
         "aValue": 4349.22,
         "bValue": 346,
         "ratio": 12.57,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -1184,7 +1304,8 @@ module.exports = [
         "aValue": 13.6,
         "bValue": 1.6,
         "ratio": 8.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Petronas Towers",
@@ -1193,7 +1314,8 @@ module.exports = [
         "aValue": 505.4,
         "bValue": 95,
         "ratio": 5.32,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Empire State Building",
@@ -1202,7 +1324,8 @@ module.exports = [
         "aValue": 443.85,
         "bValue": 269,
         "ratio": 1.65,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Fire truck",
@@ -1211,7 +1334,8 @@ module.exports = [
         "aValue": 12000.0,
         "bValue": 400,
         "ratio": 30.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Boeing 747",
@@ -1220,7 +1344,8 @@ module.exports = [
         "aValue": 68.4,
         "bValue": 13.6,
         "ratio": 5.0294,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -1233,7 +1358,8 @@ module.exports = [
         "aValue": 37.01,
         "bValue": 1.5,
         "ratio": 24.6733,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Douglas fir",
@@ -1242,7 +1368,8 @@ module.exports = [
         "aValue": 77.0,
         "bValue": 5.5,
         "ratio": 14.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Tesla Model 3",
@@ -1251,7 +1378,8 @@ module.exports = [
         "aValue": 1800,
         "bValue": 25,
         "ratio": 72.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Concorde",
@@ -1260,7 +1388,8 @@ module.exports = [
         "aValue": 25.6,
         "bValue": 2.4,
         "ratio": 10.6667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Space Shuttle orbiter",
@@ -1269,7 +1398,8 @@ module.exports = [
         "aValue": 37.0,
         "bValue": 2.5,
         "ratio": 14.8,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -1282,7 +1412,8 @@ module.exports = [
         "aValue": 33.78,
         "bValue": 1.6,
         "ratio": 21.1125,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Medium dog",
@@ -1291,7 +1422,8 @@ module.exports = [
         "aValue": 20.0,
         "bValue": 2,
         "ratio": 10.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Yangtze River",
@@ -1300,7 +1432,8 @@ module.exports = [
         "aValue": 6301.47,
         "bValue": 777,
         "ratio": 8.11,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "B-2 Spirit",
@@ -1309,7 +1442,8 @@ module.exports = [
         "aValue": 52.39,
         "bValue": 2.4,
         "ratio": 21.8292,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Eucalyptus tree",
@@ -1318,7 +1452,8 @@ module.exports = [
         "aValue": 100.0,
         "bValue": 1.2,
         "ratio": 83.3333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -1331,7 +1466,8 @@ module.exports = [
         "aValue": 499.5,
         "bValue": 150,
         "ratio": 3.33,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "African elephant",
@@ -1340,7 +1476,8 @@ module.exports = [
         "aValue": 5.06,
         "bValue": 2.1,
         "ratio": 2.4095,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Sunflower",
@@ -1349,7 +1486,8 @@ module.exports = [
         "aValue": 3.5,
         "bValue": 2.5,
         "ratio": 1.4,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "F-22 Raptor",
@@ -1358,7 +1496,8 @@ module.exports = [
         "aValue": 13.62,
         "bValue": 3.5,
         "ratio": 3.8914,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Great dane",
@@ -1367,7 +1506,8 @@ module.exports = [
         "aValue": 54.25,
         "bValue": 25,
         "ratio": 2.17,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       }
     ]
   },
@@ -1380,7 +1520,8 @@ module.exports = [
         "aValue": 15,
         "bValue": 0.4,
         "ratio": 37.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Boeing 737",
@@ -1389,7 +1530,8 @@ module.exports = [
         "aValue": 35.8,
         "bValue": 1.0,
         "ratio": 35.8,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Kangaroo",
@@ -1398,7 +1540,8 @@ module.exports = [
         "aValue": 28.8,
         "bValue": 4,
         "ratio": 7.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Fire truck",
@@ -1407,7 +1550,8 @@ module.exports = [
         "aValue": 16665.0,
         "bValue": 500,
         "ratio": 33.33,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Concorde",
@@ -1416,7 +1560,8 @@ module.exports = [
         "aValue": 62,
         "bValue": 4.3,
         "ratio": 14.4186,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -1429,7 +1574,8 @@ module.exports = [
         "aValue": 54.46,
         "bValue": 2.8,
         "ratio": 19.45,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Adult human",
@@ -1438,7 +1584,8 @@ module.exports = [
         "aValue": 1.7,
         "bValue": 1.2,
         "ratio": 1.4167,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Golden Gate Bridge",
@@ -1447,7 +1594,8 @@ module.exports = [
         "aValue": 84.2,
         "bValue": 10,
         "ratio": 8.42,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Chimpanzee",
@@ -1456,7 +1604,8 @@ module.exports = [
         "aValue": 50.0,
         "bValue": 2,
         "ratio": 25.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Boeing 747",
@@ -1465,7 +1614,8 @@ module.exports = [
         "aValue": 68.4,
         "bValue": 3.5,
         "ratio": 19.5429,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -1478,7 +1628,8 @@ module.exports = [
         "aValue": 74,
         "bValue": 1.8,
         "ratio": 41.1111,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Giant sequoia",
@@ -1487,7 +1638,8 @@ module.exports = [
         "aValue": 82.57,
         "bValue": 1.7,
         "ratio": 48.5706,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Sperm whale",
@@ -1496,7 +1648,8 @@ module.exports = [
         "aValue": 50000,
         "bValue": 15000,
         "ratio": 3.3333,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Pelican",
@@ -1505,7 +1658,8 @@ module.exports = [
         "aValue": 2.64,
         "bValue": 1.0,
         "ratio": 2.64,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Starship",
@@ -1514,7 +1668,8 @@ module.exports = [
         "aValue": 120.9,
         "bValue": 23.8,
         "ratio": 5.0798,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -1527,7 +1682,8 @@ module.exports = [
         "aValue": 5.5,
         "bValue": 0.6,
         "ratio": 9.1667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Refrigerator",
@@ -1536,7 +1692,8 @@ module.exports = [
         "aValue": 71.12,
         "bValue": 4,
         "ratio": 17.78,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Titanic",
@@ -1545,7 +1702,8 @@ module.exports = [
         "aValue": 235.34,
         "bValue": 7,
         "ratio": 33.62,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Boeing 777",
@@ -1554,7 +1712,8 @@ module.exports = [
         "aValue": 64.8,
         "bValue": 1.8,
         "ratio": 36.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Burj Khalifa",
@@ -1563,7 +1722,8 @@ module.exports = [
         "aValue": 925.3,
         "bValue": 95,
         "ratio": 9.74,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -1576,7 +1736,8 @@ module.exports = [
         "aValue": 12000,
         "bValue": 180,
         "ratio": 66.6667,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Football field",
@@ -1585,7 +1746,8 @@ module.exports = [
         "aValue": 109.79,
         "bValue": 37.6,
         "ratio": 2.9199,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Denali",
@@ -1594,7 +1756,8 @@ module.exports = [
         "aValue": 3714.0,
         "bValue": 60,
         "ratio": 61.9,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Boeing 777",
@@ -1603,7 +1766,8 @@ module.exports = [
         "aValue": 64.8,
         "bValue": 2.0,
         "ratio": 32.4,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Grizzly bear",
@@ -1612,7 +1776,8 @@ module.exports = [
         "aValue": 360.0,
         "bValue": 300,
         "ratio": 1.2,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       }
     ]
   },
@@ -1625,7 +1790,8 @@ module.exports = [
         "aValue": 302.75,
         "bValue": 7,
         "ratio": 43.25,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Glider",
@@ -1634,7 +1800,8 @@ module.exports = [
         "aValue": 13.64,
         "bValue": 2.0,
         "ratio": 6.82,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Baobab tree",
@@ -1643,7 +1810,8 @@ module.exports = [
         "aValue": 1312.5,
         "bValue": 70,
         "ratio": 18.75,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Kangaroo",
@@ -1652,7 +1820,8 @@ module.exports = [
         "aValue": 58.25,
         "bValue": 25,
         "ratio": 2.33,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Sperm whale",
@@ -1661,7 +1830,8 @@ module.exports = [
         "aValue": 18,
         "bValue": 15,
         "ratio": 1.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -1674,7 +1844,8 @@ module.exports = [
         "aValue": 1.17,
         "bValue": 0.1,
         "ratio": 11.7,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Olympus Mons",
@@ -1683,7 +1854,8 @@ module.exports = [
         "aValue": 22034.01,
         "bValue": 8849,
         "ratio": 2.49,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Airbus A320",
@@ -1692,7 +1864,8 @@ module.exports = [
         "aValue": 37.6,
         "bValue": 5.5,
         "ratio": 6.8364,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Rhino",
@@ -1701,7 +1874,8 @@ module.exports = [
         "aValue": 2070.0,
         "bValue": 900,
         "ratio": 2.3,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "California condor",
@@ -1710,7 +1884,8 @@ module.exports = [
         "aValue": 9.0,
         "bValue": 1.5,
         "ratio": 6.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -1723,7 +1898,8 @@ module.exports = [
         "aValue": 11,
         "bValue": 1.1,
         "ratio": 10.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Taipei 101",
@@ -1732,7 +1908,8 @@ module.exports = [
         "aValue": 507.84,
         "bValue": 96,
         "ratio": 5.29,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Ostrich",
@@ -1741,7 +1918,8 @@ module.exports = [
         "aValue": 100.0,
         "bValue": 10,
         "ratio": 10.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Barn owl",
@@ -1750,7 +1928,8 @@ module.exports = [
         "aValue": 0.55,
         "bValue": 0.15,
         "ratio": 3.6667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Olympic swimming pool",
@@ -1759,7 +1938,8 @@ module.exports = [
         "aValue": 50.04,
         "bValue": 12,
         "ratio": 4.17,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -1772,7 +1952,8 @@ module.exports = [
         "aValue": 20.0,
         "bValue": 1.8,
         "ratio": 11.1111,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Pig",
@@ -1781,7 +1962,8 @@ module.exports = [
         "aValue": 100.0,
         "bValue": 25,
         "ratio": 4.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Nile crocodile",
@@ -1790,7 +1972,8 @@ module.exports = [
         "aValue": 5,
         "bValue": 2.8,
         "ratio": 1.7857,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "B-2 Spirit",
@@ -1799,7 +1982,8 @@ module.exports = [
         "aValue": 52.27,
         "bValue": 35.8,
         "ratio": 1.4601,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Kangchenjunga",
@@ -1808,7 +1992,8 @@ module.exports = [
         "aValue": 8586.03,
         "bValue": 139,
         "ratio": 61.77,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -1821,7 +2006,8 @@ module.exports = [
         "aValue": 12000,
         "bValue": 1500,
         "ratio": 8.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Millennium Bridge",
@@ -1830,7 +2016,8 @@ module.exports = [
         "aValue": 284.34,
         "bValue": 7,
         "ratio": 40.62,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Eiffel Tower",
@@ -1839,7 +2026,8 @@ module.exports = [
         "aValue": 330.0,
         "bValue": 20,
         "ratio": 16.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Flying fox",
@@ -1848,7 +2036,8 @@ module.exports = [
         "aValue": 1.5,
         "bValue": 0.1,
         "ratio": 15.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Fire truck",
@@ -1857,7 +2046,8 @@ module.exports = [
         "aValue": 14996.0,
         "bValue": 2300,
         "ratio": 6.52,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       }
     ]
   },
@@ -1870,7 +2060,8 @@ module.exports = [
         "aValue": 36.12,
         "bValue": 28,
         "ratio": 1.29,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Boeing 737",
@@ -1879,7 +2070,8 @@ module.exports = [
         "aValue": 35.81,
         "bValue": 2.4,
         "ratio": 14.9208,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Statue of Liberty",
@@ -1888,7 +2080,8 @@ module.exports = [
         "aValue": 93.0,
         "bValue": 1.2,
         "ratio": 77.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Gorilla",
@@ -1897,7 +2090,8 @@ module.exports = [
         "aValue": 170.4,
         "bValue": 80,
         "ratio": 2.13,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Seine",
@@ -1906,7 +2100,8 @@ module.exports = [
         "aValue": 773.53,
         "bValue": 72.7,
         "ratio": 10.64,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -1919,7 +2114,8 @@ module.exports = [
         "aValue": 1.5,
         "bValue": 0.1,
         "ratio": 15.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "K2",
@@ -1928,7 +2124,8 @@ module.exports = [
         "aValue": 8612.72,
         "bValue": 541,
         "ratio": 15.92,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Tennis court",
@@ -1937,7 +2134,8 @@ module.exports = [
         "aValue": 23.8,
         "bValue": 2.5,
         "ratio": 9.52,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "City bus",
@@ -1946,7 +2144,8 @@ module.exports = [
         "aValue": 12000,
         "bValue": 160,
         "ratio": 75.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Mute swan",
@@ -1955,7 +2154,8 @@ module.exports = [
         "aValue": 1.2,
         "bValue": 0.15,
         "ratio": 8.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -1968,7 +2168,8 @@ module.exports = [
         "aValue": 36.98,
         "bValue": 4.3,
         "ratio": 8.6,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Empire State Building",
@@ -1977,7 +2178,8 @@ module.exports = [
         "aValue": 494.95,
         "bValue": 95,
         "ratio": 5.21,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Fire truck",
@@ -1986,7 +2188,8 @@ module.exports = [
         "aValue": 15000.0,
         "bValue": 500,
         "ratio": 30.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Boeing 777",
@@ -1995,7 +2198,8 @@ module.exports = [
         "aValue": 64.8,
         "bValue": 13.6,
         "ratio": 4.7647,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Danube",
@@ -2004,7 +2208,8 @@ module.exports = [
         "aValue": 2598.0,
         "bValue": 100,
         "ratio": 25.98,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -2017,7 +2222,8 @@ module.exports = [
         "aValue": 541.26,
         "bValue": 93,
         "ratio": 5.82,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Sheep",
@@ -2026,7 +2232,8 @@ module.exports = [
         "aValue": 75.0,
         "bValue": 25,
         "ratio": 3.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Humpback whale",
@@ -2035,7 +2242,8 @@ module.exports = [
         "aValue": 15,
         "bValue": 5,
         "ratio": 3.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Boeing 777",
@@ -2044,7 +2252,8 @@ module.exports = [
         "aValue": 64.8,
         "bValue": 1.6,
         "ratio": 40.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "London Eye",
@@ -2053,7 +2262,8 @@ module.exports = [
         "aValue": 135.09,
         "bValue": 57,
         "ratio": 2.37,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -2066,7 +2276,8 @@ module.exports = [
         "aValue": 450.0,
         "bValue": 100,
         "ratio": 4.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Horse",
@@ -2075,7 +2286,8 @@ module.exports = [
         "aValue": 2.4,
         "bValue": 0.4,
         "ratio": 6.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Leaning Tower of Pisa",
@@ -2084,7 +2296,8 @@ module.exports = [
         "aValue": 71.25,
         "bValue": 25,
         "ratio": 2.85,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "F-16 fighter jet",
@@ -2093,7 +2306,8 @@ module.exports = [
         "aValue": 10,
         "bValue": 2.4,
         "ratio": 4.1667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Great white shark",
@@ -2102,7 +2316,8 @@ module.exports = [
         "aValue": 1100,
         "bValue": 25,
         "ratio": 44.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       }
     ]
   },
@@ -2115,7 +2330,8 @@ module.exports = [
         "aValue": 70.7,
         "bValue": 37.6,
         "ratio": 1.8803,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Glider",
@@ -2124,7 +2340,8 @@ module.exports = [
         "aValue": 17.0,
         "bValue": 1.7,
         "ratio": 10.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Tokyo Skytree",
@@ -2133,7 +2350,8 @@ module.exports = [
         "aValue": 633.6,
         "bValue": 192,
         "ratio": 3.3,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Horse",
@@ -2142,7 +2360,8 @@ module.exports = [
         "aValue": 417.0,
         "bValue": 100,
         "ratio": 4.17,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Danube",
@@ -2151,7 +2370,8 @@ module.exports = [
         "aValue": 2851.2,
         "bValue": 330,
         "ratio": 8.64,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -2164,7 +2384,8 @@ module.exports = [
         "aValue": 79.8,
         "bValue": 1.7,
         "ratio": 46.9412,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Space Needle",
@@ -2173,7 +2394,8 @@ module.exports = [
         "aValue": 178.43,
         "bValue": 3.2,
         "ratio": 55.7594,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Great Wall of China",
@@ -2182,7 +2404,8 @@ module.exports = [
         "aValue": 652.2,
         "bValue": 10,
         "ratio": 65.22,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Pig",
@@ -2191,7 +2414,8 @@ module.exports = [
         "aValue": 120.0,
         "bValue": 30,
         "ratio": 4.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Barn owl",
@@ -2200,7 +2424,8 @@ module.exports = [
         "aValue": 0.92,
         "bValue": 0.1,
         "ratio": 9.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -2213,7 +2438,8 @@ module.exports = [
         "aValue": 7.34,
         "bValue": 1.1,
         "ratio": 6.6727,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "CN Tower",
@@ -2222,7 +2448,8 @@ module.exports = [
         "aValue": 552.9,
         "bValue": 57,
         "ratio": 9.7,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Cow",
@@ -2231,7 +2458,8 @@ module.exports = [
         "aValue": 650.0,
         "bValue": 100,
         "ratio": 6.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Golden eagle",
@@ -2240,7 +2468,8 @@ module.exports = [
         "aValue": 2.2,
         "bValue": 0.12,
         "ratio": 18.3333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Olympic swimming pool",
@@ -2249,7 +2478,8 @@ module.exports = [
         "aValue": 50.0,
         "bValue": 1.8,
         "ratio": 27.7778,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -2262,7 +2492,8 @@ module.exports = [
         "aValue": 14.99,
         "bValue": 1.8,
         "ratio": 8.3278,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Polar bear",
@@ -2271,7 +2502,8 @@ module.exports = [
         "aValue": 480.0,
         "bValue": 80,
         "ratio": 6.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Blue whale",
@@ -2280,7 +2512,8 @@ module.exports = [
         "aValue": 26,
         "bValue": 11,
         "ratio": 2.3636,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "F-22 Raptor",
@@ -2289,7 +2522,8 @@ module.exports = [
         "aValue": 13.6,
         "bValue": 1.0,
         "ratio": 13.6,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Baobab tree",
@@ -2298,7 +2532,8 @@ module.exports = [
         "aValue": 15.02,
         "bValue": 5.5,
         "ratio": 2.7309,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -2311,7 +2546,8 @@ module.exports = [
         "aValue": 266.68,
         "bValue": 4,
         "ratio": 66.67,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Blue whale",
@@ -2320,7 +2556,8 @@ module.exports = [
         "aValue": 26,
         "bValue": 15,
         "ratio": 1.7333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "London Eye",
@@ -2329,7 +2566,8 @@ module.exports = [
         "aValue": 135.01,
         "bValue": 2.1,
         "ratio": 64.2905,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Great horned owl",
@@ -2338,7 +2576,8 @@ module.exports = [
         "aValue": 1.4,
         "bValue": 0.12,
         "ratio": 11.6667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Washing machine",
@@ -2347,7 +2586,8 @@ module.exports = [
         "aValue": 70.0,
         "bValue": 25,
         "ratio": 2.8,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       }
     ]
   },
@@ -2360,7 +2600,8 @@ module.exports = [
         "aValue": 62,
         "bValue": 6,
         "ratio": 10.3333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Cessna 172",
@@ -2369,7 +2610,8 @@ module.exports = [
         "aValue": 11.0,
         "bValue": 1.0,
         "ratio": 11.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Baobab tree",
@@ -2378,7 +2620,8 @@ module.exports = [
         "aValue": 10.0,
         "bValue": 1.2,
         "ratio": 8.3333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Grizzly bear",
@@ -2387,7 +2630,8 @@ module.exports = [
         "aValue": 360.0,
         "bValue": 100,
         "ratio": 3.6,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Boeing 747",
@@ -2396,7 +2640,8 @@ module.exports = [
         "aValue": 70.7,
         "bValue": 2.5,
         "ratio": 28.28,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -2409,7 +2654,8 @@ module.exports = [
         "aValue": 12.88,
         "bValue": 3.5,
         "ratio": 3.68,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Petronas Towers",
@@ -2418,7 +2664,8 @@ module.exports = [
         "aValue": 452.16,
         "bValue": 96,
         "ratio": 4.71,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Danube",
@@ -2427,7 +2674,8 @@ module.exports = [
         "aValue": 2850.0,
         "bValue": 50,
         "ratio": 57.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Airbus A380",
@@ -2436,7 +2684,8 @@ module.exports = [
         "aValue": 277000,
         "bValue": 10000,
         "ratio": 27.7,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Hang glider",
@@ -2445,7 +2694,8 @@ module.exports = [
         "aValue": 9.66,
         "bValue": 2.8,
         "ratio": 3.45,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -2458,7 +2708,8 @@ module.exports = [
         "aValue": 1664.0,
         "bValue": 100,
         "ratio": 16.64,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Big Ben",
@@ -2467,7 +2718,8 @@ module.exports = [
         "aValue": 93.75,
         "bValue": 75,
         "ratio": 1.25,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Ostrich",
@@ -2476,7 +2728,8 @@ module.exports = [
         "aValue": 88.88,
         "bValue": 4,
         "ratio": 22.22,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Boeing 747",
@@ -2485,7 +2738,8 @@ module.exports = [
         "aValue": 68.4,
         "bValue": 1.6,
         "ratio": 42.75,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Tennis court",
@@ -2494,7 +2748,8 @@ module.exports = [
         "aValue": 23.8,
         "bValue": 2.8,
         "ratio": 8.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -2507,7 +2762,8 @@ module.exports = [
         "aValue": 85.0,
         "bValue": 25,
         "ratio": 3.4,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Walrus",
@@ -2516,7 +2772,8 @@ module.exports = [
         "aValue": 1000,
         "bValue": 400,
         "ratio": 2.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Thames",
@@ -2525,7 +2782,8 @@ module.exports = [
         "aValue": 346.0,
         "bValue": 5.5,
         "ratio": 62.9091,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Heron",
@@ -2534,7 +2792,8 @@ module.exports = [
         "aValue": 1.8,
         "bValue": 0.12,
         "ratio": 15.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Shanghai Tower",
@@ -2543,7 +2802,8 @@ module.exports = [
         "aValue": 790.0,
         "bValue": 25,
         "ratio": 31.6,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -2556,7 +2816,8 @@ module.exports = [
         "aValue": 100.1,
         "bValue": 70,
         "ratio": 1.43,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Blue whale",
@@ -2565,7 +2826,8 @@ module.exports = [
         "aValue": 26,
         "bValue": 4.6,
         "ratio": 5.6522,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Burj Khalifa",
@@ -2574,7 +2836,8 @@ module.exports = [
         "aValue": 830.54,
         "bValue": 634,
         "ratio": 1.31,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Andean condor",
@@ -2583,7 +2846,8 @@ module.exports = [
         "aValue": 2.91,
         "bValue": 1.0,
         "ratio": 2.91,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Volkswagen Golf",
@@ -2592,7 +2856,8 @@ module.exports = [
         "aValue": 1400,
         "bValue": 100,
         "ratio": 14.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       }
     ]
   },
@@ -2605,7 +2870,8 @@ module.exports = [
         "aValue": 346.0,
         "bValue": 5,
         "ratio": 69.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Pigeon",
@@ -2614,7 +2880,8 @@ module.exports = [
         "aValue": 0.58,
         "bValue": 0.1,
         "ratio": 5.8,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Coconut palm",
@@ -2623,7 +2890,8 @@ module.exports = [
         "aValue": 25.0,
         "bValue": 20,
         "ratio": 1.25,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Sea lion",
@@ -2632,7 +2900,8 @@ module.exports = [
         "aValue": 250,
         "bValue": 20,
         "ratio": 12.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Airbus A320",
@@ -2641,7 +2910,8 @@ module.exports = [
         "aValue": 37.6,
         "bValue": 5,
         "ratio": 7.52,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -2654,7 +2924,8 @@ module.exports = [
         "aValue": 3.71,
         "bValue": 3.2,
         "ratio": 1.1594,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Nile crocodile",
@@ -2663,7 +2934,8 @@ module.exports = [
         "aValue": 0.5,
         "bValue": 0.6,
         "ratio": 0.8333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Seine",
@@ -2672,7 +2944,8 @@ module.exports = [
         "aValue": 777.0,
         "bValue": 12,
         "ratio": 64.75,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Giant panda",
@@ -2681,7 +2954,8 @@ module.exports = [
         "aValue": 116.9,
         "bValue": 70,
         "ratio": 1.67,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Wandering albatross",
@@ -2690,7 +2964,8 @@ module.exports = [
         "aValue": 4.2,
         "bValue": 1.7,
         "ratio": 2.4706,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -2703,7 +2978,8 @@ module.exports = [
         "aValue": 37.6,
         "bValue": 12,
         "ratio": 3.1333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Moose",
@@ -2712,7 +2988,8 @@ module.exports = [
         "aValue": 2.1,
         "bValue": 1.6,
         "ratio": 1.3125,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Goat",
@@ -2721,7 +2998,8 @@ module.exports = [
         "aValue": 60.0,
         "bValue": 2,
         "ratio": 30.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Bald eagle",
@@ -2730,7 +3008,8 @@ module.exports = [
         "aValue": 2.3,
         "bValue": 0.7,
         "ratio": 3.2857,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Mississippi River",
@@ -2739,7 +3018,8 @@ module.exports = [
         "aValue": 6272.88,
         "bValue": 443,
         "ratio": 14.16,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -2752,7 +3032,8 @@ module.exports = [
         "aValue": 618.45,
         "bValue": 95,
         "ratio": 6.51,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Tesla Model 3",
@@ -2761,7 +3042,8 @@ module.exports = [
         "aValue": 1800,
         "bValue": 1500,
         "ratio": 1.2,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Queen Mary 2",
@@ -2770,7 +3052,8 @@ module.exports = [
         "aValue": 344.72,
         "bValue": 62,
         "ratio": 5.56,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Albatross",
@@ -2779,7 +3062,8 @@ module.exports = [
         "aValue": 1.75,
         "bValue": 0.15,
         "ratio": 11.6667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Coast redwood",
@@ -2788,7 +3072,8 @@ module.exports = [
         "aValue": 69.0,
         "bValue": 60,
         "ratio": 1.15,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -2801,7 +3086,8 @@ module.exports = [
         "aValue": 1000,
         "bValue": 300,
         "ratio": 3.3333,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Limousine",
@@ -2810,7 +3096,8 @@ module.exports = [
         "aValue": 6.0,
         "bValue": 2.4,
         "ratio": 2.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Shanghai Tower",
@@ -2819,7 +3106,8 @@ module.exports = [
         "aValue": 631.68,
         "bValue": 96,
         "ratio": 6.58,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "B-2 Spirit",
@@ -2828,7 +3116,8 @@ module.exports = [
         "aValue": 52.6,
         "bValue": 10,
         "ratio": 5.26,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Fire truck",
@@ -2837,7 +3126,8 @@ module.exports = [
         "aValue": 13500.0,
         "bValue": 450,
         "ratio": 30.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       }
     ]
   },
@@ -2850,7 +3140,8 @@ module.exports = [
         "aValue": 780.33,
         "bValue": 111,
         "ratio": 7.03,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Boeing 747",
@@ -2859,7 +3150,8 @@ module.exports = [
         "aValue": 68.4,
         "bValue": 3.2,
         "ratio": 21.375,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Bamboo",
@@ -2868,7 +3160,8 @@ module.exports = [
         "aValue": 20,
         "bValue": 2.1,
         "ratio": 9.5238,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Hippopotamus",
@@ -2877,7 +3170,8 @@ module.exports = [
         "aValue": 1500.0,
         "bValue": 300,
         "ratio": 5.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Humpback whale",
@@ -2886,7 +3180,8 @@ module.exports = [
         "aValue": 15,
         "bValue": 3,
         "ratio": 5.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -2899,7 +3194,8 @@ module.exports = [
         "aValue": 3.7,
         "bValue": 0.12,
         "ratio": 30.8333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Tokyo Skytree",
@@ -2908,7 +3204,8 @@ module.exports = [
         "aValue": 634.0,
         "bValue": 20,
         "ratio": 31.7,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Millennium Bridge",
@@ -2917,7 +3214,8 @@ module.exports = [
         "aValue": 324.96,
         "bValue": 12,
         "ratio": 27.08,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Airbus A320",
@@ -2926,7 +3224,8 @@ module.exports = [
         "aValue": 42000,
         "bValue": 1100,
         "ratio": 38.1818,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Boeing 777",
@@ -2935,7 +3234,8 @@ module.exports = [
         "aValue": 64.8,
         "bValue": 2.8,
         "ratio": 23.1429,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -2948,7 +3248,8 @@ module.exports = [
         "aValue": 268.95,
         "bValue": 11,
         "ratio": 24.45,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Mount Everest",
@@ -2957,7 +3258,8 @@ module.exports = [
         "aValue": 8849.28,
         "bValue": 96,
         "ratio": 92.18,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Hippopotamus",
@@ -2966,7 +3268,8 @@ module.exports = [
         "aValue": 1350.0,
         "bValue": 900,
         "ratio": 1.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Airbus A350",
@@ -2975,7 +3278,8 @@ module.exports = [
         "aValue": 77.76,
         "bValue": 18,
         "ratio": 4.32,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Concorde",
@@ -2984,7 +3288,8 @@ module.exports = [
         "aValue": 62,
         "bValue": 37.6,
         "ratio": 1.6489,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -2997,7 +3302,8 @@ module.exports = [
         "aValue": 1.87,
         "bValue": 1.6,
         "ratio": 1.1687,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Tesla Model 3",
@@ -3006,7 +3312,8 @@ module.exports = [
         "aValue": 1800,
         "bValue": 160,
         "ratio": 11.25,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Empire State Building",
@@ -3015,7 +3322,8 @@ module.exports = [
         "aValue": 443.02,
         "bValue": 5.5,
         "ratio": 80.5491,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Heron",
@@ -3024,7 +3332,8 @@ module.exports = [
         "aValue": 1.8,
         "bValue": 1.0,
         "ratio": 1.8,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "K2",
@@ -3033,7 +3342,8 @@ module.exports = [
         "aValue": 8607.84,
         "bValue": 632,
         "ratio": 13.62,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -3046,7 +3356,8 @@ module.exports = [
         "aValue": 1400,
         "bValue": 900,
         "ratio": 1.5556,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Olympic swimming pool",
@@ -3055,7 +3366,8 @@ module.exports = [
         "aValue": 49.99,
         "bValue": 2.4,
         "ratio": 20.8292,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Kangchenjunga",
@@ -3064,7 +3376,8 @@ module.exports = [
         "aValue": 8586.0,
         "bValue": 135,
         "ratio": 63.6,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Bat",
@@ -3073,7 +3386,8 @@ module.exports = [
         "aValue": 0.5,
         "bValue": 0.1,
         "ratio": 5.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Chimpanzee",
@@ -3082,7 +3396,8 @@ module.exports = [
         "aValue": 3571.0,
         "bValue": 100,
         "ratio": 35.71,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       }
     ]
   },
@@ -3095,7 +3410,8 @@ module.exports = [
         "aValue": 6.0,
         "bValue": 2.4,
         "ratio": 2.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Mute swan",
@@ -3104,7 +3420,8 @@ module.exports = [
         "aValue": 2.4,
         "bValue": 1.6,
         "ratio": 1.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Douglas fir",
@@ -3113,7 +3430,8 @@ module.exports = [
         "aValue": 77.0,
         "bValue": 25,
         "ratio": 3.08,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Sheep",
@@ -3122,7 +3440,8 @@ module.exports = [
         "aValue": 80.5,
         "bValue": 70,
         "ratio": 1.15,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Airbus A380",
@@ -3131,7 +3450,8 @@ module.exports = [
         "aValue": 72.7,
         "bValue": 4.7,
         "ratio": 15.4681,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -3144,7 +3464,8 @@ module.exports = [
         "aValue": 1.75,
         "bValue": 1.5,
         "ratio": 1.1667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Coconut palm",
@@ -3153,7 +3474,8 @@ module.exports = [
         "aValue": 25.0,
         "bValue": 1.2,
         "ratio": 20.8333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Yangtze River",
@@ -3162,7 +3484,8 @@ module.exports = [
         "aValue": 6273.21,
         "bValue": 70.7,
         "ratio": 88.73,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Sheep",
@@ -3171,7 +3494,8 @@ module.exports = [
         "aValue": 66.68,
         "bValue": 4,
         "ratio": 16.67,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Airbus A320",
@@ -3180,7 +3504,8 @@ module.exports = [
         "aValue": 35.8,
         "bValue": 11.0,
         "ratio": 3.2545,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -3193,7 +3518,8 @@ module.exports = [
         "aValue": 12,
         "bValue": 11,
         "ratio": 1.0909,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Grizzly bear",
@@ -3202,7 +3528,8 @@ module.exports = [
         "aValue": 131.6,
         "bValue": 70,
         "ratio": 1.88,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Sperm whale",
@@ -3211,7 +3538,8 @@ module.exports = [
         "aValue": 50000,
         "bValue": 1000,
         "ratio": 50.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "California condor",
@@ -3220,7 +3548,8 @@ module.exports = [
         "aValue": 3.75,
         "bValue": 1.5,
         "ratio": 2.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Nile crocodile",
@@ -3229,7 +3558,8 @@ module.exports = [
         "aValue": 5,
         "bValue": 2.4,
         "ratio": 2.0833,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -3242,7 +3572,8 @@ module.exports = [
         "aValue": 95.97,
         "bValue": 5.5,
         "ratio": 17.4491,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Adult human",
@@ -3251,7 +3582,8 @@ module.exports = [
         "aValue": 80,
         "bValue": 4,
         "ratio": 20.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Starship",
@@ -3260,7 +3592,8 @@ module.exports = [
         "aValue": 121.0,
         "bValue": 1.8,
         "ratio": 67.2222,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Swan",
@@ -3269,7 +3602,8 @@ module.exports = [
         "aValue": 2.72,
         "bValue": 1.7,
         "ratio": 1.6,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Kangchenjunga",
@@ -3278,7 +3612,8 @@ module.exports = [
         "aValue": 8586.24,
         "bValue": 96,
         "ratio": 89.44,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -3291,7 +3626,8 @@ module.exports = [
         "aValue": 250,
         "bValue": 75,
         "ratio": 3.3333,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Airbus A380",
@@ -3300,7 +3636,8 @@ module.exports = [
         "aValue": 72.7,
         "bValue": 6,
         "ratio": 12.1167,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "K2",
@@ -3309,7 +3646,8 @@ module.exports = [
         "aValue": 8606.32,
         "bValue": 4808,
         "ratio": 1.79,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Glider",
@@ -3318,7 +3656,8 @@ module.exports = [
         "aValue": 18.75,
         "bValue": 1.5,
         "ratio": 12.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Ambulance",
@@ -3327,7 +3666,8 @@ module.exports = [
         "aValue": 3150.0,
         "bValue": 900,
         "ratio": 3.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       }
     ]
   },
@@ -3340,7 +3680,8 @@ module.exports = [
         "aValue": 12,
         "bValue": 5.5,
         "ratio": 2.1818,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Cessna 172",
@@ -3349,7 +3690,8 @@ module.exports = [
         "aValue": 10.0,
         "bValue": 2.0,
         "ratio": 5.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Sagrada Familia",
@@ -3358,7 +3700,8 @@ module.exports = [
         "aValue": 114.67,
         "bValue": 1.2,
         "ratio": 95.5583,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Great white shark",
@@ -3367,7 +3710,8 @@ module.exports = [
         "aValue": 1100,
         "bValue": 600,
         "ratio": 1.8333,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Thames",
@@ -3376,7 +3720,8 @@ module.exports = [
         "aValue": 576600.0,
         "bValue": 15000,
         "ratio": 38.44,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -3389,7 +3734,8 @@ module.exports = [
         "aValue": 25.6,
         "bValue": 1.0,
         "ratio": 25.6,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Great Pyramid of Giza",
@@ -3398,7 +3744,8 @@ module.exports = [
         "aValue": 139.0,
         "bValue": 1.8,
         "ratio": 77.2222,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Great white shark",
@@ -3407,7 +3754,8 @@ module.exports = [
         "aValue": 6,
         "bValue": 5,
         "ratio": 1.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Airbus A320",
@@ -3416,7 +3764,8 @@ module.exports = [
         "aValue": 42000,
         "bValue": 6000,
         "ratio": 7.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "F-16 fighter jet",
@@ -3425,7 +3774,8 @@ module.exports = [
         "aValue": 10,
         "bValue": 3.0,
         "ratio": 3.3333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -3438,7 +3788,8 @@ module.exports = [
         "aValue": 74,
         "bValue": 15000,
         "ratio": 0.0049,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Ostrich",
@@ -3447,7 +3798,8 @@ module.exports = [
         "aValue": 2.62,
         "bValue": 1.7,
         "ratio": 1.5412,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Kangaroo",
@@ -3456,7 +3808,8 @@ module.exports = [
         "aValue": 81.9,
         "bValue": 70,
         "ratio": 1.17,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Boeing 777",
@@ -3465,7 +3818,8 @@ module.exports = [
         "aValue": 64.8,
         "bValue": 2.3,
         "ratio": 28.1739,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Starship",
@@ -3474,7 +3828,8 @@ module.exports = [
         "aValue": 118.16,
         "bValue": 28,
         "ratio": 4.22,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -3487,7 +3842,8 @@ module.exports = [
         "aValue": 157.5,
         "bValue": 70,
         "ratio": 2.25,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Blue whale",
@@ -3496,7 +3852,8 @@ module.exports = [
         "aValue": 120000,
         "bValue": 42000,
         "ratio": 2.8571,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Sperm whale",
@@ -3505,7 +3862,8 @@ module.exports = [
         "aValue": 18,
         "bValue": 2.4,
         "ratio": 7.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Pelican",
@@ -3514,7 +3872,8 @@ module.exports = [
         "aValue": 2.9,
         "bValue": 2.4,
         "ratio": 1.2083,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Kangaroo",
@@ -3523,7 +3882,8 @@ module.exports = [
         "aValue": 1.8,
         "bValue": 1.2,
         "ratio": 1.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -3536,7 +3896,8 @@ module.exports = [
         "aValue": 3500.0,
         "bValue": 50,
         "ratio": 70.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Football field",
@@ -3545,7 +3906,8 @@ module.exports = [
         "aValue": 109.68,
         "bValue": 12,
         "ratio": 9.14,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Giant sequoia",
@@ -3554,7 +3916,8 @@ module.exports = [
         "aValue": 84.99,
         "bValue": 1.6,
         "ratio": 53.1187,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Cessna 172",
@@ -3563,7 +3926,8 @@ module.exports = [
         "aValue": 11.01,
         "bValue": 3.0,
         "ratio": 3.67,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Whale shark",
@@ -3572,7 +3936,8 @@ module.exports = [
         "aValue": 15000,
         "bValue": 600,
         "ratio": 25.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       }
     ]
   },
@@ -3585,7 +3950,8 @@ module.exports = [
         "aValue": 12749.58,
         "bValue": 3474,
         "ratio": 3.67,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Heron",
@@ -3594,7 +3960,8 @@ module.exports = [
         "aValue": 0.9,
         "bValue": 0.15,
         "ratio": 6.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Eucalyptus tree",
@@ -3603,7 +3970,8 @@ module.exports = [
         "aValue": 100.0,
         "bValue": 25,
         "ratio": 4.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Shipping container",
@@ -3612,7 +3980,8 @@ module.exports = [
         "aValue": 3167.0,
         "bValue": 100,
         "ratio": 31.67,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "London black cab",
@@ -3621,7 +3990,8 @@ module.exports = [
         "aValue": 4.59,
         "bValue": 3,
         "ratio": 1.53,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -3634,7 +4004,8 @@ module.exports = [
         "aValue": 12.36,
         "bValue": 1.0,
         "ratio": 12.36,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Taipei 101",
@@ -3643,7 +4014,8 @@ module.exports = [
         "aValue": 304.8,
         "bValue": 60,
         "ratio": 5.08,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Space Shuttle orbiter",
@@ -3652,7 +4024,8 @@ module.exports = [
         "aValue": 36.98,
         "bValue": 4.6,
         "ratio": 8.0391,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Sperm whale",
@@ -3661,7 +4034,8 @@ module.exports = [
         "aValue": 50000,
         "bValue": 10000,
         "ratio": 5.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Hang glider",
@@ -3670,7 +4044,8 @@ module.exports = [
         "aValue": 10.0,
         "bValue": 1.6,
         "ratio": 6.25,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -3683,7 +4058,8 @@ module.exports = [
         "aValue": 2.5,
         "bValue": 0.4,
         "ratio": 6.25,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Sagrada Familia",
@@ -3692,7 +4068,8 @@ module.exports = [
         "aValue": 167.09,
         "bValue": 1.7,
         "ratio": 98.2882,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Volkswagen Golf",
@@ -3701,7 +4078,8 @@ module.exports = [
         "aValue": 1400,
         "bValue": 150,
         "ratio": 9.3333,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "F-22 Raptor",
@@ -3710,7 +4088,8 @@ module.exports = [
         "aValue": 13.61,
         "bValue": 2.4,
         "ratio": 5.6708,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Starship",
@@ -3719,7 +4098,8 @@ module.exports = [
         "aValue": 121.0,
         "bValue": 11,
         "ratio": 11.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -3732,7 +4112,8 @@ module.exports = [
         "aValue": 93.0,
         "bValue": 3.5,
         "ratio": 26.5714,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Airbus A320",
@@ -3741,7 +4122,8 @@ module.exports = [
         "aValue": 42000,
         "bValue": 2300,
         "ratio": 18.2609,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Starship",
@@ -3750,7 +4132,8 @@ module.exports = [
         "aValue": 120.96,
         "bValue": 18,
         "ratio": 6.72,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Flying fox",
@@ -3759,7 +4142,8 @@ module.exports = [
         "aValue": 1.5,
         "bValue": 1.0,
         "ratio": 1.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Mount Everest",
@@ -3768,7 +4152,8 @@ module.exports = [
         "aValue": 8849.36,
         "bValue": 508,
         "ratio": 17.42,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -3781,7 +4166,8 @@ module.exports = [
         "aValue": 1917.5,
         "bValue": 250,
         "ratio": 7.67,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Giant panda",
@@ -3790,7 +4176,8 @@ module.exports = [
         "aValue": 1.65,
         "bValue": 1.1,
         "ratio": 1.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Sagrada Familia",
@@ -3799,7 +4186,8 @@ module.exports = [
         "aValue": 215.0,
         "bValue": 25,
         "ratio": 8.6,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "B-2 Spirit",
@@ -3808,7 +4196,8 @@ module.exports = [
         "aValue": 52.4,
         "bValue": 1.6,
         "ratio": 32.75,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Piano",
@@ -3817,7 +4206,8 @@ module.exports = [
         "aValue": 364.65,
         "bValue": 85,
         "ratio": 4.29,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       }
     ]
   },
@@ -3830,7 +4220,8 @@ module.exports = [
         "aValue": 5.49,
         "bValue": 3,
         "ratio": 1.83,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "California condor",
@@ -3839,7 +4230,8 @@ module.exports = [
         "aValue": 3.4,
         "bValue": 1.7,
         "ratio": 2.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Mont Blanc",
@@ -3848,7 +4240,8 @@ module.exports = [
         "aValue": 4810.98,
         "bValue": 443,
         "ratio": 10.86,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Tesla Model 3",
@@ -3857,7 +4250,8 @@ module.exports = [
         "aValue": 1800,
         "bValue": 100,
         "ratio": 18.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Titanic",
@@ -3866,7 +4260,8 @@ module.exports = [
         "aValue": 262.36,
         "bValue": 28,
         "ratio": 9.37,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   },
@@ -3879,7 +4274,8 @@ module.exports = [
         "aValue": 35.8,
         "bValue": 2.4,
         "ratio": 14.9167,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Douglas fir",
@@ -3888,7 +4284,8 @@ module.exports = [
         "aValue": 77.0,
         "bValue": 1.2,
         "ratio": 64.1667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Volkswagen Golf",
@@ -3897,7 +4294,8 @@ module.exports = [
         "aValue": 4.3,
         "bValue": 1.5,
         "ratio": 2.8667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Polar bear",
@@ -3906,7 +4304,8 @@ module.exports = [
         "aValue": 450.1,
         "bValue": 70,
         "ratio": 6.43,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Albatross",
@@ -3915,7 +4314,8 @@ module.exports = [
         "aValue": 4.38,
         "bValue": 1.5,
         "ratio": 2.92,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -3928,7 +4328,8 @@ module.exports = [
         "aValue": 111,
         "bValue": 28,
         "ratio": 3.9643,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Horse",
@@ -3937,7 +4338,8 @@ module.exports = [
         "aValue": 1.6,
         "bValue": 1.2,
         "ratio": 1.3333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Cow",
@@ -3946,7 +4348,8 @@ module.exports = [
         "aValue": 649.6,
         "bValue": 160,
         "ratio": 4.06,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Airbus A380",
@@ -3955,7 +4358,8 @@ module.exports = [
         "aValue": 79.8,
         "bValue": 64.8,
         "ratio": 1.2315,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Nile River",
@@ -3964,7 +4368,8 @@ module.exports = [
         "aValue": 6649.68,
         "bValue": 269,
         "ratio": 24.72,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -3977,7 +4382,8 @@ module.exports = [
         "aValue": 8849.4,
         "bValue": 172,
         "ratio": 51.45,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Sea lion",
@@ -3986,7 +4392,8 @@ module.exports = [
         "aValue": 250,
         "bValue": 4,
         "ratio": 62.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Great Wall of China",
@@ -3995,7 +4402,8 @@ module.exports = [
         "aValue": 21192.9,
         "bValue": 1230,
         "ratio": 17.23,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Bald eagle",
@@ -4004,7 +4412,8 @@ module.exports = [
         "aValue": 2.88,
         "bValue": 1.5,
         "ratio": 1.92,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Llama",
@@ -4013,7 +4422,8 @@ module.exports = [
         "aValue": 1.8,
         "bValue": 1.5,
         "ratio": 1.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -4026,7 +4436,8 @@ module.exports = [
         "aValue": 3800.0,
         "bValue": 100,
         "ratio": 38.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Thames",
@@ -4035,7 +4446,8 @@ module.exports = [
         "aValue": 319.44,
         "bValue": 12,
         "ratio": 26.62,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Big Ben",
@@ -4044,7 +4456,8 @@ module.exports = [
         "aValue": 120.0,
         "bValue": 25,
         "ratio": 4.8,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Wandering albatross",
@@ -4053,7 +4466,8 @@ module.exports = [
         "aValue": 3.7,
         "bValue": 1.6,
         "ratio": 2.3125,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Rhino",
@@ -4062,7 +4476,8 @@ module.exports = [
         "aValue": 2300.0,
         "bValue": 200,
         "ratio": 11.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       }
     ]
   },
@@ -4075,7 +4490,8 @@ module.exports = [
         "aValue": 432.32,
         "bValue": 28,
         "ratio": 15.44,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Bald eagle",
@@ -4084,7 +4500,8 @@ module.exports = [
         "aValue": 1.92,
         "bValue": 0.1,
         "ratio": 19.2,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Giraffe",
@@ -4093,7 +4510,8 @@ module.exports = [
         "aValue": 2.75,
         "bValue": 0.5,
         "ratio": 5.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Piano",
@@ -4102,7 +4520,8 @@ module.exports = [
         "aValue": 300.0,
         "bValue": 100,
         "ratio": 3.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Starship",
@@ -4111,7 +4530,8 @@ module.exports = [
         "aValue": 121.01,
         "bValue": 2.4,
         "ratio": 50.4208,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -4124,7 +4544,8 @@ module.exports = [
         "aValue": 2.9,
         "bValue": 1.6,
         "ratio": 1.8125,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Ostrich",
@@ -4133,7 +4554,8 @@ module.exports = [
         "aValue": 236.6,
         "bValue": 70,
         "ratio": 3.38,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Football field",
@@ -4142,7 +4564,8 @@ module.exports = [
         "aValue": 109.7,
         "bValue": 2.4,
         "ratio": 45.7083,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Whale shark",
@@ -4151,7 +4574,8 @@ module.exports = [
         "aValue": 15000,
         "bValue": 500,
         "ratio": 30.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Bald eagle",
@@ -4160,7 +4584,8 @@ module.exports = [
         "aValue": 2.3,
         "bValue": 1.6,
         "ratio": 1.4375,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -4173,7 +4598,8 @@ module.exports = [
         "aValue": 111,
         "bValue": 4.3,
         "ratio": 25.814,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Great Pyramid of Giza",
@@ -4182,7 +4608,8 @@ module.exports = [
         "aValue": 139.2,
         "bValue": 96,
         "ratio": 1.45,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Ambulance",
@@ -4191,7 +4618,8 @@ module.exports = [
         "aValue": 3769.5,
         "bValue": 70,
         "ratio": 53.85,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Swan",
@@ -4200,7 +4628,8 @@ module.exports = [
         "aValue": 2.4,
         "bValue": 0.1,
         "ratio": 24.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Concorde",
@@ -4209,7 +4638,8 @@ module.exports = [
         "aValue": 62,
         "bValue": 6,
         "ratio": 10.3333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -4222,7 +4652,8 @@ module.exports = [
         "aValue": 3.5,
         "bValue": 0.5,
         "ratio": 7.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Motorcycle",
@@ -4231,7 +4662,8 @@ module.exports = [
         "aValue": 199.5,
         "bValue": 150,
         "ratio": 1.33,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       },
       {
         "a": "Pan-American Highway",
@@ -4240,7 +4672,8 @@ module.exports = [
         "aValue": 923.1,
         "bValue": 10,
         "ratio": 92.31,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Airbus A320",
@@ -4249,7 +4682,8 @@ module.exports = [
         "aValue": 35.8,
         "bValue": 0.7,
         "ratio": 51.1429,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Giant sequoia",
@@ -4258,7 +4692,8 @@ module.exports = [
         "aValue": 85.01,
         "bValue": 2.1,
         "ratio": 40.481,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -4271,7 +4706,8 @@ module.exports = [
         "aValue": 100.0,
         "bValue": 2,
         "ratio": 50.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Millennium Bridge",
@@ -4280,7 +4716,8 @@ module.exports = [
         "aValue": 175000.0,
         "bValue": 3500,
         "ratio": 50.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Tokyo Skytree",
@@ -4289,7 +4726,8 @@ module.exports = [
         "aValue": 634.68,
         "bValue": 172,
         "ratio": 3.69,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Andean condor",
@@ -4298,7 +4736,8 @@ module.exports = [
         "aValue": 2.67,
         "bValue": 0.1,
         "ratio": 26.7,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Sheep",
@@ -4307,7 +4746,8 @@ module.exports = [
         "aValue": 62.5,
         "bValue": 25,
         "ratio": 2.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       }
     ]
   },
@@ -4320,7 +4760,8 @@ module.exports = [
         "aValue": 74,
         "bValue": 18,
         "ratio": 4.1111,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "B-2 Spirit",
@@ -4329,7 +4770,8 @@ module.exports = [
         "aValue": 52.39,
         "bValue": 2.4,
         "ratio": 21.8292,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Bamboo",
@@ -4338,7 +4780,8 @@ module.exports = [
         "aValue": 20,
         "bValue": 3.2,
         "ratio": 6.25,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Shipping container",
@@ -4347,7 +4790,8 @@ module.exports = [
         "aValue": 3800.0,
         "bValue": 1000,
         "ratio": 3.8,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Golden Gate Bridge",
@@ -4356,7 +4800,8 @@ module.exports = [
         "aValue": 2736.89,
         "bValue": 37,
         "ratio": 73.97,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -4369,7 +4814,8 @@ module.exports = [
         "aValue": 49.56,
         "bValue": 3.5,
         "ratio": 14.16,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Polar bear",
@@ -4378,7 +4824,8 @@ module.exports = [
         "aValue": 140.0,
         "bValue": 70,
         "ratio": 2.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Seine",
@@ -4387,7 +4834,8 @@ module.exports = [
         "aValue": 321.0,
         "bValue": 50,
         "ratio": 6.42,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       },
       {
         "a": "Koala",
@@ -4396,7 +4844,8 @@ module.exports = [
         "aValue": 8.88,
         "bValue": 4,
         "ratio": 2.22,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Bat",
@@ -4405,7 +4854,8 @@ module.exports = [
         "aValue": 0.25,
         "bValue": 0.15,
         "ratio": 1.6667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       }
     ]
   },
@@ -4418,7 +4868,8 @@ module.exports = [
         "aValue": 1225.0,
         "bValue": 72.7,
         "ratio": 16.8501,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Oak tree",
@@ -4427,7 +4878,8 @@ module.exports = [
         "aValue": 20.0,
         "bValue": 1.5,
         "ratio": 13.3333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Giraffe",
@@ -4436,7 +4888,8 @@ module.exports = [
         "aValue": 1000.0,
         "bValue": 80,
         "ratio": 12.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Boeing 737",
@@ -4445,7 +4898,8 @@ module.exports = [
         "aValue": 35.8,
         "bValue": 3.5,
         "ratio": 10.2286,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Boeing 777",
@@ -4454,7 +4908,8 @@ module.exports = [
         "aValue": 74,
         "bValue": 2.4,
         "ratio": 30.8333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -4467,7 +4922,8 @@ module.exports = [
         "aValue": 553.22,
         "bValue": 139,
         "ratio": 3.98,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Cow",
@@ -4476,7 +4932,8 @@ module.exports = [
         "aValue": 650.0,
         "bValue": 10,
         "ratio": 65.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 100
       },
       {
         "a": "Boeing 777",
@@ -4485,7 +4942,8 @@ module.exports = [
         "aValue": 74,
         "bValue": 6,
         "ratio": 12.3333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Swan",
@@ -4494,7 +4952,8 @@ module.exports = [
         "aValue": 2.39,
         "bValue": 1.8,
         "ratio": 1.3278,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Mount Everest",
@@ -4503,7 +4962,8 @@ module.exports = [
         "aValue": 5309.4,
         "bValue": 60,
         "ratio": 88.49,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -4516,7 +4976,8 @@ module.exports = [
         "aValue": 65.0,
         "bValue": 20,
         "ratio": 3.25,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Saturn V rocket",
@@ -4525,7 +4986,8 @@ module.exports = [
         "aValue": 111,
         "bValue": 15000,
         "ratio": 0.0074,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Dromedary",
@@ -4534,7 +4996,8 @@ module.exports = [
         "aValue": 2.1,
         "bValue": 1.2,
         "ratio": 1.75,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Boeing 747",
@@ -4543,7 +5006,8 @@ module.exports = [
         "aValue": 68.4,
         "bValue": 3.5,
         "ratio": 19.5429,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Crocodile",
@@ -4552,7 +5016,8 @@ module.exports = [
         "aValue": 400,
         "bValue": 150,
         "ratio": 2.6667,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       }
     ]
   },
@@ -4565,7 +5030,8 @@ module.exports = [
         "aValue": 4365.63,
         "bValue": 111,
         "ratio": 39.33,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Andean condor",
@@ -4574,7 +5040,8 @@ module.exports = [
         "aValue": 2.9,
         "bValue": 2.0,
         "ratio": 1.45,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Douglas fir",
@@ -4583,7 +5050,8 @@ module.exports = [
         "aValue": 38.5,
         "bValue": 0.5,
         "ratio": 77.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Giraffe",
@@ -4592,7 +5060,8 @@ module.exports = [
         "aValue": 1000.0,
         "bValue": 100,
         "ratio": 10.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 20
       },
       {
         "a": "Mississippi River",
@@ -4601,7 +5070,8 @@ module.exports = [
         "aValue": 6278.0,
         "bValue": 1825,
         "ratio": 3.44,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -4614,7 +5084,8 @@ module.exports = [
         "aValue": 3.0,
         "bValue": 1.5,
         "ratio": 2.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Mount Everest",
@@ -4623,7 +5094,8 @@ module.exports = [
         "aValue": 8849.25,
         "bValue": 135,
         "ratio": 65.55,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Pickup truck",
@@ -4632,7 +5104,8 @@ module.exports = [
         "aValue": 4.28,
         "bValue": 2.1,
         "ratio": 2.0381,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Small car engine",
@@ -4641,7 +5114,8 @@ module.exports = [
         "aValue": 181.9,
         "bValue": 85,
         "ratio": 2.14,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "Cessna 172",
@@ -4650,7 +5124,8 @@ module.exports = [
         "aValue": 10.99,
         "bValue": 2.4,
         "ratio": 4.5792,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -4663,7 +5138,8 @@ module.exports = [
         "aValue": 330.0,
         "bValue": 12,
         "ratio": 27.5,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Douglas fir",
@@ -4672,7 +5148,8 @@ module.exports = [
         "aValue": 77.0,
         "bValue": 1.2,
         "ratio": 64.1667,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Rhino",
@@ -4681,7 +5158,8 @@ module.exports = [
         "aValue": 2300.0,
         "bValue": 100,
         "ratio": 23.0,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Concorde",
@@ -4690,7 +5168,8 @@ module.exports = [
         "aValue": 25.6,
         "bValue": 1.8,
         "ratio": 14.2222,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Tesla Model 3",
@@ -4699,7 +5178,8 @@ module.exports = [
         "aValue": 4.7,
         "bValue": 1.1,
         "ratio": 4.2727,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       }
     ]
   },
@@ -4712,7 +5192,8 @@ module.exports = [
         "aValue": 635.0,
         "bValue": 25,
         "ratio": 25.4,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Ambulance",
@@ -4721,7 +5202,8 @@ module.exports = [
         "aValue": 2917.5,
         "bValue": 250,
         "ratio": 11.67,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Double-decker bus",
@@ -4730,7 +5212,8 @@ module.exports = [
         "aValue": 11,
         "bValue": 6,
         "ratio": 1.8333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Boeing 737",
@@ -4739,7 +5222,8 @@ module.exports = [
         "aValue": 32.54,
         "bValue": 2.0,
         "ratio": 16.27,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Big Ben",
@@ -4748,7 +5232,8 @@ module.exports = [
         "aValue": 64.0,
         "bValue": 1.2,
         "ratio": 53.3333,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       }
     ]
   },
@@ -4761,7 +5246,8 @@ module.exports = [
         "aValue": 25.0,
         "bValue": 2,
         "ratio": 12.5,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Titanic",
@@ -4770,7 +5256,8 @@ module.exports = [
         "aValue": 268.98,
         "bValue": 6,
         "ratio": 44.83,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Denali",
@@ -4779,7 +5266,8 @@ module.exports = [
         "aValue": 6202.32,
         "bValue": 4808,
         "ratio": 1.29,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 4
       },
       {
         "a": "Golden eagle",
@@ -4788,7 +5276,8 @@ module.exports = [
         "aValue": 2.2,
         "bValue": 0.7,
         "ratio": 3.1429,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "Giant panda",
@@ -4797,7 +5286,8 @@ module.exports = [
         "aValue": 100.0,
         "bValue": 80,
         "ratio": 1.25,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 4
       }
     ]
   },
@@ -4810,7 +5300,8 @@ module.exports = [
         "aValue": 328.76,
         "bValue": 70.7,
         "ratio": 4.6501,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 10
       },
       {
         "a": "B-52 bomber",
@@ -4819,7 +5310,8 @@ module.exports = [
         "aValue": 63.92,
         "bValue": 1.7,
         "ratio": 37.6,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Petronas Towers",
@@ -4828,7 +5320,8 @@ module.exports = [
         "aValue": 451.82,
         "bValue": 38,
         "ratio": 11.89,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Airbus A320",
@@ -4837,7 +5330,8 @@ module.exports = [
         "aValue": 42000,
         "bValue": 1800,
         "ratio": 23.3333,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 50
       },
       {
         "a": "Seine",
@@ -4846,7 +5340,8 @@ module.exports = [
         "aValue": 777.0,
         "bValue": 37,
         "ratio": 21.0,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       }
     ]
   },
@@ -4859,7 +5354,8 @@ module.exports = [
         "aValue": 68.4,
         "bValue": 2.3,
         "ratio": 29.7391,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Denali",
@@ -4868,7 +5364,8 @@ module.exports = [
         "aValue": 6192.52,
         "bValue": 508,
         "ratio": 12.19,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 50
       },
       {
         "a": "Rhine",
@@ -4877,7 +5374,8 @@ module.exports = [
         "aValue": 1229.9,
         "bValue": 37.6,
         "ratio": 32.7101,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 100
       },
       {
         "a": "Ambulance",
@@ -4886,7 +5384,8 @@ module.exports = [
         "aValue": 3498.0,
         "bValue": 1100,
         "ratio": 3.18,
-        "unit": "kg"
+        "unit": "kg",
+        "sliderMax": 10
       },
       {
         "a": "F-22 Raptor",
@@ -4895,7 +5394,8 @@ module.exports = [
         "aValue": 13.59,
         "bValue": 1.4,
         "ratio": 9.7071,
-        "unit": "m"
+        "unit": "m",
+        "sliderMax": 20
       }
     ]
   }

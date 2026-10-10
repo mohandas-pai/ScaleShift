@@ -2,7 +2,8 @@ const {
   getDayIndex,
   getRound,
   getHint,
-  buildQuestion
+  buildQuestion,
+  getComparison
 } = require("../lib/shared");
 
 exports.handler = async function (event) {
@@ -26,7 +27,7 @@ exports.handler = async function (event) {
       };
     }
 
-    const hint = getHint(dayIndex, roundIndex, round);
+    const comparison = getComparison(round);
 
     return {
       statusCode: 200,
@@ -39,11 +40,14 @@ exports.handler = async function (event) {
         roundIndex,
         question: buildQuestion(round),
         round: {
-          a: round.a,
-          b: round.b,
+          a: comparison.targetObject,
+          b: comparison.baseObject,
           dimension: round.dimension,
           unit: round.unit,
-          ...(hint ? { hint } : {})
+          baseObject: comparison.baseObject,
+          baseValue: comparison.baseValue,
+          targetObject: comparison.targetObject,
+          sliderMax: Number(round.sliderMax || 100)
         }
       })
     };

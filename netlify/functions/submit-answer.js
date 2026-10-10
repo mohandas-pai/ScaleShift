@@ -1,4 +1,4 @@
-const { getDayIndex, getRound, scoreRatio } = require("../lib/shared");
+const { getDayIndex, getRound, scoreRatio, getComparison } = require("../lib/shared");
 
 exports.handler = async function (event) {
   try {
@@ -16,7 +16,7 @@ exports.handler = async function (event) {
 
     if (
       !Number.isInteger(roundIndex) || roundIndex < 0 || roundIndex > 4 ||
-      !Number.isFinite(guess) || guess < 1.1 || guess > 100
+      !Number.isFinite(guess) || guess < 1 || guess > 100
     ) {
       return {
         statusCode: 400,
@@ -36,7 +36,9 @@ exports.handler = async function (event) {
       };
     }
 
-    const score = scoreRatio(guess, Number(round.ratio), dayIndex);
+    const comparison = getComparison(round);
+    const trueRatio = comparison.ratio;
+    const score = scoreRatio(guess, trueRatio, dayIndex);
 
     // Answers are returned only after a submission.
     return {
@@ -47,9 +49,11 @@ exports.handler = async function (event) {
       },
       body: JSON.stringify({
         score,
-        ratio: Number(round.ratio),
-        aValue: Number(round.aValue),
-        bValue: Number(round.bValue),
+        ratio: trueRatio,
+        aValue: Number(comparison.targetValue),
+        bValue: Number(comparison.baseValue),
+        targetObject: comparison.targetObject,
+        baseObject: comparison.baseObject,
         unit: round.unit
       })
     };

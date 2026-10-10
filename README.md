@@ -112,3 +112,8 @@ Push the project to your connected GitHub repository and Netlify will deploy it 
 - Build command: none
 
 If the GitHub repository is public, make it private or remove old Git history first: previous commits may still contain the original public puzzle data.
+
+
+## Dynamic slider ranges
+
+For challenges starting on October 11, each question uses a predefined slider maximum selected from 4×, 10×, 20×, 50×, or 100×. The minimum remains 1×, and the logarithmic slider maps its positions to that question's range. The first three published challenges retain their original 1×–100× slider. The scoring function still compares guesses to the true ratio using multiplicative error, so score thresholds are independent of the slider range. The range is intentionally never narrower than 1×–4×.

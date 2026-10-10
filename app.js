@@ -4,7 +4,7 @@
 
 const TOTAL_ROUNDS = 5;
 const QUESTION_TIME = 45;
-const MIN_RATIO = 1.1;
+const MIN_RATIO = 1;
 const MAX_RATIO = 100;
 const SLIDER_STEPS = 1000;
 
@@ -331,14 +331,28 @@ document.getElementById("sound-toggle")?.addEventListener("click", event => {
   toggleSound();
 });
 
-function ratioToSliderPosition(ratio) {
-  const bounded = Math.min(MAX_RATIO, Math.max(MIN_RATIO, ratio));
-  return Math.round(Math.log(bounded / MIN_RATIO) / Math.log(MAX_RATIO / MIN_RATIO) * SLIDER_STEPS);
+function ratioToSliderPosition(ratio, maxRatio = MAX_RATIO) {
+  const safeMax = Math.max(MIN_RATIO + 0.001, Number(maxRatio) || MAX_RATIO);
+  const bounded = Math.min(safeMax, Math.max(MIN_RATIO, Number(ratio)));
+  return Math.round(Math.log(bounded / MIN_RATIO) / Math.log(safeMax / MIN_RATIO) * SLIDER_STEPS);
 }
 
-function sliderPositionToRatio(position) {
+function sliderPositionToRatio(position, maxRatio = MAX_RATIO) {
+  const safeMax = Math.max(MIN_RATIO + 0.001, Number(maxRatio) || MAX_RATIO);
   const fraction = Number(position) / SLIDER_STEPS;
-  return MIN_RATIO * Math.pow(MAX_RATIO / MIN_RATIO, fraction);
+  return MIN_RATIO * Math.pow(safeMax / MIN_RATIO, fraction);
+}
+
+function getSliderMarkers(maxRatio) {
+  const candidates = [1, 2, 5, 10, 20, 50, 100];
+  const markers = candidates.filter(value => value < maxRatio);
+  markers.push(maxRatio);
+  return markers.map((value, index) => {
+    const left = Math.log(value / MIN_RATIO) / Math.log(maxRatio / MIN_RATIO) * 100;
+    const transform = index === 0 ? "translateX(0)" :
+      index === markers.length - 1 ? "translateX(-100%)" : "translateX(-50%)";
+    return `<span style="left:${left}%;transform:${transform}">${value}×</span>`;
+  }).join("");
 }
 
 function render() {
@@ -350,13 +364,25 @@ function render() {
   }
 
   const round = todayData;
-  const hintMarkup = round.hint
-    ? `<div class="hint-box">
-         <div class="hint-label">REFERENCE VALUE</div>
-         <div class="hint-object">${round.hint.object}</div>
-         <div class="hint-value">${formatValue(round.hint.value, round.hint.unit)}</div>
-       </div>`
-    : "";
+  const baseValue = Number(round.baseValue);
+  const baseObject = round.baseObject || round.b;
+  const targetObject = round.targetObject || round.a;
+  const sliderMax = Math.max(4, Math.min(MAX_RATIO, Number(round.sliderMax) || MAX_RATIO));
+  // Start at a neutral midpoint on the logarithmic scale, not at the answer.
+  const initialRatio = Math.sqrt(sliderMax);
+  const initialEstimate = baseValue * initialRatio;
+  const estimateMarkup = `
+    <div class="estimate-guide">
+      <div class="estimate-value-card">
+        <div class="estimate-label">${baseObject} · Base value</div>
+        <div class="estimate-number">${formatValue(baseValue, round.unit)}</div>
+      </div>
+      <div class="estimate-arrow" aria-hidden="true">→</div>
+      <div class="estimate-value-card target">
+        <div class="estimate-label">${targetObject} · Your estimate</div>
+        <div class="estimate-number" id="estimated-value">${formatValue(initialEstimate, round.unit)}</div>
+      </div>
+    </div>`;
 
   card.innerHTML = `
     <div class="progress-dots" aria-label="Round progress">
@@ -377,30 +403,35 @@ function render() {
     <div class="timer-track"><div class="timer-fill" id="timer-fill"></div></div>
 
     <div class="question">${round.question}</div>
-    ${hintMarkup}
+    ${estimateMarkup}
 
     <div class="slider-container">
       <input type="range" id="ratio-slider" min="0" max="${SLIDER_STEPS}" step="1"
-        value="${ratioToSliderPosition(5)}" aria-label="Your ratio estimate">
+        value="${ratioToSliderPosition(initialRatio, sliderMax)}" aria-label="Your ratio estimate">
       <div class="slider-markers" aria-hidden="true">
-        <span>1.1×</span><span>2×</span><span>5×</span><span>10×</span><span>20×</span><span>50×</span><span>100×</span>
+        ${getSliderMarkers(sliderMax)}
       </div>
     </div>
 
-    <div class="guess-display" id="guess-value">5.0×</div>
+    <div class="guess-display" id="guess-value">${formatRatio(initialRatio)}</div>
     <div class="guess-label">Your estimate</div>
     <button class="btn-primary" id="lock-btn">Lock In</button>
   `;
 
   const slider = document.getElementById("ratio-slider");
   const display = document.getElementById("guess-value");
+  const estimateDisplay = document.getElementById("estimated-value");
+  const baseValueForEstimate = Number(round.baseValue);
 
   const updateSlider = () => {
     const position = Number(slider.value);
-    const ratio = sliderPositionToRatio(position);
+    const ratio = sliderPositionToRatio(position, sliderMax);
     const percentage = (position / SLIDER_STEPS) * 100;
     slider.style.setProperty("--progress", `${percentage}%`);
     display.textContent = `${ratio.toFixed(1)}×`;
+    if (estimateDisplay) {
+      estimateDisplay.textContent = formatValue(baseValueForEstimate * ratio, round.unit);
+    }
 
     // Avoid repeatedly restarting an audio file while the user drags.
     const now = Date.now();

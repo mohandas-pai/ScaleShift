@@ -156,13 +156,24 @@ function getDimensionVerb(dimension) {
   }
 }
 
+function getComparison(round) {
+  // Use the smaller measurement as the base and estimate the larger value.
+  const aValue = Number(round.aValue);
+  const bValue = Number(round.bValue);
+  if (aValue >= bValue) {
+    return { baseObject: round.b, baseValue: bValue, targetObject: round.a, targetValue: aValue, ratio: aValue / bValue };
+  }
+  return { baseObject: round.a, baseValue: aValue, targetObject: round.b, targetValue: bValue, ratio: bValue / aValue };
+}
+
 function buildQuestion(round) {
+  const comparison = getComparison(round);
   switch (round.dimension) {
-    case "length": return `How many times longer is ${round.a} than ${round.b}?`;
-    case "height": return `How many times taller is ${round.a} than ${round.b}?`;
-    case "weight": return `How many times heavier is ${round.a} than ${round.b}?`;
-    case "wingspan": return `How many times wider is ${round.a}'s wingspan than ${round.b}'s?`;
-    default: return `How many times bigger is ${round.a} than ${round.b}?`;
+    case "length": return `How many times longer is ${comparison.targetObject} than ${comparison.baseObject}?`;
+    case "height": return `How many times taller is ${comparison.targetObject} than ${comparison.baseObject}?`;
+    case "weight": return `How many times heavier is ${comparison.targetObject} than ${comparison.baseObject}?`;
+    case "wingspan": return `How many times wider is ${comparison.targetObject}'s wingspan than ${comparison.baseObject}'s?`;
+    default: return `How many times bigger is ${comparison.targetObject} than ${comparison.baseObject}?`;
   }
 }
 
@@ -173,5 +184,6 @@ module.exports = {
   getHint,
   scoreRatio,
   getDimensionVerb,
-  buildQuestion
+  buildQuestion,
+  getComparison
 };
